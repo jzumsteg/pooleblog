@@ -1,7 +1,9 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Travel Blog Attempt 3
+description: Will it work or will it won't?
+# url: https://vszhub.github.io
+url: ''
+baseurl: ''
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
