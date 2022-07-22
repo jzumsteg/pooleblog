@@ -13,7 +13,7 @@ We actually have an old connection with St. Louis. In 1853 my great-grandfather,
 
 Today there are quite a few Zumstegs in Missouri. Craig said that he once started to spell his name for someone and they stopped him, since they knew other Zumstegs. Someday we'll make a run up to Memphis (population: 1,700) to see the town where my grandfather was born, and visit the cemetery where his parents (my great-grandparents) and several siblings are buried.
 
-As for my great-grandfather Wendall Zumsteg, I have no information about his history in the United States. But he lives on: my grandfather's name was Jacob Wendell Zumsteg, and my middle name is Wendell.
+As for my great-grandfather Wendell Zumsteg, I have no information about his history in the United States. But he lives on: my grandfather's name was Jacob Wendell Zumsteg, and my middle name is Wendell.
 <h2>The Trip</h2>
 I think both regular readers of this blog know that our daughter-in-law, Annie, is hands-down the best daughter-in-law ever. No, really. When we were in St. Louis in October, we planned to bring up whether we should come back for Christmas, knowing that it was only two months away, and knowing that sometimes guests can come a little too often and stay a little too long. We didn't get a chance to bring up the subject; Annie asked us to please, please come at Christmas. We pointed out that we didn't want to leave Derek alone in Portland, so she texted him an invite and by the next day it was all confirmed: all the Z's would be in St. Louis for the holidays. We think it's been at least 25 years since we've all been together, and then, Craig and Annie didn't even know each other and grandkid Z's were a long way off.
 
