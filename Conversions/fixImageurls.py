@@ -23,7 +23,7 @@ def main():
 					assetStr = urlGrp.group()
 
 					brackets = "{{"
-					newStr = f'<img src= "{brackets} "{assetStr} | prepend: site.baseurl | prepend: site.url}}" alt="Image" />'
+					newStr = f'<img src= "{brackets}{assetStr} | prepend: site.baseurl | prepend: site.url }}" alt="Image" />'
 					print(newStr)
 					
 					mdStr = mdStr.replace(imgstr, newStr)
