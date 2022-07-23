@@ -1,9 +1,10 @@
 # Setup
 title: Travels with the Zums
 description: Come along with us.
-# url: https://vszhub.github.io
 url: 'https://jzumsteg.github.io'
 baseurl: '/pooleblog'
+# url: ''
+# baseurl: ''
 avatar: /assets/icons/cv.jpg
 paginate: 5
 permalink: pretty
