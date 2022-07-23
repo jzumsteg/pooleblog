@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this blog is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!
+I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this post is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!
 <h2>Some St. Louis Background</h2>
 We actually have an old connection with St. Louis. In 1853 my great-grandfather, Widillin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few - &nbsp;Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
 
