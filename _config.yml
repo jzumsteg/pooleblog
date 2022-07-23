@@ -16,6 +16,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Optimize Jekyll
 exclude:
@@ -56,6 +57,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: John Zumsteg
+  url: https://github.com/jzumsteg/
+  email: john.zumsteg@gmail.com
