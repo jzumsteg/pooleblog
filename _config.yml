@@ -1,10 +1,10 @@
 # Setup
-title: Travel Blog Attempt 3
-description: Will it work or will it won't?
+title: Travels with the Zums
+description: Come along with us.
 # url: https://vszhub.github.io
 url: 'https://jzumsteg.github.io'
 baseurl: '/pooleblog'
-avatar: /avatar.jpeg
+avatar: /assets/icons/cv.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
