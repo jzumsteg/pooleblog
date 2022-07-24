@@ -11,7 +11,7 @@ We're back in our favorite city, La Rochelle. We love this place and find that w
 <h2>Le P'tit Bleu</h2>
 La Rochelle is on the Atlantic coast, and the old city is ranged around an ancient harbor, so it stands to reason that La Rochelle would have some good seafood restaurants. In fact, it has hundreds. One of our very favorites, though, may not qualify as a real restaurant. This is Le P'tit Bleu, which stands on the promenade along the old harbor.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04755.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Le P'tit Bleu. Maybe not a real restaurant as such, but the best grilled calamari ever, and fabulous mussels (moules).</em></figcaption>
 </figure>
@@ -20,7 +20,7 @@ La Rochelle is on the Atlantic coast, and the old city is ranged around an ancie
 
 Though I'm not a fan of food-photos, here's the calamar grillé.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04753.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Though I'm not a fan of food-photos, here's the calamar grillé.
 
 Here's the view to the west from the eating area of Le P'tit Bleu, looking out the mouth of the La Rochell harbor. The two towers were build in the 14th and 15th centuries:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04751.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Here's the view to the west from the eating area of Le P'tit Bleu, looking out t
 
 And to the east, looking at the restaurants ringing the old harbor.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04754.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -47,7 +47,7 @@ And to the east, looking at the restaurants ringing the old harbor.
 
 Another good thing about Le P'tit Bleu: you can have six or seven glasses of wine with dinner, because they give you glasses that are more like slightly large thimbles.Here's Laurie ready for her first glass:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/07/DSC04750.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -56,7 +56,7 @@ Another good thing about Le P'tit Bleu: you can have six or seven glasses of win
 <h2>The Harbor</h2>
 We were worried last year about visiting here in July, as that is when French families come here - in droves - on vacation, and we usually aren't too excited about being in a place full of tourists. But we found that it was great fun to be part of the tourist crowd, part of the families enjoying it here. Look at this picture taken along the waterfront: there are young couples, old couples, in-between couples, families, singles, everything, just enjoying a beautiful evening. I might also point out that this picture was taken at about 8:30 o'clock at night. Sunset here is about 9:50, which makes for beautiful evenings.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04757.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

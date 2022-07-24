@@ -15,11 +15,11 @@ Paris is a city that rewards looking up; the buildings are (almost) all beautifu
 
 <img style="display: block; margin-left: auto; margin-right: auto;" title="Paris buildings 1.jpg" src="http:/assets/images/2013/06/Paris-buildings-1.jpg" alt="Paris buildings 1" width="500" height="297" border="0" />
 
-<figure class="portrait">
+<figure class = "landscape" class="portrait">
 	<img src="{{"/assets/images/2013/06/Promenade-Plantee.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>We walked along Promenade Plantée, a converted train viaduct in the middle of the 12th arrondissement. Now it's a beautifully planted walk above the city. This offers an unusual view of Paris, as the Promenade is about 30 feet above ground level for much of its route, so you're always looking down on streets and buildings. This was a railroad track to Bastille until the 1960s, and was converted to a promenade in the 70's</em></figcaption>
 </figure>
-<figure class="portrait">
+<figure class = "landscape" class="portrait">
 	<img src="{{"/assets/images/2013/06/Lafayette-grave.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Lafayettte's grave</em></figcaption>
 </figure>

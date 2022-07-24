@@ -13,19 +13,19 @@ Vaux-le-Compte has quite a history. Before 1657 it was a small chateau and garde
 
 (Full disclosure: because we were there at night and I didn't want to drag a tripod around, I took zero pictures; these are taken from the Web).
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/0_Maincy_-_Château_de_Vaux-le-Vicomte_2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/www.MyGorgeousWedding.com-GET-MARRIED-A-LA-FRANCAISE-VAUX-LE-VICOMTE-8-1024x682.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2015/09/epic_11.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -33,14 +33,14 @@ Vaux-le-Compte has quite a history. Before 1657 it was a small chateau and garde
 
 We were there for the night visit, so here's a picture of the chateau with its 2,000 candles. It was truly a beautiful sight.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/61491-vaux-le-vicomte-soiree-aux-chandelles.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Mary took this picture of Laurie and me. Not many pictures of me in this blog, as I'm usually doing the picture-taking.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/DSCF0061-1024x768.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

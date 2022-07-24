@@ -30,14 +30,14 @@ Total trip: 13 days, 3,317 miles, 63 hours of driving time.
 <h2>Jackson Hole</h2>
 Jackson Hole is the home of Grand Teton National Park. To say the Grand Teton mountains are spectacular would be quite the understatement. These things just jut straight up out of a valley.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/Wyo-1-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Grand Tetons, seen from just a few yards from our friends' condo.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09167-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -53,7 +53,7 @@ In 1942, frustrated by federal inaction on accepting his land as a gift and addi
 We'd heard much about the town of Jackson, which is about 15 miles south of the park itself.  We drove through Jackson as we arrived and vowed to not return for a closer look. Faux-Western buildings, souvenir shops everywhere, chi-chi restaurants, art galleries etc., the whole place jammed with tourists. It seems that the town of Jackson has one purpose: extract dollars from the wallets of tourists. Not a place for us.
 <h2>Chapel of the Transfiguration</h2>
 How's this for wonderful place to get married? Eric and Shelley tied the knot here!
-<h2><figure>
+<h2><figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09160-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -62,63 +62,63 @@ How's this for wonderful place to get married? Eric and Shelley tied the knot he
 The Gros Ventre Slide</h2>
 In 1925 a mountainside across the valley from the Grand Teton mountains broke loose and crashed into the valley below. Fifty million (!!) cubic yards of soil and rocks and trees slid into the valley, damming the river and sending a wave of dirt and rocks 300 feet up the opposite side of the canyon. We took a trail walk through the area and tried to imagine what that wall of destruction looked like.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09193-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The bare spots on the mountain in the distance is where the Gros Ventre slide occurred. The rock in the foreground came from there, in a wall of dirt and rocks that washed to where we were standing, more than 300 ft above the valley floor.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09207.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Shelley and Laurie enjoying a BIG rock that came from the mountainside about half a mile away.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09191-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <h2>Some More Jackson Hole Photos</h2>
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09194-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Lots of wildflowers!</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09222-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09211-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Aspen trees in Eric and Shelley's back yard. We love these trees; at the slightest breeze, the leaves move a bit and the tree just shimmers.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09216-1024x438.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Grand Tetons just after sunset.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/moose-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is one large and impressive bull moose! Photo credit goes to Eric.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/sunset-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Tetons at sunset - taken by our friend Shelley.</em></figcaption>
 </figure>
@@ -127,7 +127,7 @@ In 1925 a mountainside across the valley from the Grand Teton mountains broke lo
 
 This is one absolutely beautiful area - often breathtaking. Always breathtaking. We'll be back. We were, of course, spoiled by the wonderful hospitality of our hosts, Eric and Shelley. As an example of that hospitality, here's a picture of one meal:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09180-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The question is, of course; did we have waffles for dinner or champagne for breakfast? You choose. I might point out that on the waffle is a roasted-walnut/bourbon syrup; we ate well.</em></figcaption>
 </figure>
@@ -136,21 +136,21 @@ This is one absolutely beautiful area - often breathtaking. Always breathtaking
 <h2>From Jackson Hole to Buffalo</h2>
 This is a drive from the northwestern corner of Wyoming to the center and then up to the northeastern part. You see a lot of sagebrush on this drive! But we also saw some pretty spectacular scenery.
 <h3><strong>On the Togwotee Pass (pronounced "to-ga-dee"):</strong></h3>
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09346-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The pass tops out at 9,659 ft. The tops of this rock formation are about 11,500 ft. This is a high state!</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09235-1024x426.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Some years ago, when I was doing consulting work in Wyoming, I passed this roadside sign. Wyoming has many markers showing the age of rocks seen from the road, but this one caught my eye. To my later regret, I didn't stop and pick up a rock.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09244-1024x548.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -161,7 +161,7 @@ This is probably the oldest rock in the United States and, for some years, was i
 
 And here it is!
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/My-Old-Rock.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>My 3 billion year old rock.</em></figcaption>
 </figure>
@@ -173,12 +173,12 @@ Laurie and I are "rut nuts;" that is, enthusiasts of the Oregon and California T
 Our first trail-seeking adventure on this ramble was a dirt road that goes southwest out of Casper. This road is there because the trail went through there 170 years ago, and was used by later inhabitants of the area. We drove for about three hours, saw exactly zero other vehicles or persons and looked for some trail tracks. At first I couldn't find any visible traces, and wondered if it wasn't actually in this area; it's not as if there are road signs to it.
 <h3>Wall of Rocks</h3>
 This geological feature was a landmark on the Oregon/California Trail. I'd read that it was on this road but had forgotten until I saw the actual thing, at which point I practically shouted, "The Wall of Rocks! The wagons went right by here." At least we knew we were on the right track.
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09258-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09256-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -188,7 +188,7 @@ We stopped to walk around, because the emigrant wagon trains would have gone pas
 
 Unfortunately, what the eye can see often does not show up well in photographs. In the picture below is a line where the ground-covering is lighter - this is the path of wagons through this area. In the foreground we could see a "swale," a depression in the ground where the wagons traveled - this isn't visible in the photo. Rarely do you see actual ruts, because the wagons did not follow each other exactly; they would spread out some, forming that depression.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09260-1013x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -198,7 +198,7 @@ I realize that a common reaction to my Oregon Trail ramblings is "meh," but we f
 <h2>The Guernsey Ruts</h2>
 The Guernsey ruts are touted as the best and clearest ruts to be seen on the Oregon Trail. Here there is a path where the ruts are four feet deep! But as the Orange One would say, that's kind of Fake News. The wagons did pass through here, but those deep ruts were created later by commercial wagons carrying limestone. However, walking a ways off the main ruts, you come across this:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09284-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Here you can clearly see the swale - the depression in the ground - created by the thousands of wagons that passed this way.</em></figcaption>
 </figure>
@@ -211,40 +211,40 @@ After decommissioning in 1890, the fort fell into disrepair. Many of the buildin
 
 I asked a ranger where the park service had gotten all the furniture and clothes and fittings that reflect when the fort was active. He said that many pieces of furniture were returned to the fort by the descendants of families who had obtained them in that "going out of business" auction in 1890; many of the chairs and tables and beds and bookcases and so forth were actually used when Ft. Laramie was an active army fort.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09286-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Mess Hall at Fort Laramie. Some of what you see are reproductions, but much of it was actually used when the fort was active.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09288-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>I love this room - the barracks of the enlisted cavalry troops. The park ranger told me much of this is reproduction, but it's still impressive.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09290-1-1024x639.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The surgeon's quarters. Here almost everything was actually at the fort when it was active.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09292-1-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The commanding officer's quarters.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09299-1024x485.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09297-1024x618.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -258,12 +258,12 @@ The adventure in Casper was the drive on a dirt road that covered the Oregon tra
 <h2>From Casper to Cheyenne</h2>
 From Casper we went to Cheyenne, in the southeastern corner of Wyoming. Cheyenne is about a three hour drive from Casper, but we took one really nice detour. As we were headed down the freeway (at 80 mph and being passed constantly), we saw a sign for a road to a natural arch. Well, we'd never seen such a thing and we were on no schedule, so off we went. We found a beautiful county park with, indeed, a natural arch across LePrele river.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09274-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09276-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -277,7 +277,7 @@ When I was doing consulting work here in the mid-2000s, I came to Cheyenne for t
 
 One thing Cheyenne has, like the rest of Wyoming, is great steaks. The first night we ate at my favorite Cheyenne restaurant, the Albany. I don't know how to describe the Albany, other than to say I'm not sure it's changed much since it opened in 1942. It's small - you might be able to squeeze 80 people in there, and in these times, the limit was closer to 40 folks. (As a side note, we found that Wyoming was pretty conscientious about following coronavirus guidelines: we saw few un-masked folks, and restaurants and stores were observing distancing guidelines, throughout the state. Our one stop in Montana was different: nobody was masked or distancing, even in restaurants.)
 
-Here's what we had:<figure>
+Here's what we had:<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/Wyo-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -288,12 +288,12 @@ That's about 12-14 ounces of really good prime rib, done perfectly, with a baked
 
 For breakfast, we had to go to the Luxury Diner. Unless a person knew something about the Luxury, he or she would drive right on past, never thinking about actually eating there. Mistake! The Luxury is an institution for a reason.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/luxury2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/Luxury.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -315,7 +315,7 @@ I used to have lunch here, too, and the lunches were top-notch. Love this place.
 <h2>The Ames Monument</h2>
 A friend asked me if we were going to see the Ames Monument, outside Cheyenne (trying, I think, to come up with something so oddball that I'd have to admit that, no, we weren't going to see that). I surprised him by saying that I'd already seen it and of course we'd go there. And we did.
 
-This was part of some off-the-main-roads traveling we did outside Cheyenne. After driving on a dirt road for an hour or so, we came to the Ames Monument which, fortunately, is about ten minutes from the freeway so we didn't have to drive back on that dirt road. Who were the Ames brothers and why is there a monument to them here?<figure>
+This was part of some off-the-main-roads traveling we did outside Cheyenne. After driving on a dirt road for an hour or so, we came to the Ames Monument which, fortunately, is about ten minutes from the freeway so we didn't have to drive back on that dirt road. Who were the Ames brothers and why is there a monument to them here?<figure class = "landscape">
 	<img src="{{"/assets/images/2020/08/DSC09333.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -331,24 +331,24 @@ After Cheyenne we went back to Jackson Hole to spend another couple days with Sh
 
 Central Idaho doesn't have much in the way of scenery, but Craters of the Moon is amazing. Somewhere around 12,000 years ago, lava started to flow in this area, covering over 600 square miles. The formations are nothing short of amazing.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09376.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>When I first looked at a hill made of volcanic ash, I couldn't figure out what the white spots were. A closer examination revealed them to be lichen of some sort. Both the lichen and the plants in this picture are growing on a surface with absolutely zero nutritional value. How do they do that?</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09375.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09372.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09374.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

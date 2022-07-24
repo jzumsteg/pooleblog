@@ -15,7 +15,7 @@ So after a fine "welcome back" breakfast chez Germain, we walked down to the lo
 
 The lock requires a dam that generally lowers the river about 12-15 feet between the levels above and below the lock. Saturday there was no drop, at all. Below, you see water running out of the main lock at Chartrettes.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/06/DSC09930.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -24,7 +24,7 @@ The lock requires a dam that generally lowers the river about 12-15 feet between
 
 Below, looking upstream from a bridge across the lock. Normally, the area from the right side to the fence along the left is above water; the level in the lock at its highest is about five feet below what you see here. The locks are, of course, not operating and the water is flowing over the lock gates at both ends.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/06/DSC09918.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Below, looking upstream from a bridge across the lock. Normally, the area from t
 
 The Seine here flows at about 2-3 miles per hour normally. Saturday I estimated it at about 15 miles per hour. So what you have is a river fifteen feet above normal level, traveling five times faster than normal, flooding banks on both sides, heading toward Paris, where it will join the Marne river - not as high, but way above normal - and enter Paris, where the Seine narrows to about two-thirds the width you see here. In Paris, the Seine peaked at about 20 feet above normal, flooding all the quai's and closing the Louvre and d'Orsay museums, which are both next to the river. I saw a photo of the main floor of the d'Orsay, with about two feet of water in it.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/06/DSC09924.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -42,7 +42,7 @@ The Seine here flows at about 2-3 miles per hour normally. Saturday I estimated 
 
 In the beautiful town of Samois-sur-Seine, where some people probably wished that the "sur-Seine" part of the name wasn't so literal:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/06/DSC09950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Sometimes river-front property is not so great...</em></figcaption>
 </figure>
@@ -51,7 +51,7 @@ In the beautiful town of Samois-sur-Seine, where some people probably wished tha
 
 But the boaters enjoyed exploring what is usually dry ground:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/06/DSC09929.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

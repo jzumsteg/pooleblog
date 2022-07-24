@@ -11,14 +11,14 @@ Today, we got back to our daily walks, and it felt good to be back and active ag
 
 Here's the road we walked along. About a third of the walk was on a trail, then we reached this road. Fortunately, not one car came along the road in the hour-plus that we were on it.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/07/DSC09078.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 We knew we were walking on the other side of the river from Thomery, and we knew we'd see some sights from that town, but this one surprised us:
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09059.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -26,14 +26,14 @@ We knew we were walking on the other side of the river from Thomery, and we knew
 This chateau, named "La Rivière," is on the northern edge of Thomery. We knew it was there from our earlier walk in Thomery, but we could not see it then. Today we saw it in its full glory. Rather nice, eh? The open windows indicate that someone is living there now. I'm trying to figure out to get a dinner invite, but since I don't even know who lives there, that might be difficult.
 
 After another ten minutes of walking we could see the small ancient port of Thomery and got a different and lovely view of it from across the river:
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09064.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09072.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -42,14 +42,14 @@ After another ten minutes of walking we could see the small ancient port of Thom
 Laurie likes the shutters and beautiful willow tree in the picture above.
 
 After sitting and enjoying this view for a while, it was off again. As we walked down the road we paralleled a railroad track and came to a road going under the track with this sign on it:
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09076.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 "Les Pressoirs du Roy" translates as "Presses of the King," presses in this case being cider or wine presses. Totally disregarding the Private Propery sign, we walked under the railroad and came upon this:
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09074.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

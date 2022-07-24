@@ -18,28 +18,28 @@ In fact, there isn't much to see at Zumwalt Prairie, in the usual tourist sense 
 <h2>Our Accommodations</h2>
 Now, given that there are only 800 people living in Joseph, one cannot expect a wide range of places to stay. There are a couple of motels that looked just fine, but we settled on a place with character and lots of it. This was one of those times where you hold your breath when you open the room door for the first time, but this time it worked out fine. It was, indeed, full of character - "rustic" might be the word. But it was fun and funky and the owner, Scott, was a character himself.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08704.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Mountain View RV Park and Motel. What could be better?</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08703.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Our luxurious room (on the right side). Marv and Becky were right next door and we shared a deck, so that was the site for morning coffee and evening cocktails. From here we had a view of the Wallowa Mountains to the south.</em></figcaption>
 </figure>
 
 
 <h2>The Duckett Barn</h2>
-This is one of just a few structures on the Zumwalt Prairie. At the Duckett Barn is a small display set up by the Nature Conservancy, with information about the preserve. We also had a personal interest in seeing the barn: we were with our Portland friends Marv and Becky and Becky's family is friends with the descendants of the Ducketts who built this barn. <figure>
+This is one of just a few structures on the Zumwalt Prairie. At the Duckett Barn is a small display set up by the Nature Conservancy, with information about the preserve. We also had a personal interest in seeing the barn: we were with our Portland friends Marv and Becky and Becky's family is friends with the descendants of the Ducketts who built this barn. <figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08773.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08723.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Marv and Becky looking out the door of the Duckett barn. We suspect the corrals and cattle loading ramps are still used, as there are a few cattle grazing in the area.</em></figcaption>
 </figure>
@@ -48,22 +48,22 @@ This is one of just a few structures on the Zumwalt Prairie. At the Duckett Barn
 <h2>Prairie Pictures</h2>
 These were taken from near the Duckett barn. You can see that, except for the fences, there are no signs that people have ever been here. It was, as you can imagine, as quiet as can be - only the sound of the wind stirring the grass.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08794.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08791.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08729.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08713.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -72,7 +72,7 @@ These were taken from near the Duckett barn. You can see that, except for the fe
 
 After spending time around Duckett barn, we drove down a rather rough road to reach Hell's Canyon. Here's the road, with Hell's Canyon in the distance.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08751.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Not exactly a great road! In the distance are the mountains that form the east side of Hell's Canyon. At this point, Hell's canyon is almost 8,500 feet deep - deeper than the Grand Canyon by a fair amount.</em></figcaption>
 </figure>
@@ -81,14 +81,14 @@ After spending time around Duckett barn, we drove down a rather rough road to re
 
 The second day in Joseph we decided that what we wanted to do most that day was go back to Zumwalt Prairie. This time Laurie and I walked up a trail to get a panoramic view. It was amazing.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08793.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The trail...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08806.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The view. From halfway up the hill, Laurie and I could see the Duckett barn off a ways.</em></figcaption>
 </figure>

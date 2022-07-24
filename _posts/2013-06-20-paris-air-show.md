@@ -17,7 +17,7 @@ The day started badly, though: at about five in the morning, we were awakened by
 We took the train to the le Bourget stop (the airshow is at the le Bourget airfield, where Lindberg landed after his solo transatlantic flight in 1927), and, as we got off the train, the skies opened up again. Fortunately we had umbrellas so we forged ahead to the shuttle bus and headed for the field. Then, just as we stepped off the bus at the entrance to the airfield, the sky lit up with a flash of lightning, and the clouds opened with another unbelievable downpour. We found shelter and waited it out, but there were hundreds of people in lines to get in, many in business suits, who were standing in the open and getting soaked to the skin. 
 
 Anyway, we finally got through the lines, received our entrance badges and made our way in. After wanting to do this for so long, I was at the Paris Air Show:
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2013/06/entrance.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Wet.</em></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Many companies display their aircraft on the flight line. I apologize for the qu
 One highlight of the flying demonstrations was by a French fighter, the Dassault Rafale; the things that pilot did were amazing. But the real highlight was the British Airways Airbus A380, doing steep climbs, turns and dives right over the airfield, all under a thousand feet or so; this flying demo was just amazing.
 [gallery link="files" ids="564,563"]
 An hour later, the Boeing 787 took off, with this pretty spectacular climb from the runway (note the landing gear still coming up):
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2013/06/b787-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Dreamliner take-off</em></figcaption>
 </figure>
@@ -42,7 +42,7 @@ An hour later, the Boeing 787 took off, with this pretty spectacular climb from 
 After that start, the Dreamliner flew a more sedate show than the A380 - don't know why. Still, it was pretty amazing to see, and there were several 787s on the flight line, so we were able to see it close up. We also stood right under the tail of the British Airways A380; geeze, that airplane is BIG!
 
 Le Bourget has a museum of flight, so there are some older airplanes there. In the midst of all these sleek modern aircraft was this Lockheed Super Constellation, designed in the early 1940s (the co-pilot on the first flight of the prototype was Eddie Allen, later President of Boeing) and flown until jet aircraft pushed it into obsolescence in the early 1960s. Maybe it's just me and my love of old airliners, but I think the Connie still looks beautiful, even when (maybe especially when) it's surrounded by modern airplanes.
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2013/06/connie-300x168.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

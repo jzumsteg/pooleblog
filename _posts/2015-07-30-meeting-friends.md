@@ -9,7 +9,7 @@ layout: post
 ---
 You know how it goes trying to get together with old friends: everyone's busy, schedules fill up, time gets short and soon, it's been way too long since you've seen them. I think that situation gets to the extreme, though, when you have to plan a get-together in Paris, but that's what we did the last week with long-time friends from Seattle.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC00959.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Our long-time friends Greg and Michele.</em></figcaption>
 </figure>
@@ -30,7 +30,7 @@ An amazing museum, worth a couple days of visiting, we think.
 
 We also found that the museum has a rather nice place to sit and rest.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC00953.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Hard to beat this view.</em></figcaption>
 </figure>
@@ -39,7 +39,7 @@ We also found that the museum has a rather nice place to sit and rest.
 
 Then Monday our friend Norma arrived in Paris. A month ago she emailed me about something and when I told her we were in France, she replied, "I'm coming to France!" and indeed she did. We met her Monday and spent a few hours in Paris.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC00967.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -49,13 +49,13 @@ Then Monday our friend Norma arrived in Paris. A month ago she emailed me about 
 Then we took the train to our France home-for-a-couple-months, Samois-sur-Seine.
 
 First on the next day's agenda: get cheese! Here's Norma at our favorite (well, favorite and only cheese shop).
-<p class="alignnone"><figure>
+<p class="alignnone"><figure class = "landscape">
 	<img src="{{"/assets/images/2015/07/DSC009721.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Tuesday we went to one of our favorite small towns, Moret-sur-Loing (for more on Moret, look at <a href="http://zumsteg.us/?p=323">Moret-sur-Loing, 2013</a>). Norma had exactly the same reaction we had two years ago: love at first sight. Moret remains a favorite place for us.
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC00975.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -69,7 +69,7 @@ We also had some very nice meals:
 
 Then, it was time to go...
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/07/IMG_0271.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

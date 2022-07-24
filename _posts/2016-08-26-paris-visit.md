@@ -13,7 +13,7 @@ As a follow-up to my "La France est Compliquée" posts, here's another example. 
 <h2>Cité de la Architecture et Patrimoine.</h2>
 This is likely our favorite museum in Paris. We returned - the fifth time we've been there - and still didn't see all we wanted to see. One floor of the museum is dedicated to models of buildings, with explanations showing the history of French architecture (in French, of course; between Laurie and I we can muddle through and understand. Mostly). Here is part of this floor:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05197.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -22,7 +22,7 @@ This is likely our favorite museum in Paris. We returned - the fifth time we've 
 
 The museum has a fair amount about le Corbusier, about whom I've posted (<a href="http://zumsteg.us/?p=3227">le Corbusier</a>). Here there is a unit from an apartment building in Marseille that he designed. We spent probably half an hour in it, and Laurie's favorite thing was:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05187.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -31,7 +31,7 @@ The museum has a fair amount about le Corbusier, about whom I've posted (<a hre
 
 The view is not bad from this museum...
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05199.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -42,14 +42,14 @@ This museum is worth a visit, for sure. In fact, we decided that when we return 
 <h2>Canal St. Martin</h2>
 This is probably our favorite walk in Paris, rain or shine (and it ended with rain this time). Canal St. Martin was build by Emperor Napoleon to bring water to Paris, to ease transportation by boats of goods into the city and, maybe most importantly, to put a physical barrier between Paris and the Saint Antoine quarter, a powerful working class area from which revolutions arose. In the 1960s, as the need for the canal declined, there was talk of filling it and doing something with this most valuable land. Wiser heads prevailed, and the canal has remained, a beautiful path through the city.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05207.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05211.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Boats still travel on Canal St. Martin, but they are tour boats or tourist barges; it's been a long time since we saw a commercial boat on Canal St. Martin.</em></figcaption>
 </figure>
@@ -60,12 +60,12 @@ For years I've gotten a big kick out of Rue du Faubourg-Saint-Antoine. This is a
 
 First, a couple pictures of Rue du Faubourg-Saint-Antoine. Actually, it seems a little calm here, on a Saturday morning, but you can see that it's a busy street.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05132.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05146.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -74,74 +74,74 @@ First, a couple pictures of Rue du Faubourg-Saint-Antoine. Actually, it seems a 
 
 Now for a look at the passages and courtyards that are connected to Rue du Faubourg-Saint-Antoine. None of these are visible from the street; you have to just walk down the street and when you see a big double door, see if it's open. I have no qualms about going into the ones with closed doors. In fact, several of these were behind a closed locked door, in which case we stood outside until someone with the passcode to the door came in or left, and then we entered before the door could close. No one ever said a word to us about why were were there.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05139.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>An old sign in one of the courtyards. We love seeing these vestiges of an older Paris.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05140.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Cour Bel Air, probably the prettiest courtyard on Rue du Faubourg-Saint-Antoine. Here there's a big sign blocking entry, so we asked the concierge if we could go in and look around. Pas de problème. She was as nice as could be.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05143.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Cour Bel Air</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05144.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Cour Bel Air</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Cour Bel Air</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05169.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Many of the courtyards and passages have connections to housing and decoration trades, a vestige of when this quartier was the home for those trades. This is a place that restores and repairs chairs. We looked in the windows, and it was amazing.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05149.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05152.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05153.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05162.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05164.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2016/08/DSC05167.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -150,17 +150,17 @@ Now for a look at the passages and courtyards that are connected to Rue du Faub
 
 One last detour, to Passage l'Homme, around the corner from Rue du Fauborg-Saint-Antoine. This is also a beautiful place, pretty much unknown.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05172.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05177.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC05180.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

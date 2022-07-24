@@ -21,7 +21,7 @@ They live in a lovely area of Kirkwood, a suburb of St. Louis proper. Their stre
 
 Moves are, of course, not ever trouble-free, and this one was no exception. Due to be delivered about July 2nd or 3rd, the furniture and household goods arrived the day after we arrived, July 26. So we got put to work; my job was to take the empty boxes to the garage, pull out all the paper packing and break the boxes down flat. I ended up with a lot of paper, and Henry and Clara had some fun with it. Here's a picture of Henry being thrown into the pile; he loved it!
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2021/08/DSC00064-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Henry in the air</em></figcaption>
 </figure>
@@ -30,7 +30,7 @@ Moves are, of course, not ever trouble-free, and this one was no exception. Due 
 
 And here's the new abode. Quite a change from their Elmsford house, which was about 40% the size and 60 years older!
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2021/08/DSC00070.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -45,7 +45,7 @@ Got the car, drove to Mary &amp; Gilles for a quick visit, went to our cottage, 
 
 In case you're wondering, we're in Bois-le-Roi, a town of about 6,000 folks, 50 km or so south of Paris. Real Soon Now, I'll post pictures so you can see it. In the meantime, here's our French "home-away-from-home," where we'll reside for two and a half months, except for a few rambles we have planned:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2021/08/DSC00111-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

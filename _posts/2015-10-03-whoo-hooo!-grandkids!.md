@@ -13,7 +13,7 @@ Clara celebrated her 5th birthday on September 20, so we brought an extended bir
 
 First, on with the outfit.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/10/DSC09430.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Grandma helping Clara show off her birthday present from us.</em></figcaption>
 </figure>
@@ -22,35 +22,35 @@ First, on with the outfit.
 
 Then, of course, everybody had to get their hair cut. This was, to say the least, a riot!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/10/DSC09435.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Grandma was up first.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/10/DSC09526.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>At first, Clara was pretty serious about her work...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09453.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Do not - really, do not - ask or comment on Granddad getting his haircut. Clara seemed to think it was slightly humorous. Granddad was not so sure...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09455.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Clara's problem cutting Craig's hair was that there wasn't much to cut.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/10/DSC09460.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Annie's turn in the barrel...</em></figcaption>
 </figure>
@@ -61,42 +61,42 @@ Phew, we all survived, but amazingly enough, Clara decided the next night that w
 <h2>And...announcing Henry George Zumsteg!</h2>
 Henry was born August 12, so he is seven weeks old. He is the smilingest seven week old kid I've ever seen. All you have to do is smile at him and he grins right back. Here's Henry:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09511.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09529.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09535.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09538.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09545.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/10/DSC09528.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

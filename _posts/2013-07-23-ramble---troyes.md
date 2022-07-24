@@ -23,7 +23,7 @@ Troyes' claim to fame is that, for some reason, the city has maintained hundreds
 
 <b>Iglise St. Madeline</b>
 I wanted to see this church because my guidebook said it has one of the few remaining "rood screens" in France. The rood screen - jubé in French - was a partition between the nave, where the parishioners sat for a Mass, and the choir, where the priests conducted the Mass. This jubé, besides being one of the last, is one of the most ornate - an example of Flamboyant Gothic sculpture.
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2013/07/DSC03522.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The jubé (rood screen in English) at St Madeline</em></figcaption>
 </figure>

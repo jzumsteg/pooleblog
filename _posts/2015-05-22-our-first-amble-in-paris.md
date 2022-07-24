@@ -13,21 +13,21 @@ Paris also rewards looking up. This city has thousands of beautiful buildings, f
 
 Now, the starting point of our walk is not likely to receive visits from tourists and, in fact, not much more likely to see Parisians. Here, the city of Paris raises all the plants and flowers that are used throughout the city. It also has a huge glass greenhouse containing many different types of palm trees and other tropical plants. In this huge garden - probably fifty acres of so - we saw one jogger, two mothers with strollers, and one other person.
 <h2>Ville de Paris Establissement Horticultural</h2>
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC047151.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04728.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The main dome - about 50 feet high - with a palm tree - about 49 feet high.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04742.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>All the working buildings look like this: beautiful.</em></figcaption>
 </figure>
@@ -39,49 +39,49 @@ The walk then took us through the neighborhood of Boulogne. Now, most Paris visi
 I thought that modern architecture in this city of old and beautiful buildings would be ugly, but I was wrong. In this area, which has many traditional and modern buildings, the modern buildings fit in well. I guess that beautiful buildings are beautiful, no matter where they are.
 
 Some highlights:
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04767.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04760.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04758.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/05/DSC04751.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 Conversely, an ugly building is an ugly building no matter where it is. This one is a miss - and a mess:
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04756.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Later in the day, after a rest and a bit of vino, we walked to a church nearby. This church is modeled after Hagia Sofia in Istanbul, and is way different than any other church we've seen in Paris or anywhere. It's a huge space inside, with a huge dome, as in Hagia Sofia. My photographic skills aren't up to conveying the sense of Eglise de Saint-Espiritu, but here's a picture looking up into the dome.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04775.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 And last, the front window of a store that repair sewing machines. Like the bookbinder, there can't be much call for the services offered here, but it survives, and we loved the window:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{"/assets/images/2015/05/DSC04778.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

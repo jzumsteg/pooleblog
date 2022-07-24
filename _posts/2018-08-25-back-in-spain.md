@@ -24,11 +24,11 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5417} -->
-<figure class="wp-block-image"><img src="{{"/assets/images/2018/08/DSC04550.jpg" alt="" class="wp-image-5417" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>The castillo of Zamora. We were watching this beautiful sunset when we heard flamenco dancers warming up inside the castillo.</figcaption></figure>
+<figure class = "portrait" class="wp-block-image"><img src="{{"/assets/images/2018/08/DSC04550.jpg" alt="" class="wp-image-5417" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>The castillo of Zamora. We were watching this beautiful sunset when we heard flamenco dancers warming up inside the castillo.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":5418,"width":580,"height":264} -->
-<figure class="wp-block-image is-resized"><img src="{{"/assets/images/2018/08/DSC04552.jpg" alt="" class="wp-image-5418" width="580" height="264" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
+<figure class = "portrait" class="wp-block-image is-resized"><img src="{{"/assets/images/2018/08/DSC04552.jpg" alt="" class="wp-image-5418" width="580" height="264" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
