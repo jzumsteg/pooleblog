@@ -6,6 +6,7 @@ category: St. Louis
 math: true
 mermaid: true
 layout: post
+toc: true
 ---
 I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this post is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!
 <h2>Some St. Louis Background</h2>
