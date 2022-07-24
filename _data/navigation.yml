@@ -1,4 +1,6 @@
-- title: Blog
+- title: Posts
   url: /
+- title: History
+  url: /history
 - title: About
   url: /about/
