@@ -4,10 +4,8 @@ from os.path import exists
 import re
 import shutil
 
-from sqlalchemy import true
-
 def main():
-	destBaseDir = "/Volumes/User Drive/Development/Jekyll/chirpy_blog/assets/images/"
+	destBaseDir = "/Volumes/User Drive/Development/Jekyll/pooleblog/assets/images/"
 	files = listFiles(destBaseDir)
 	if files != None:
 		# print(f'files: {files}\n')

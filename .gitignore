@@ -46,7 +46,7 @@ node_modules
 *.gem
 
 #images
-*.jpg
-*.jpeg
-*.svg
-*.png
+# *.jpg
+# *.jpeg
+# *.svg
+# *.png
