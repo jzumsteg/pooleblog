@@ -50,3 +50,6 @@ node_modules
 # *.jpeg
 # *.svg
 # *.png
+
+# don't need no python files
+*.py

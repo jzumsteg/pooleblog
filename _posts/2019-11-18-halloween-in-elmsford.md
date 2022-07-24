@@ -14,21 +14,21 @@ Now, this is going to be a long post so I want to first put in some pictures of 
 
 [caption id="attachment_6298" align="aligncenter" width="427"]
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.24.50-PM-673x1024.png"/>
+	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.24.50-PM-673x1024.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  Henry waving to the crowd as he starts the school parade. He's one of the Paw Patrol characters.[/caption]
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.26.09-PM-854x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.26.09-PM-854x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.29.58-PM-804x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.29.58-PM-804x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Clara and her best friend Daisy, going as a peanut and butter sandwich - Daisy is peanut butter and Clara jelly.</em></figcaption>
 </figure>
 
@@ -37,19 +37,19 @@ Now, this is going to be a long post so I want to first put in some pictures of 
 &nbsp;
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.27.40-PM-615x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.27.40-PM-615x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Tooth Fairy, as played by the principal of Clara and Henry's school. Gotta admire a guy who will do this!</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09053-3-835x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09053-3-835x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09056-3-818x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09056-3-818x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -64,28 +64,28 @@ Now it turned out that on Saturday, Annie needed some quiet time to work on a pr
 First we took a tram around the park, which was definitely Clara and Henry's high point of the day. From it we saw all the installations, many of which interested us greatly. Then we went back to see Andy Goldsworthy's wall. That was definitely the high point of the day for us.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08959.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08959.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Andy Goldsworthy's wall winding down a hillside among trees in their beautiful autumn colors.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08975.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08975.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>When the wall reaches a pond it goes into it and comes out the other side. I heard someone say that it actually goes underwater across the bottom of the pond but I didn't dive in to verify that.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08963.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08963.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08976.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08976.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>On the other side of the pond, the wall climbs a hillside.</em></figcaption>
 </figure>
 
@@ -96,26 +96,26 @@ Why we love Andy Goldsworthy's wall we can't explain. I guess that's art: you li
 Storm King has about 150 pieces of art spread throughout its 500 acres. This means that these sculptures - often big and sometimes huge - can be seen as they should be seen: in the open, with plenty of space around them.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08951.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08951.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>By Alexander Calder. I really liked this one, but then, I've always liked Calder. You can see the space for these sculptures in the Art Center.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08953.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08953.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <b><figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08980.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08980.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </b>
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08973.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08973.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is titled "Storm King Wavefield" and honestly, it look just like ocean waves. We liked this one a lot, too.</em></figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ Storm King has about 150 pieces of art spread throughout its 500 acres. This mea
 &nbsp;
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08956.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08956.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>No sculpture here, just Mother Nature saying, "You think those sculptures are so great? Look at this!"</em></figcaption>
 </figure>
 
@@ -135,36 +135,36 @@ We loved Storm King, and thank Craig and Clara and Henry for taking us there. We
 At the other end of the art spectrum is the Great Jack o'Lantern Blaze: more carved pumpkins than you thought could be gathered in one place. Held on the historic Van Cortland estate about 30 minutes north of Elmsford, it comprises over 10,000 (!) carved pumpkins. Now, maybe 2/3rds of them are not really pumpkins, but something that looks just like a carved pumpkin and assembled into: a forty-foot tall Statue of Liberty, dinosaurs, a unicorn, Washington Irving's Headless Horseman bridge, a sea serpent and many other installations. All the walkways and many of the installations had real carved pumpkins. Since this event goes for six weeks, those carved pumpkins have to be replaced as they spoil and so the organization has 1,000 volunteers who carve pumpkins - usually in amazing shapes.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08919.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08919.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie, Craig and Clara checking out the Statue of Liberty, made of carved pumpkins.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08909.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08909.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Clara standing in front of a carved-pumpkin train.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08931.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08931.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08923.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08923.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08917.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08917.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC08910.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08910.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ Pocantico Hills is an area dominated by the Rockefeller estate. In fact, at the 
 In 1921 John D. Rockefeller, Jr. commissioned the building of the Union Church of Pocantico Hills. By itself, it is a beautiful church.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/Union-Church-1024x679.jpg"/>
+	<img src="{{"/assets/images/2019/11/Union-Church-1024x679.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Union Church of Pocantico Hills shows an architectural feature we love and see often here: beautiful stone construction.</em></figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ In 1921 John D. Rockefeller, Jr. commissioned the building of the Union Church o
 In 1948, John D. Rockefeller, Jr.'s wife, Abby Aldridge, died, and her son Nelson Rockefeller (an avid collector and enthusiast of modern art) tried to get Henri Matisse to do a rose window in the church in her memory. Matisse was not enthusiastic about the idea and was in poor health, but as Abby had supported him for years, he acceded and started designing the window. He completed the design two days before he died. His daughter carried out the design in stained glass and supervised the installation. The rose window is not big - maybe 8 ft across - but it is just lovely.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09001.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09001.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ In 1948, John D. Rockefeller, Jr.'s wife, Abby Aldridge, died, and her son Nelso
 After the death of his father, John D. Rockefeller, Jr., in 1960, Nelson asked Marc Chagall to create a window in his memory. Chagall was delighted to do so, partly because he revered Henri Matisse and was honored to have a window in the same location as a Matisse work, but also because the Rockefellers had supported him too. He created this window, on the Good Samaritan theme, because he looked upon John D. Rockefeller, Jr. as a good samaritan for all his philanthropic work.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09000.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09000.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This Marc Chagall window is about 20 ft high and shows the vibrant blue color that Chagall loved.</em></figcaption>
 </figure>
 
@@ -214,56 +214,56 @@ The tour included the interior (no pictures) and gardens (pictures allowed). Nel
 Some pix of Kykuit...
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09018-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09018-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09020-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09020-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Tea House. It had a full ice cream soda-bar for the kids.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09021-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09021-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Our guide told us that one day Nelson Rockefeller found some Rockefeller kids shooting at this art work with pellet guns. He was not amused.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09027-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09027-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09030-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09030-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Henry Moore sculpture because, you know, why not?</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09028-1024x500.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09028-1024x500.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>View over the estate, toward the Hudson River. The gardens at Kykuit confirmed what we discovered at Storm King Art Center: outdoor sculpture needs lots of space.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09025-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09025-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Hudson River in the distance. Not too bad a view.</em></figcaption>
 </figure>
 
 
 
 The tour ended in the carriage house, which had a collection of the horse-drawn carriages used by the Rockefellers, and a number of their cars, including Nelson's Chrysler used when he was governor. I particularly liked this one:<figure>
-	<img src="{{site.url}}/assets/images/2019/11/DSC09035-1024x576.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC09035-1024x576.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

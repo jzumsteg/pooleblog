@@ -12,7 +12,7 @@ We walked to the Chartrettes lock yesterday to see how things were progressing. 
 This is looking at the locks last Saturday:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC09918.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC09918.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ This is looking at the locks last Saturday:
 Yesterday we could actually see the locks. On Saturday, the areas along beside the lock and the grassy area were under about six inches of water.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC09971.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC09971.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -30,14 +30,14 @@ Yesterday we could actually see the locks. On Saturday, the areas along beside t
 Boaters enjoying new areas to explore Saturday:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC09929.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC09929.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Back to dry(-ish) ground yesterday:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC09973.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC09973.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Back to dry(-ish) ground yesterday:
 We're guessing another four or five days before the river barges start to operate again; the river is still running so fast that a barge would have a hard time. So many of them are holed up in St. Mammès, which is kind of the headquarters of the Seine River barges (pèniches).
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC09979.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC09979.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

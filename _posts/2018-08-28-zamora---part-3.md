@@ -15,21 +15,21 @@ Starting Palm Sunday, cofradias (essentially religious fraternities) carry huge 
 The Museo Santa Semana here has many of the pasos used in Zamora's Holy Week processions, as well as the costumes worn by the cofradias, and explanations of the week. It is pretty amazing!
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04585.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04585.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A paso in the Museo Santa Semana. You can see the base here.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04597.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04597.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The bases are beautifully carved from walnut. Under them, 30-35 men walk in unison for hours.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04595.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04595.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Pasos used in the Santa Semana processions in Zamora.</em></figcaption>
 </figure>
 
@@ -44,13 +44,13 @@ The Muséo Santa Semana also has costumes worn by the members of the cofradias a
 <tbody>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04600.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04600.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04596.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04596.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -67,13 +67,13 @@ In the museum, we came across this bust of Mary holding Jesus. It's carved in wo
 <tbody>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04660.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04660.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04662.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04662.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ In the museum, we came across this bust of Mary holding Jesus. It's carved in wo
 The Cathedral museum also has a series of beautiful tapestries created in the 1500s that are amazingly well kept.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04670.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04670.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of the smaller tapestries, about 15 ft by 15 ft.</em></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ The Cathedral museum also has a series of beautiful tapestries created in the 15
 Here's a detail of one (a detail because they are all huge)!
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04674.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04674.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A detail of the border.</em></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Here's a detail of one (a detail because they are all huge)!
 Today's interesting tapestry fact: a few years back I did some reading about tapestries and learned that with a tapestry of this quality, a skilled tapestry-maker could do about a square yard per year! These tapestries would take years, with several people working on them at the same time. No wonder they were so valuable.
 
 The Cathedral itself had some interesting aspects. Our favorite was this:<figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04697.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04697.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -111,14 +111,14 @@ Built into a wall and part of a sepulchre, this was created in 1402, and, for an
 And a simple but elegant altarpiece of silver:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04692.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04692.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Laurie liked this candlestick.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04668.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04668.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This thing would light up a stadium.</em></figcaption>
 </figure>
 
@@ -129,14 +129,14 @@ Okay, enough about Zamora for now. We love this place and will definitely return
 Okay, two more Zamora pictures.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04627.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04627.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie would like to find a sweet little girl for whom she can buy a pair of one of these shoes. You choose which color.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04632.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04632.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Or the dress here. We thought about buying the boy's outfit for Henry, but, somehow, it didn't seem right for him.</em></figcaption>
 </figure>
 

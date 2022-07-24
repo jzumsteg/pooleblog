@@ -14,49 +14,49 @@ The Loing River flows through Moret and creates an idyllic riverside area. Moret
 The town also gets a point in the "Napoleon slept here" sweepstakes. When, in 1815, Napoleon returned from his first exile in Elba, he did, indeed, spend a night here. In fact, the "Hundred Days" that is used to describe his last hurrah in France, started in Moret-sur-Loing that night, and ended, one hundred days later, at Waterloo.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/07/DSC05587.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05587.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/07/DSC05585.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05585.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is the Musée de Sucre de Orgée, a candy made from barley sugar that is famous around here and made only in Moret.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/08/DSC00494-e1629964132406.jpg"/>
+	<img src="{{"/assets/images/2021/08/DSC00494-e1629964132406.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Moret has plaques showing a painting by Alfred Sisley placed at the location near where set up his easel to paint this picture. So we can look at this picture...</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/08/DSC00495.jpg"/>
+	<img src="{{"/assets/images/2021/08/DSC00495.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>...then look up and see this view. The building on the left is different, but the church and bridge are about the same as he saw them.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/08/DSC00498.jpg"/>
+	<img src="{{"/assets/images/2021/08/DSC00498.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>"Path of the Impressionists" complete with a no parking/tow-away zone sign.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/08/DSC00490.jpg"/>
+	<img src="{{"/assets/images/2021/08/DSC00490.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>In 2016 the Loing River flooded in a big way. The water level was about 15 feet higher than you see it in this picture. Because it wasn't the first time the river had flooded, the town is built above the flood line and little damage was incurred. But it was amazing to see the river then.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/07/DSC05567.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05567.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A back street of Moret.</em></figcaption>
 </figure>
 

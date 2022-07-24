@@ -16,35 +16,35 @@ The day we visited, hundreds of school kids were also there (it's the end of the
 All the Guédelon workers are willing to talk about their work, showing how it's done. There are something like 40 people working there, which explains why the chateaux rises slowly; in real life in the thirteenth century, there would have been hundreds of people working here.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00594.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00594.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>An overview of Guédelon.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00577.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00577.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Building the walls, which are about ten feet thick.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00578.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00578.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00584.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00584.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The pieces of the arched window were cut and formed by hand on site.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00583.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00583.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -55,14 +55,14 @@ We saw somewhere that they expect to complete Guédelon in twelve more years. Bu
 Not much to say here: we bought a few bottles of great wine...
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00597.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00597.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Madame prepares 24 bottles for us and a little less for Mary &amp; Gilles  (who already had some in their cellar)</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00599.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00599.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Gilles is going to need a trailer hitch on his car someday.</em></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The 24 bottles doesn't include the bottle Madame gave us as thanks for appreciat
 Y'all know that Laurie and I love visiting the canals of France, and that we also like bridges. So what could be better than a canal bridge? This canal carries the Canal Latéral à la Loire across the Loire River; a canal on a bridge. Pretty cool, we think.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/06/DSC00602.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00602.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The canal is a little over 2,000 ft long. While it appears to have nice sidewalks on each side, these were actually paths for the horses that pulled the barges.</em></figcaption>
 </figure>
 

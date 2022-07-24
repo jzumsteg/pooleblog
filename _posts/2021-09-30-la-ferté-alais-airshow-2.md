@@ -9,7 +9,7 @@ layout: post
 ---
 <p style="text-align: center;">&nbsp;</p>
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/IMG_0255.jpg"/>
+	<img src="{{"/assets/images/2021/09/IMG_0255.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ A very fun day with good friends and great airplanes; what could be better?
 Herve took a flight in a 1930s Boeing Stearman. There were quite a few airplanes at the airshow that will take passengers for a short flight. Hervé wouldn't say how much his flight cost, saying only, "It was worth it" when asked.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00505.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00505.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Our intrepid hero takes to the skies!</em></figcaption>
 </figure>
 
@@ -38,84 +38,84 @@ Herve took a flight in a 1930s Boeing Stearman. There were quite a few airplanes
 <h2 style="font-family: verdana;">Really Old Planes</h2>
 These are planes from the 1900-1914 era. Even though the United States had the first real heavier-than-air aircraft (the famous Wright brothers and their Wright Flier), France led the aviation world during these years. These planes are pretty much perfect replicas of early French airplanes. All of these planes flew together in the afternoon and what struck me - besides how flimsy they are - is how slow they are; I'd guess they never got over about 50 miles per hour.
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00525.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00525.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00526.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00526.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00527.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00527.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <h2 style="font-family: verdana;">World War I</h2>
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00531.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00531.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is a Fokker Tri-plane, the plane flown by the Red Baron in World War I. The woman in front of it is dressed in mourning, representing the widows of the many pilots shot down by the Red Baron.&nbsp;</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00539.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00539.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Fokker Tri-plane that flew in the World War I vignette.</em></figcaption>
 </figure>
 
 
 <h2 style="font-family: verdana;">World War II</h2>
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00524.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00524.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Curtiss P-40 Skyhawk, an important plane in the European front of World War II until more modern planes took over.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00523.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00523.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Spitfire, the plane that, along with the Hawker Hurricane, staved off the ferocious attacks on England known as the "Battle of Britain." This is a rare Spitfire, powered by a Griffon V12 engine (rather than the more common Merlin V12) and a five-bladed prop. This plane flew in the afternoon WWII segment and was pretty amazing to hear.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00520.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00520.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A bunch of radio-control P51 Spitfires. About twenty of these chased each other around the sky for fifteen minutes or so, along with an RC Japanese Zero and a Spitfire.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00514.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00514.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The World War II F4U Corsair. I love the looks of this plane. It was instrumental in the Pacific fighting of World War II. Two of these were at the airshow and flew together in the afternoon.</em></figcaption>
 </figure>
 
 
 <h2 style="font-family: verdana;">Other Planes</h2>
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00551.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00551.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Douglas DC-3. This plane, which was pressurized and carried 18 passengers, was largely responsible for the growth of commercial aviation, as it was the first plane to make money for the fledgling airlines of post-World War II. Over 12,000 of them were built during World War II and many of the survivors were taken by those airlines.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00517.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00517.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Douglas A1 Skyraider., known as the "Spad" in the Navy. When I was in the Navy, these had just been retired from active combat in Vietnam. Spad pilots garnered more respect than any other pilots, including fighter pilots. These planes were hugely powerful and a real handful to fly. I cannot imagine how much it must cost to restore and fly something like this; it must burn a few hundred dollars of fuel per flight hour.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC00546.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00546.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This Beech Bonanza - a common general aviation plane - did a full aerobatic show. Not supposed to fly upside down in one of these, but the pilot did that and much more!</em></figcaption>
 </figure>
 

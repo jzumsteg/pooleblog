@@ -10,14 +10,14 @@ layout: post
 We visited Chateau Les Milandes, the home of Joséphine Baker for many years, and loved the place for many reasons. But I don't know how to talk about Joséphine Baker, because she seems to be largely unknown in the country of her birth, the United States. Here are a couple pictures of her from the mid-1920s in Paris.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/baker.png"/>
+	<img src="{{"/assets/images/2016/07/baker.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/160519-josephine-baker-01.jpg"/>
+	<img src="{{"/assets/images/2016/07/160519-josephine-baker-01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Josephine Baker, (1906-1975) African American dancer, actress and entertainer, famous for her Paris stage shows and her scanty costumes (Photo by Bob Thomas/Popperfoto/Getty Images)</em></figcaption>
 </figure>
 
@@ -40,56 +40,56 @@ Josephine Baker seems largely unknown in the United States, though her memory is
 We came here because I'd heard about Les Milandes years ago - before it was bought and restored to her memory - and having read about her, decided I wanted to see her home for so many years. It was totally enjoyable. Unfortunately, there was a sign forbidding picture-taking inside the chateau; fortunately the sign was in French and I couldn't understand it.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04901.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04901.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of Josephine's performance dresses.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04906.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04906.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie's favorite of Josephine's dresses.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04904.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04904.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A statue of Josephine in her Banana Dress (and nothing else - that was how she performed the Banana Dance).</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04934.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04934.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Chateau Les Milandes</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04929.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04929.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A view from Les Milandes. No wonder Josephine fell in love with the place.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04907.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04907.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One bathroom in the chateau. At the time it was created, Josephine's favorite fragrance was by Christian Dior; this bathroom was done in black and gold, Dior's colors.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04915.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04915.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The formal garden has been restored. An informal garden is in the process of restoration. The current owners are spending a lot on the place to bring it back to its glory.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/07/DSC04930.jpg"/>
+	<img src="{{"/assets/images/2016/07/DSC04930.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>There is a famous picture of an almost-destitute Josephine sitting on the kitchen-door steps the day she was evicted from Les Milandes. Here's Laurie sitting in the same place as Josephine.</em></figcaption>
 </figure>
 

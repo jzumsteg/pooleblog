@@ -12,7 +12,7 @@ We're preparing to head off on a four-day trip to the Loire Valley, home of many
 We love Chateau Fontainebleau. It has become our go-to place for a walk around when we have some time and don't want to go far for a walk because it's close-by, has beautiful gardens and buildings and a history that we love to contemplate.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC01293.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC01293.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -25,28 +25,28 @@ Chateau Fontainebleau started as a hunting lodge, and has been added to, changed
 We love just walking around the beautiful grounds of the chateau. There are miles of forest trails, an English garden, a garden dedicated to Diane de Poitier, Henry II's mistress for many years, and a parterre, a wide open space with ponds and flower beds. We can walk for hours if we want and we always have in sight that magnificent chateau.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC01285.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC01285.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Cour Ovale, then center of the chateau.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC01288.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC01288.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This pond is about a mile long, and has forests and paths all round it.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC01249.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC01249.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>What I love about this place. The area above the door has a salamander, the mark of Francois I, who was king from 1514-1547, while the door itself has a monogram added later by Louis XIV - the Sun King mentioned above as the creator of Versailles. He would have installed this door in the 1660s probably.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2021/09/DSC01287.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC01287.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

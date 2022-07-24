@@ -20,7 +20,7 @@ After all this, I learned that the Fondacion le Cobusier, which is located in on
 First, here's a picture of a building built just a few years before Maison la Roche, the le Corbusier building we visited, was designed and constructed:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00095.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00095.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A house near le Corbusier's Maison la Roche. Probably a close contemporary of Maison la Roche, built in the late 1880s or early 1900s. Maison la Roche was built 1923-1925.</em></figcaption>
 </figure>
 
@@ -29,14 +29,14 @@ First, here's a picture of a building built just a few years before Maison la Ro
 Here's the building we saw yesterday, designed and built between 1923 and 1925:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00093.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00093.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is actually two living units, separated at where you see two garage doors. On the left was the home and exhibition rooms for Raoul Albert La Roche, a supporter of le Corbusier's Purist movement (about the only supporter) and on the right the home of le Corbusier's brother.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00090.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00090.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -47,31 +47,31 @@ Do you notice a difference between Maison la Roche and the first building shown?
 One of Corbu's architectural design philosophies was the architecture of a building should reveal itself to a person as he or she walked into and through a building. As we toured Maison La Roche, different views opened up and, for me, at least, every one of them was beautiful. It seemed to me that no matter where I looked, the spaces I saw were beautiful, of perfect form. Here are a couple pictures from Maison La Roche:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00070.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00070.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The exhibition room of M. La Roche's house. Here he exhibited his collection of Picasso, Braque, Leger, Gris and Lipshitz paintings, as well as Purist paintings of le Corbusier and Ozenfant.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00063.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00063.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00080.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00080.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00071.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00071.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2016/06/DSC00074.jpg"/>
+	<img src="{{"/assets/images/2016/06/DSC00074.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Okay, enough about le Corbusier. Suffice it to say that I've become a fan.
 Now, to finish up the day and this post... We went to dinner with Mary and Gilles, where we met their son Eric, who we know well. Dinner was great, with excellent food and wine and conversation. When dessert time came, I ordered rice pudding because, well, I like rice pudding. It arrived in a humongous pot. The picture below is <strong>after</strong> I had eaten a rather large portion; the pot was completely filled when it arrive á table.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0780.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0780.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

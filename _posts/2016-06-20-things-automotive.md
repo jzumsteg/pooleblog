@@ -14,31 +14,31 @@ I will post pictures of cars illustrating one or both rules as I see them. For n
 Parking is, oh, "limited" here. In fact, some drivers park a mile away and walk to the station; always a pleasure in the weather we've been having. So any tiny patch of open ground in the actual parking lot is fair game, as shown in the pictures below.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0760.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0760.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This driver would have to back up about 200 yards from this spot before he or she could turn around.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0761.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0761.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Before I took this picture, there was surely a car to the left of the white car; otherwise, the white car would have taken the whole open area.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0758.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0758.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0759.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0759.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0765.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0765.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Parking is, oh, "limited" here. In fact, some drivers park a mile away and walk 
 On another subject, here's our ride for this trip:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2016/06/IMG_0766.jpg"/>
+	<img src="{{"/assets/images/2016/06/IMG_0766.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

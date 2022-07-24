@@ -11,22 +11,22 @@ When we were in France two years ago, we went to La Rochelle after reading Ina C
 
 First, our hotel. The first trip two years ago we lucked into the best room in the place: top floor, seaward corner. From its balcony we can watch the hundreds of boats going into and out of the harbor, many of them sailing students in classes.We can watch the tide covering and uncovering Richelieu's Dike, watch the sunset, and just generally enjoy life. This trip I had requested that room when I booked online but when we arrived, we learned that I had mistakenly also asked for a room with twin beds (I don't remember doing that) and so we had a different room. But the two managers on duty leapt into action with their computers and fifteen minutes later, had re-arranged room assignments so we could have our favorite room. Talk about customer service! Here's why we like that room:
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09120.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09120.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  </a> <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09119.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09119.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </a> <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09118.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09118.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09109.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09109.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -36,17 +36,17 @@ La Rochelle is quite an historic town. For many years it was one of several town
 
 Today the city is centered around its old port, which is not much changed from the days of the siege.
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09138.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09138.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00886.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00886.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09139.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09139.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ We were a little worried about what it would be like here in the middle of vacat
 
 Laurie is an inveterate shoe-watcher, marveling at the variety of not-exactly sensible footware, particularly since most of these old cities have old cobblestone walks. She made me take this picture of the perfect strolling shoe:
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09146.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09146.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Laurie is an inveterate shoe-watcher, marveling at the variety of not-exactly se
 On the other hand (foot?), it was all I could do to keep her from rushing in to buy these shoes:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00882.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00882.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>109€ = about \\$125. They were on sale!</em></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ On the other hand (foot?), it was all I could do to keep her from rushing in to
 I talked Laurie out of buying those shoes by pointing out that she had just bought another pair, specially for the trip to La Rochelle. Here's proof: Laurie's feet in her new shoes (and our favorite red wine):
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC09119.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC09119.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie's new shoes. Not quite \\$125, fortunately; they were \\$3 on sale at Carrefour.</em></figcaption>
 </figure>
 
@@ -82,17 +82,17 @@ I talked Laurie out of buying those shoes by pointing out that she had just boug
 Laurie loves to dip her toes in the Atlantic ocean when we're at La Rochelle. Here she is standing on the only remnant of Richelieu's dike (see above):
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00892.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00892.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00894.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00894.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00903.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00903.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ One thing we find interesting about La Rochelle is that the buildings of the dow
 And you just have to love the sign on this pharmacy:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00860.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00860.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -116,13 +116,13 @@ We had some fine meals in La Rochelle, as you can imagine for two seafood-loving
 
 If that restaurant was a bit upscale, the night before? Not so much:
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00822.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00822.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00820.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00820.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -133,13 +133,13 @@ Le P'tit Bleu - we had grilled mussels (every restaurant in La Rochelle must ser
 La Rochelle has a huge market that seems to be there every day. Want strawberries or raspberries? We got 'em:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00844.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00844.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Want olives? We got 'em:
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00842.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00842.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ Want olives? We got 'em:
 
 Want shoes? We got 'em:
 <figure>
-	<img src="{{site.url}}/assets/images/2015/07/DSC00848.jpg"/>
+	<img src="{{"/assets/images/2015/07/DSC00848.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

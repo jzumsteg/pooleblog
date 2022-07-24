@@ -25,7 +25,7 @@ Sometime in the future I'll write a bit about my experience in the hospital and 
 
 Now, we just cannot thank Mary and Gilles enough for all their help through this adventure. They went way "above and beyond" the call of duty for us.<br>
 <figure>
-	<img src="{{site.url}}/assets/images/2013/06/Medical-01.jpg"/>
+	<img src="{{"/assets/images/2013/06/Medical-01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -24,7 +24,7 @@ La Rochelle is an old, old city; there are records of Eleanor of Acquitaine givi
 The reason for that is largely its location: on a peninsula with an excellent port. The land approaches to the city were well-fortified and easily defended. The port, its lifeline when the city was attacked by land, kept the city supplied with food and weaponry. Two towers were build to protect the port. The two towers stood on either side of the entrance to the port and still stand today:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/06/DSC03112.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC03112.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Towers protecting the harbor.</em></figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ La Rochelle wasn't worried - the English had promised they would lift the siege 
 Next to our hotel were these three concrete slabs:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/06/IMG_7328.jpg"/>
+	<img src="{{"/assets/images/2013/06/IMG_7328.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ After a "toes-up," as the British say, we sat on our little terrace for a glass 
 
 After about an hour and a half of very enjoyable strolling, we found the restaurant, Marie Galante. Small and informal, they were able to seat us. Though they had a nice menu, we had one thing on our minds: moule frites (mussles and fries). There they were on the menu and soon - voila! - there they were in front of us:
 <figure>
-	<img src="{{site.url}}/assets/images/2013/06/DSC03114.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC03114.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

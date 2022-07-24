@@ -59,13 +59,13 @@ layout: post
 
 <!-- wp:paragraph -->
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04707.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04707.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Thick walls, small windows, kind of fortress-like.</em></figcaption>
 </figure>
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04738.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04738.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Rounded arch gives this away: Romanesque</em></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ layout: post
 <tr>
 <td>
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04732.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04732.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Solid - that's Romanesque.</em></figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ layout: post
 </td>
 <td>
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04716.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04716.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Capitals in a Romanesque church.</em></figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ layout: post
 <tr>
 <td>
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04555.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04555.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A late Romanesque church - the main arch has a bit of a point to it.</em></figcaption>
 </figure>
 
@@ -109,13 +109,13 @@ layout: post
 </tbody>
 </table>
 <p><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04553.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04553.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04736.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04736.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A beautifully restored church. I guarantee it didn't look this good when it was built.</em></figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ layout: post
 <tbody>
 <tr>
 <td colspan="2"><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04622.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04622.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -144,13 +144,13 @@ layout: post
 </tr>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04619.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04619.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04618.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04618.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ layout: post
 <tr>
 <td colspan="2">
 <figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04631.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04631.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>An Oriel window - common in many Modernist buildings here and in Barcelona.</em></figcaption>
 </figure>
 
@@ -169,14 +169,14 @@ layout: post
 <tr>
 <td>
 <p><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04621.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04621.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/08/DSC04626.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC04626.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

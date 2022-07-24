@@ -21,7 +21,7 @@ Today, Canal St. Martin is a testimony to Paris understanding that a head-long r
 <h3>Not Canal-related...</H3>
 After dinner Friday, we strolled around the area in which we were staying, turned down a little street, and saw this:
 <figure>
-	<img src="{{site.url}}/assets/images/2013/07/DSC03156.jpg"/>
+	<img src="{{"/assets/images/2013/07/DSC03156.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

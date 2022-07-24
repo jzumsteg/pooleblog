@@ -17,7 +17,7 @@ We turned the corner to the harbor and saw that the area was jammed with people,
 
 First, a boat rowing out into the harbor. Note the guy with the long pole on the back. Note also that the team is dressed in Mexican garb, including sombreros, serapes and fake mustaches.
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8465.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8465.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ First, a boat rowing out into the harbor. Note the guy with the long pole on the
 Another boat, with another oddly-dressed team, was coming from the other direction. They rowed like crazy toward each other and we realized that it was a boat-joust - the guys with poles were going to try to knock each other into the water. 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8468.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8468.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Another boat, with another oddly-dressed team, was coming from the other directi
 Closer...
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8469.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8469.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Closer...
 Closer...
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8470.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8470.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Closer...
 Closer...
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8471.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8471.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Closer...
 Splash!
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/MG_8472.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_8472.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ layout: post
 The town of Fontainbleau has a huge market three mornings a week, Sunday being the biggest. We've been many times with Mary and Gilles, but last Sunday we ventured into it on our own. I won't say it was without its moments, but we were successful:
 <br>
 <figure>
-	<img src="{{site.url}}/assets/images/2013/07/MG_7605.jpg"/>
+	<img src="{{"/assets/images/2013/07/MG_7605.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

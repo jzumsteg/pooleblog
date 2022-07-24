@@ -18,7 +18,7 @@ Schneider ceased operations in this plant in the 1990s. The buildings now have s
 First, the Schneider buildings:
 [gallery size= "medium" columns="2" ids="535,538,539,537"]
 <figure>
-	<img src="{{site.url}}/assets/images/2013/06/housing-1.jpg"/>
+	<img src="{{"/assets/images/2013/06/housing-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of the apartment buildings Schneider built for its employees.</em></figcaption>
 </figure>
 

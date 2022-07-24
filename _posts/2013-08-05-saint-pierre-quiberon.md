@@ -17,7 +17,7 @@ Rather than boring you again with lots of words, I'm just going to post some pic
 
 <h3>The Group</h3>
 <figure>
-	<img src="{{site.url}}/assets/images/2013/08/DSC03712.jpg"/>
+	<img src="{{"/assets/images/2013/08/DSC03712.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Gilles, Mary, Hervé, Laurie and Jamie. I never seem to be in these group shots!</em></figcaption>
 </figure>
 

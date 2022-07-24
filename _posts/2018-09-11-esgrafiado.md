@@ -14,55 +14,55 @@ Although I don't know - yet - exactly how these esgrafiado - walls are created, 
 Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime place to see them in Spain. Here are pictures of some Segovia esgafiado buildings.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06862.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06862.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A old esgrafiado wall.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06836.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06836.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Probably the oldest design we saw.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06845.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06845.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This shows a wall with part of it repaired. The lighter area has been renovated, while the darker area has, over many years, has eroded.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06880.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06880.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05504.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC05504.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05498.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-
-
-<figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05496.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC05498.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05494.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC05496.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+
+
+<figure>
+	<img src="{{"/assets/images/2018/09/DSC05494.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -71,27 +71,13 @@ Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime plac
 <tbody>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05500.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC05500.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC05499.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-</tr>
-<tr>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06883.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06876.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC05499.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -99,27 +85,13 @@ Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime plac
 </tr>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06875.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06883.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06866.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-</tr>
-<tr>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06833.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06831.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06876.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -127,27 +99,13 @@ Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime plac
 </tr>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06827.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06875.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06818.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-</tr>
-<tr>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06817.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-</td>
-<td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06815.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06866.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -155,13 +113,55 @@ Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime plac
 </tr>
 <tr>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06811.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06833.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </td>
 <td><figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06810.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06831.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+</tr>
+<tr>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06827.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06818.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+</tr>
+<tr>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06817.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06815.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+</tr>
+<tr>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06811.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+</td>
+<td><figure>
+	<img src="{{"/assets/images/2018/09/DSC06810.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -170,14 +170,14 @@ Esgrafiado buildings also exist in Barcelona, but Segovia must be the prime plac
 </tbody>
 </table>
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06808.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06808.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2018/09/DSC06807.jpg"/>
+	<img src="{{"/assets/images/2018/09/DSC06807.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

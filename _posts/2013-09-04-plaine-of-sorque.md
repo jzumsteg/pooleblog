@@ -13,56 +13,56 @@ Once, this area was mostly stone quarries. A particularly beautiful sandstone wa
 
 Someone decided that these lakes could form the central part of a great bird preserve, so the land around them was allowed to return to its native state. Trails were created, and two observation platforms, with camouflage and holes to look out and use for cameras, were built on the shore of the largest lake. The trail goes along the Loing River for quite a ways, too. It is really a beautiful place to visit.
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC03982.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC03982.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The trail.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC03984.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC03984.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The lakes here were once stone quarries; here's some stones left over, in use as a bench.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC03989.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC03989.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Loing River</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC03993.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC03993.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>We're thinking of buying this boat to live on. It's the best we can afford!</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC03996.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC03996.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Loing River</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC04003.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC04003.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of the two observation blinds in Plaine de Sorque</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC04013.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC04013.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Loing River</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2013/09/DSC04025.jpg"/>
+	<img src="{{"/assets/images/2013/09/DSC04025.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie enjoying a beautiful sunny day at the Plaine de Sorque</em></figcaption>
 </figure>
 

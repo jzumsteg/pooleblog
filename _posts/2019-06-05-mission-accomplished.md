@@ -8,12 +8,12 @@ mermaid: true
 layout: post
 ---
 The objective of this trip was to bring a car back to Craig and Annie; they could use a second car and we had an extra. Yesterday, Craig got all the legal stuff done and, with a little help from Clara and Henry, our 2005 Rav4 became an official New York resident:<figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08559-2.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08559-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08569-2.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08569-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -24,14 +24,14 @@ We wanted to get out of Craig and Annie's hair the day after they returned, to g
 The bridge across the Hudson was surprising. We figured there might be a dozen people there, but no; the place was crowded with folks. The bridge, formerly a railroad bridge, is the longest and tallest walking trail bridge in the world. It provided a beautiful view of the Hudson River.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08487.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08487.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The view from the walking bridge. The bridge you see down-river is a freeway.</em></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08488.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08488.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie taking a gander at the view.</em></figcaption>
 </figure>
 
@@ -42,29 +42,29 @@ After walking across the bridge and back - along with hundreds of folks walking,
 First, four historic buildings; the last picture explains their connection to history.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08502.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08502.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08501.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08501.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08499.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08499.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08498.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08498.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08500.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08500.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Yep, these four buildings are the four corners of an intersection and all of them were built before the American Revolution.</em></figcaption>
 </figure>
 
@@ -73,59 +73,59 @@ First, four historic buildings; the last picture explains their connection to hi
 Now, a random collection of buildings we saw on a short walk around one area of Kingston:
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08494.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08494.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08493.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08493.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08490.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08490.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08489.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08489.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08528.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08528.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08527.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08527.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08523.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08523.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08522.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08522.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08510.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08510.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08509.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08509.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 I could get into politics if I could find a group with the right idea about where to meet:<figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08525.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08525.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ I could get into politics if I could find a group with the right idea about wher
 And one last eye-opener: the cemetery at the Dutch Reformed Church of Kingston. The flags, placed by the Daughters of the American Revolution for Memorial Day, mark the graves of men who served in the Revolutionary Army. There are seventy in this cemetery alone.
 
 <figure>
-	<img src="{{site.url}}/assets/images/2019/06/DSC08516.jpg"/>
+	<img src="{{"/assets/images/2019/06/DSC08516.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
