@@ -102,9 +102,31 @@ figure {
 }
 
 .post-title {
-  color: rgb(140, 140, 140);
+  color: rgb(120, 120, 120);
 }
 
 .post-meta {
   color: rgb(160, 160, 160);
+}
+
+H1 H2 H3 {
+  color: rgb(120, 120, 120); 
+}
+
+.PageNavigation {
+  font-size: 18px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
