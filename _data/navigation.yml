@@ -1,6 +1,8 @@
 - title: Posts
   url: /
 - title: History
-  url: /history
+  url: /dates/
+- title: Categories
+  url: /taxonomies/
 - title: About
   url: /about/
