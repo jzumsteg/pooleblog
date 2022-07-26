@@ -5,6 +5,7 @@ date: Thu, 28 May 2015 13:41:26 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 French has a phrase for a geographical area so small that it may not even be inhabited: *lieu-dit*. Driving on back roads of France you'll see hundreds of signs for *lieux-dits*, places that might have a house or two, or might just be a place that was given a name centuries ago that the local inhabitants have kept alive. The last couple days we stayed in such a place: *Les Fromions*. There is, of course, a story...
 

@@ -5,6 +5,7 @@ date: Mon, 27 Sep 2021 15:15:35 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 We left Cheverny and made the half-hour drive to the town of Blois. Here sits one of the most interesting chateaux in all of France, in a very enjoyable city. We made Blois our base of operations for the next three days.
 

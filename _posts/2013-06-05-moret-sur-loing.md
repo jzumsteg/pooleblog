@@ -5,6 +5,7 @@ date: Wed, 05 Jun 2013 16:34:13 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 <p>Today we finally made it to Moret sur Loing. We thought we'd get there the last couple days, but got sidetracked in Saint-Mammès. We were interested in Moret-sur-Loing for a couple reasons: the Impressionist painter Alfred Sisley lived here for quite a few years (he died here), and it's the largest town around, with almost 5,000 inhabitants. </p>
 <p>It didn't take long to see why Sisley painted here; the Loing River flows right through the time and it is just beautiful. The town has really made use of the river, with lots of views onto it and walks and a bridge into town. It seems to me that a painter here would have no problem finding things to paint. I read that Sisley painted some 500 pictures in this area; he could easily done 500 more. Some photos of the riverfront:</p>

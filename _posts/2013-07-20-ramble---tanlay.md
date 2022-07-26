@@ -5,6 +5,7 @@ date: Sat, 20 Jul 2013 17:26:52 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We traveled the last few days with our friends Mary and Gilles Germain. I had asked that we do a ramble to include two Renaissance chateaux in the Burgundy region, so Mary and Gilles put together an itinerary that included the two, the excellent town of Langres, and a new place to us - Troyes (pronunciation to be explained later). I'll do a post for each of the two chateaux, then one on Langres and one on Troyes. Here is our visit to Chateau Tanlay.
 

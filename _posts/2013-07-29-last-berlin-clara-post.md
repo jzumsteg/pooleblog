@@ -5,6 +5,7 @@ date: Mon, 29 Jul 2013 20:18:31 +0000
 category: [Berlin,Clara]
 math: true
 mermaid: true
+layout: post
 ---
 We leave Berlin tomorrow, back to Paris, so here's a final Clara post from Berlin.
 [gallery size="large" link="files" columns="1" ids="1231,1232,1233,1234,1235,1236,1237,1238"]

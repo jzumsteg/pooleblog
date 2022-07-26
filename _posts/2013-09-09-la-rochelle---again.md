@@ -5,6 +5,7 @@ date: Mon, 09 Sep 2013 07:31:48 +0000
 category: [Places, La Rochelle]
 math: true
 mermaid: true
+layout: post
 ---
 You may recall from my earlier post that we loved La Rochelle. So much so that we returned last week for another stay, three days this time. I am glad to report that we still love La Rochelle.
 

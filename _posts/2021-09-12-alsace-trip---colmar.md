@@ -5,6 +5,7 @@ date: Sun, 12 Sep 2021 15:27:07 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Colmar was next up on our itinerary. It's not far from Strasbourg, smaller by quite a bit (around 75,000 compared to Strasbourg's 470,000) and definitely oriented more toward tourism. The city has many beautiful and interesting buildings, built in the half-timbered style common in much of Germany, and an excellent museum. It's also got a lot of tourists. We also used our stay here to visit the town of Riquewihr - a lovely small town in the mountains that is definitely oriented to tourism and not much else.
 <h2 style="font-family: verdana;">Sights Seen Walking Around Colmar</h2>

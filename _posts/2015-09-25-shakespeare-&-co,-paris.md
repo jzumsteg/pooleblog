@@ -5,6 +5,7 @@ date: Fri, 25 Sep 2015 17:24:12 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 My favorite book of this trip is "<span id="productTitle" class="a-size-large">Sylvia Beach and the Lost Generation: A History of Literary Paris in the Twenties and Thirties" by Noël Riley Fitch. Sylvia Beach was, of course, the owner of that famous English bookstore in Paris, Shakespeare &amp; Company. The book details the lives of Sylvia and her bookstore during the 20s and 30s, when Paris was the home of the "Lost Generation"of English-language writers: Hemingway, of course, and F. Scott Fitzgerald, John Dos Passos, Ezra Pound, and many, many others.</span>
 

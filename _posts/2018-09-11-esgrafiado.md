@@ -5,6 +5,7 @@ date: Tue, 11 Sep 2018 20:27:54 +0000
 category: Spain, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Esgrafiado, applied to architecture, describes the technique of creating 3-d patterns on walls. We loved seeing buildings with this decoration. Segovia must have hundreds of them; we saw maybe half. Once we'd noticed them, we searched them out.
 

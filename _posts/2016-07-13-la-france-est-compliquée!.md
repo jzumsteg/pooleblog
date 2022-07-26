@@ -5,6 +5,7 @@ date: Wed, 13 Jul 2016 15:00:42 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 Life can be complicated here, even in simple things. When I say that to people who have lived here a long time, I sometimes get some pushback: "No, it's not that bad. Not so complicated. Used to be worse," etc. Right. Here's complicated.
 

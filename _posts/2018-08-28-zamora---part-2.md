@@ -5,6 +5,7 @@ date: Tue, 28 Aug 2018 06:43:44 +0000
 category: [Spain, Places]
 math: true
 mermaid: true
+layout: post
 ---
 <!-- wp:paragraph -->
 <p>We were in Zamora for three days and think it might be our favorite place in Spain. The old city of Zamora (*casco antiguo*), in which our hotel was located, is the most fascinating place. Within easy walking distance of our hotel were a dozen Romanesque churches, all built in the 11th - 14th centuries. There was a fortress, a beautiful river walk, lovely streets, lively plazas with many restaurants and tapas bars. Other than that, the place was totally boring.</p>

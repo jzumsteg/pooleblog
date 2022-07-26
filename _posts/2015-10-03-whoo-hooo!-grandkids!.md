@@ -5,6 +5,7 @@ date: Sat, 03 Oct 2015 12:30:15 +0000
 category: [Clara, Henry]
 math: true
 mermaid: true
+layout: post
 ---
 We're back in the good old US of A and visiting Craig and Annie and Clara and the newest Zumsteg, Henry. This is totally fun, and makes leaving France easier. Without further blather, here're some pictures.
 <h2>Clara's birthday</h2>

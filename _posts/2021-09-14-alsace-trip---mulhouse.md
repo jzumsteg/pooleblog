@@ -5,6 +5,7 @@ date: Tue, 14 Sep 2021 15:15:08 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Last stop on our Alsace tour: Mulhouse. Mulhouse differs quite a bit from Strasbourg and Colmar: it's an industrial city that is having a hard time keeping its industrial base. It doesn't have many beautiful and historic buildings nor beautiful parks. The street on which our hotel was located was a bit gritty. But! Mulhouse has a couple amazing museums, and one little-known museum that we wanted to see, so to Mulhouse we went.
 

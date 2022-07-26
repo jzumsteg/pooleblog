@@ -5,6 +5,7 @@ date: Thu, 13 Jun 2013 07:09:24 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 Driving in France, the sign I dread most is "Deviation." A deviation is a detour, and seeing a Deviation means that you're going to go off the main road, often into narrow streets; your GPS will be confused, your maps of no value, your fine pre-planned route out the window. In other words, an unwanted adventure is sure to follow.
 

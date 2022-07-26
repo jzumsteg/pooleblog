@@ -5,6 +5,7 @@ date: Tue, 17 Jul 2018 07:33:06 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Last week we went back to the Loire Valley, a two-and-a-half hour drive south of Samois-sur-Seine, our current homebase. The Loire is famous for its many chateaux - some estimates put the number at somewhere around 3,000, for the Loire Valley alone. We visited three quite different chateaux this week, and the three illustrate different types of chateaux, and the challenges that the privately owned chateaux face.
 

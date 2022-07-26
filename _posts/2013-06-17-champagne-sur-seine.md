@@ -5,6 +5,7 @@ date: Mon, 17 Jun 2013 19:04:56 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Sorry, bubbly-lovers, this is not a post about a quaint village we visited to taste some of that French nectar of the gods. Champagne-sur-Seine is a small town not too far from us, with an interesting (well, to us; you may find this quite boring) 20th century.
 

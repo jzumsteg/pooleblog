@@ -5,6 +5,7 @@ date: Thu, 27 Aug 2015 09:55:39 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We've been living in the village of Samois-sur-Seine for almost two months now (our house-sit ends next Monday and we'll be homeless for a while...) so I think it's time to post some pictures about Samois.
 

@@ -5,6 +5,7 @@ date: Mon, 22 Jun 2015 14:08:25 +0000
 category: Events 
 math: true
 mermaid: true
+layout: post
 ---
 Every June 21 - the Summer Solstice - Paris celebrates with an enormous music festival: the Fete de la Musique. Some years ago our late friend Barbara was in Paris on June 21, but she didn't know ahead of time about the celebration. She told us ,"There was music everywhere in Paris." and raved about the experience. Ever since, we've wanted to be here for the fete and yesterday, it worked out; we were there!
 

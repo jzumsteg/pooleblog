@@ -5,6 +5,7 @@ date: Tue, 29 May 2018 06:51:45 +0000
 category: [Clara, Henry]
 math: true
 mermaid: true
+layout: post
 ---
 Everyone who knows us knows these long trips are really just disguise for our very favorite activity: squeezing our grandkids! We went to Elmsford, NY first to refresh our grandkid-squeezing skills. We had just the best time with Craig and Annie and Clara and Henry. So, to get this 2018 version of our travel blog off to the right start, here are a few pictures.
 

@@ -5,6 +5,7 @@ date: Sun, 21 Jul 2013 08:18:17 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 After our visit to Tanlay, we drove the short distance to the small village of Lézinnes, where Mary had reserved rooms at a gite - a French Bed-and-Breakfast. Our arrival was not without trial. First, Mary said the gite was at 4, rue de la Gare, so down rue de la Gare we drove and when we arrived at number 4, here's what we found:
 <figure>

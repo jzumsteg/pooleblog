@@ -5,6 +5,7 @@ date: Tue, 11 Sep 2018 20:27:54 +0000
 category: [Activities, Rambles]
 math: true
 mermaid: true
+layout: post
 ---
 <!-- wp:paragraph -->
 <p>Last week we took two days with Mary and Gilles to visit two sites associated with Impressionists and Post-Impressionists. One day was interesting and enjoyable, the other, not so much. A quick report...</p>

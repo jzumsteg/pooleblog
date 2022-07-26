@@ -5,6 +5,7 @@ date: Mon, 01 Jul 2013 07:27:37 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 <h3>La Rochelle - Introduction</h3>
 We went to the seaside town of La Rochelle this weekend, to celebrate our anniversary, and because we have wanted to see La Rochelle for some time. The city has an amazing history, and it features in a number of the stories of our favorite detective, Chief Superintendent Maigret of the Paris Police Judiciary. In the understatement of the trip so far, we can say that La Rochelle did not disappoint.

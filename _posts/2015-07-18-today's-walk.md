@@ -5,6 +5,7 @@ date: Sat, 18 Jul 2015 15:46:29 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 Today, we got back to our daily walks, and it felt good to be back and active again! We went earlier than usual this morning because it's hot, and we returned to the Seine, which we always love to walk along. We walked on the opposite side of the river from Thomery, which we visited a couple days ago (<a href="http://zumsteg.us/?p=2418">Thomery</a>). As always, we had some surprises...
 

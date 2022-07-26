@@ -5,6 +5,7 @@ date: Sun, 29 Aug 2021 14:02:43 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 When we first came to France for a long-stay vacation, we lived in the small town of Montigny-sur-Loing ("Montigny on the Loing River"). As I researched places around Montigny I came across Moret-sur-Loing, about 10 miles away, and found that Alfred Sisley, one of our long-time Impressionist favorites, lived in Moret for many years, died there and is buried in the Moret-sur-Loing cemetery. He painted many pictures while he lived in Moret, and other Impressionists came to visit and paint with him; this town is well-known in the world of Impressionism. I knew Moret merited a visit; I did not foresee that it would become a favorite place of ours.
 

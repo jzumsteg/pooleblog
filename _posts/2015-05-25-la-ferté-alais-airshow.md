@@ -5,6 +5,7 @@ date: Mon, 25 May 2015 15:53:17 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 <h3>Warning: airplane geekiness ahead. If airplanes hold no interest for you, you might just want to skip this post.</h3>
 Two years ago I went to the Paris Air Show - the biggest in the world. This year, Hervé Rufin invited me to a smaller airshow at the grass strip in the town of La Ferté Alais. Yesterday we - Hervé, his daughter Sophia and me - went, and had a ball. But then, we're airplane geeks, so you know we're going to have a good time.

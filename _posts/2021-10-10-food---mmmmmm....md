@@ -5,6 +5,7 @@ date: Sun, 10 Oct 2021 15:45:24 +0000
 category: [Food and Wine, France]
 math: true
 mermaid: true
+layout: post
 ---
 I haven't taken a lot of pictures of food here, because I'm not 100% ok with pulling out a phone and taking pictures in a nice restaurant. But I've been talked into posting the food pix I have so here they are. You'll notice that they lean to the dessert side...
 

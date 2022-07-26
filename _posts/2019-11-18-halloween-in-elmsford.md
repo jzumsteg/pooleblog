@@ -5,6 +5,7 @@ date: Mon, 18 Nov 2019 18:48:49 +0000
 category: Elmsford
 math: true
 mermaid: true
+layout: post
 ---
 We made one more trip this year - to Elmsford NY for Halloween. Craig and Annie's neighborhood really does Halloween big: the majority of the houses are decorated, from a few pumpkins to full-yard displays of ghosts, skeletons, ghouls, laser light shows and so forth. The night starts with a neighborhood party and then everyone goes out for goodies. This year the number of kids was down because it was colder and wetter than it has been, but Craig and Annie had somewhere near 200 kids come to their door. Way, way fun!
 

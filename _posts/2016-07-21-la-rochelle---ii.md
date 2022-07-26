@@ -5,6 +5,7 @@ date: Thu, 21 Jul 2016 13:57:23 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 More on La Rochelle...
 

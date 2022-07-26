@@ -5,6 +5,7 @@ date: Wed, 08 Jun 2016 12:20:53 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We walked to the Chartrettes lock yesterday to see how things were progressing. Answer: getting better. The Seine is down by six-eight feet below the locks and much of the surrounding banks that were under a lot of water Saturday are now dry. Some comparisons:
 

@@ -5,6 +5,7 @@ date: Mon, 24 Jun 2013 18:38:36 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 The weather forecast for today was promising (meaning: no rain, if also no sunshine) so we set off for a ramble to the medieval town of Provins, about an hour away. For once the forecast was accurate, and we had a fine day; well, we didn't get rained on. First, we visited St. Loup-de-Naud, a tiny little town near Provins.
 

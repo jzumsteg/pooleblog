@@ -5,6 +5,7 @@ date: Mon, 25 Jul 2016 10:20:33 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We visited Chateau Les Milandes, the home of Joséphine Baker for many years, and loved the place for many reasons. But I don't know how to talk about Joséphine Baker, because she seems to be largely unknown in the country of her birth, the United States. Here are a couple pictures of her from the mid-1920s in Paris.
 

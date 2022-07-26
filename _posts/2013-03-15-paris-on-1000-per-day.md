@@ -5,6 +5,7 @@ date: Fri, 15 Mar 2013 22:51:20 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 I was talking to a fellow today and he said that he and his wife were planning a trip to Paris for 2014. He asked me, after hearing that we'd been there quite a few times, if \\$1,000 per day was enough for Paris. He'd heard that it "...was expensive" there. I laughed and told him I though they could have a great vacation on half that amount. Then I got to thinking about how much it could cost. Here's my estimate, based on how we spend money when we're in Paris:
 

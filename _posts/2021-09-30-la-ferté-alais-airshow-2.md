@@ -5,6 +5,7 @@ date: Thu, 30 Sep 2021 06:55:12 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 <p style="text-align: center;">&nbsp;</p>
 <figure>

@@ -5,6 +5,7 @@ date: Mon, 17 Dec 2012 01:07:01 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 We have a place to stay on our France sojourn! At the suggestion of our friends, we joined the Anglophone organization in the area we want to stay in, and put an advertisement in their newsletter. A fellow who has a house in Montigny-sur-Loing, about fifteen minutes south of Fontainbleau, responded. He has a three-bedroom house, fully furnished, in this small village. The house looks wonderful, with an enclosed yard and room for Craig and Annie and Clara to stay with us when they visit. It's about a ten-minute walk to the train station, where trains leave for Paris every hour - about a 55-minute trip. Monday, Jamie and Hervé Rufin, our friends in nearby Samois-sur-Seine, visited the house to check it out for us, and pronounced it comfortable and livable. Good enough for us!
 

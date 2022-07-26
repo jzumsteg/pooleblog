@@ -5,6 +5,7 @@ date: Thu, 13 Aug 2015 15:33:40 +0000
 category: Henry
 math: true
 mermaid: true
+layout: post
 ---
 Laurie and I went to the local bakery today to buy some treats for a celebratory gathering tonight and found these meringue shoes:
 

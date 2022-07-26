@@ -5,6 +5,7 @@ date: Sat, 09 Jul 2016 10:22:11 +0000
 category: [Ambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 We found a suggested route to the small towns on the Tarn River west of Cahors, so off we went.
 

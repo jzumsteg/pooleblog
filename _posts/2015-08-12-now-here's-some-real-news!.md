@@ -5,6 +5,7 @@ date: Wed, 12 Aug 2015 11:51:30 +0000
 category: News!
 math: true
 mermaid: true
+layout: post
 ---
 Henry George Zumsteg was born to Craig and Annie this morning at 3:45, New York time. Henry weighed in at 8 lbs, 2 oz, 20 inches. No word yet as to whether he got his sister's red hair. Mom, Dad and baby are all doing well.
 

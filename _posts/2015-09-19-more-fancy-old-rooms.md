@@ -5,6 +5,7 @@ date: Sat, 19 Sep 2015 15:53:20 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 After Chateau Fontainebleau we continued our week with more fancy old rooms. We love looking at these insights into the life of the rich and famous from centuries ago - don't know why, but we do.
 <h2>Last Stay in Paris (sob, sniff, boo-hoo)</h2>

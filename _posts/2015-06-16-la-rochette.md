@@ -5,6 +5,7 @@ date: Tue, 16 Jun 2015 15:26:13 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Geeze, one post after another! You'd think I had nothing better to do!
 

@@ -5,6 +5,7 @@ date: Wed, 20 May 2015 07:00:32 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We're in Bois-le-Roi (Forest of the King). This town of 5,500 people is about 35 minutes by train south of Paris, and is where our friends Mary and Gilles live; we're staying at their house for a few days, until they kick us out.
 

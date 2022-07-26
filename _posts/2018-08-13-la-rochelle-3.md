@@ -5,6 +5,7 @@ date: Mon, 13 Aug 2018 06:23:19 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 <!-- wp:paragraph -->
 <p>This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: ). La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: <a href="http://zumsteg.us/?p=3602">2016 -1</a>, <a href="http://zumsteg.us/?p=3643">2016-2</a>, <a href="http://zumsteg.us/?p=2542">2015</a>, <a href="http://zumsteg.us/?p=769">2013</a>). For this post, I'm mostly just going to present some pictures.</p>

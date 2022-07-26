@@ -5,6 +5,7 @@ date: Tue, 31 Jul 2018 09:38:10 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 We had an...um..."interesting" day of travel yesterday. More than once we fell back on the "when something goes wrong" philosophy of our friends Marv and Becky who, when they encounter something crazy, say, "Someday we'll look back on this and laugh, so we might as well laugh about it now." Wise words...
 <h2>Driving to La Rochelle</h2>

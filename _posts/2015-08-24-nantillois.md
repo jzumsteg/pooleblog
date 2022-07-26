@@ -5,6 +5,7 @@ date: Mon, 24 Aug 2015 10:34:47 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 I will forgive you if you haven't heard of the French town of Nantillois; after all, its current population is 64. Fortunately for us, two of those 64 are Maarten and Didi, a Dutch couple who moved to Nantillois eight years ago and opened a wonderful Bed &amp; Breakfast. They are a great team: Didi runs the B &amp; B, and cooks lovely dinners for guests; Maarten has a small World War I museum, a huge amount of knowledge about that war, and gives guided battle-site tours of the area. Both of them provide a warm welcome and a memorable stay. Hmmmm, sounds like a TripAdvisor review.
 

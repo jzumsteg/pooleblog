@@ -5,6 +5,7 @@ date: Fri, 21 Sep 2012 18:21:56 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 Laurie and I plan to spend four to five months in France in 2013, with side trips to, oh, Spain, Italy, Germany and, well, anywhere that interests us. We invite you to share our journey.
 

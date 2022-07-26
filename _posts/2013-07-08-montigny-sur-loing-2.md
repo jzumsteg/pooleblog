@@ -5,6 +5,7 @@ date: Mon, 08 Jul 2013 19:15:41 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We've been here almost two months now and we've come to know our French "home town" pretty well. We're kind of known - the folks at the boulangerie know I'll be every day or so and know that, though I order almost the same thing every time, I will still slaughter their language. It really does feel like home now.
 

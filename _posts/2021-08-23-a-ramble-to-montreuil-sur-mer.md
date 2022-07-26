@@ -5,6 +5,7 @@ date: Mon, 23 Aug 2021 15:50:17 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 <figure>
 	<img src="{{site.url}}/assets/images/2021/08/DSC00273.jpg"/>

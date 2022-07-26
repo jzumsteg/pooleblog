@@ -5,6 +5,7 @@ date: Wed, 01 Aug 2018 15:59:27 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 This is our fifth stay in La Rochelle. One thing we realized almost immediately on our first stay is that La Rochelle is devoted to seafood. It's on the Atlantic, and has a long history of being a home for a large fleet of fishing boats, and a center of shellfish farmers, first and foremost being mussels, in French: moules. I was not a great fan of mussels before I arrived in La Rochelle; now, I'll have them just about every chance I get.
 

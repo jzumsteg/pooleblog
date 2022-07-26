@@ -5,6 +5,7 @@ date: Mon, 03 Jun 2013 07:23:02 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 <p>Really. Sunday, we were invited to a piano and voice recital on a houseboat in the beautiful small town of Saint-Mammès. Here's a picture of the boat, from across the river:</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" title="boat.jpg" src="http:/assets/images/2013/06/boat.jpg" alt="Boat" width="500" height="247" border="0" /></p>

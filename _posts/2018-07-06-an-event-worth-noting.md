@@ -5,6 +5,7 @@ date: Fri, 06 Jul 2018 19:46:03 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 A week ago, June 29, Laurie and I celebrated our 50th *anniversaire de mariage*. We were perfectly okay with that until I mentioned that we've been married half a century. That took away both our breaths!
 

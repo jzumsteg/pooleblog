@@ -5,6 +5,7 @@ date: Fri, 14 Jun 2013 18:46:04 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 We're glad it was "just another day," as it felt like we're getting back in the routine after our little adventure in the French healthcare system.
 

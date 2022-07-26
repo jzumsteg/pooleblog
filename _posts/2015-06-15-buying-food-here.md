@@ -5,6 +5,7 @@ date: Mon, 15 Jun 2015 09:55:56 +0000
 category: Food and Wine
 math: true
 mermaid: true
+layout: post
 ---
 Recently a friend reading the blog (that's you, Frannie)&nbsp;asked us about food markets and how the French get their food, so I've taken some pictures and will write a bit about it in this post.
 

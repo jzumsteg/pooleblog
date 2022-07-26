@@ -5,6 +5,7 @@ date: Thu, 30 Jul 2015 15:28:14 +0000
 category: [Activites, Paris]
 math: true
 mermaid: true
+layout: post
 ---
 You know how it goes trying to get together with old friends: everyone's busy, schedules fill up, time gets short and soon, it's been way too long since you've seen them. I think that situation gets to the extreme, though, when you have to plan a get-together in Paris, but that's what we did the last week with long-time friends from Seattle.
 

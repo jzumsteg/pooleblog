@@ -5,6 +5,7 @@ date: Tue, 05 Jul 2016 08:59:04 +0000
 category: [Activities, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Monpazier sits in the Lot River valley, a beautiful area. Most Americans visiting France keep themselves to the Paris area, or maybe Nice, on the Mediterranean coast. These are big cities, and so those tourists never see and enjoy rural France. In fact, much of France is rural, and much of that rural France is beautiful. In both our Monpazier visits we've taken long, slow drives through the area and have found it to be a wonderful look at a France most tourists miss.
 

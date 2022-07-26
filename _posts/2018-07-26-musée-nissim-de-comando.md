@@ -5,6 +5,7 @@ date: Thu, 26 Jul 2018 16:46:55 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 As promised, yesterday we went to the Musée Nissim de Comando, one of our favorites. First, a little background on this gem.
 

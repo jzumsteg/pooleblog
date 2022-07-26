@@ -5,6 +5,7 @@ date: Mon, 01 Oct 2018 23:43:26 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We spent six days in Elmsford as we returned from France. I gotta say that having Elmsford to break up the Seattle - Paris journey is fabulous. Instead of a 11-hour Paris - Seattle flight, we have a one 7-1/2 hour flight (Paris - JFK), a six hour time change and six days to recover from it, then a six hour flight back to Seattle. And, best of all, of course, we get to spend time with Craig and Annie and Clara and Henry. Pretty hard to beat that, I gotta say.
 

@@ -5,6 +5,7 @@ date: Wed, 27 Jun 2018 11:06:34 +0000
 category: Ambles
 math: true
 mermaid: true
+layout: post
 ---
 Saint-Mammès is one of our favorite places to visit for a walk, so today off we went. As always we enjoyed our stroll, and the morning ended with a surprise - a good one, at that.
 

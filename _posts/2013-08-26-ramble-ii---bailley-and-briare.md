@@ -5,6 +5,7 @@ date: Mon, 26 Aug 2013 14:49:44 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 We're off on another ramble! Our first stop is in Bailley, where we'll visit the caves of the local wine cooperative. This winery is known for sparkling wines - we'd call them champagnes except that a wine cannot be called a champagne unless it comes from the champagne region. The wines made here are made with the same type grape using the same process as champagne, but "champagne" they aren't and "sparkling wines" they are.
 

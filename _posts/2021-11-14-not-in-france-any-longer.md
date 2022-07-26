@@ -5,6 +5,7 @@ date: Sun, 14 Nov 2021 16:33:02 +0000
 category: St. Louis
 math: true
 mermaid: true
+layout: post
 ---
 I'm writing this from home, back in Renton. We flew from Paris to St. Louis four weeks ago, spent a week with Craig and Annie and Clara and Henry, then came home three weeks ago. Are we happy to be back? Yes, as always. Were we sorry to leave France? Yes, as always. Sorry to leave St. Louis and Craig and Annie and Clara and Henry? Yes, as always.
 <h2>The Return</h2>

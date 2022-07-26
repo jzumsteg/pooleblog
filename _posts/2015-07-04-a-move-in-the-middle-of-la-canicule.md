@@ -5,6 +5,7 @@ date: Sat, 04 Jul 2015 15:03:00 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 "La Canicule" is French for "heat wave," and that is exactly what we've had. This afternoon (Saturday, July 4; oddly enough, in France July 4th is just another day) it's about 82F with some rain and thunder showers. That's the coolest afternoon we've had in a week, and it's going to stay in the mid- to high-80s for a week. Last Tuesday it was 102F here; broke a record for the day.
 

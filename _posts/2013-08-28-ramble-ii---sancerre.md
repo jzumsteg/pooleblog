@@ -5,6 +5,7 @@ date: Wed, 28 Aug 2013 13:10:19 +0000
 category: [Places,Rambles]
 math: true
 mermaid: true
+layout: post
 ---
 Next, we drove to the town of Sancerre. I doubt anyone knows of Sancerre unless they like French white wine. The region around Sancerre produces a beautiful white wine. One small part of the city proper is a bit touristy, with lots of places to try and buy the wines of Sancerre. Other parts are quiet and beautiful:
 [gallery size="medium" link="files" columns="2" ids="1507,1508,1509,1510,1511"]

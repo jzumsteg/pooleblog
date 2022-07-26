@@ -5,6 +5,7 @@ date: Fri, 22 May 2015 07:50:15 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We have a bunch of books of Paris walks, because Paris is definitely a city that rewards walkers. Heck, there's even a French word for a person who just strolls in the city: flaneur. That's us, a pair of flaneurs in our favorite city.
 

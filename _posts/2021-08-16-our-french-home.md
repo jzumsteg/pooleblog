@@ -5,6 +5,7 @@ date: Sat, 14 Aug 2021 15:17:32 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 In blog posts of previous trips here I've written some about Bois-le-Roi, which is where we stay when we do one of the long-stay trips. But maybe there are some new people to this blog and who haven't fled yet, so I'm going to post a short description of Bois-le-Roi (and at the end, I'll include links to earlier posts about this town).
 

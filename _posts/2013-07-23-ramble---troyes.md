@@ -5,6 +5,7 @@ date: Tue, 23 Jul 2013 13:41:50 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Okay, let's start with the pronunciation of the city of Troyes. One would, at first glance, think it was pronounced as we pronounce "Troy" in English; I mean, after all, there are only two lousy letters tacked on to the end, and everyone knows that in French, you don't pronounce the 's' at the end of a word, and the 'e' only serves to force the pronunciation of the letter before it, so it's "troy," right.
 

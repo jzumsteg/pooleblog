@@ -5,6 +5,7 @@ date: Sat, 13 Jul 2013 07:14:02 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We spent Wednesday afternoon, Thursday and Friday morning in Paris this week. Our friends Mary & Gilles have graciously allowed us to stay at their apartment in Paris whenever we want, and I can tell you that it's quite nice to be able to go in, stay a night or two and know that we don't have do everything on our list of things we want to do; we can do them next trip. 
 

@@ -5,6 +5,7 @@ date: Sun, 09 Jun 2013 16:21:24 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Today the weather turned sour again - we had a huge lightning-thunderstorm last night and woke up to clouds and cool temps and likely rain. So we decided to drive to the town of Chateau-Landon.
 

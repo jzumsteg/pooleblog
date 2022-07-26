@@ -5,6 +5,7 @@ date: Wed, 13 Nov 2019 19:49:20 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 We stayed home this year and decided to make a couple local trips, here in the good ol' U.S of A. We had a great time! After our cross-country drive, we took two short trips to places about as different as could be, and loved both of them. Both were breathtakingly beautiful in completely different ways.
 

@@ -5,6 +5,7 @@ date: Fri, 12 Jun 2015 11:01:47 +0000
 category: Food and Wine
 math: true
 mermaid: true
+layout: post
 ---
 I don't think we'll get to all the cheeses in France, but we're making an effort. Today:
 

@@ -5,6 +5,7 @@ date: Mon, 14 Sep 2015 19:13:03 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Today Laurie and I went to Chateau de Fontainebleau again. This is at least our third visit (and maybe the fourth) and we enjoy it more each time.
 <h2>The Best Audio Guide We've Encountered</h2>

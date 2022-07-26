@@ -5,6 +5,7 @@ date: Sun, 24 Jun 2018 10:13:37 +0000
 category: Ambles
 math: true
 mermaid: true
+layout: post
 ---
 As we have no rambles planned for the next two weeks, we'll be doing lots of walks and day-trips from our home-base here in Bois-le-Roi. I'm working on a post for just Bois-le-Roi so you can see where we are spending June (I'll do another for Samois-sur-Seine, to which we move next week). For now, though, a quick post about a walk.
 

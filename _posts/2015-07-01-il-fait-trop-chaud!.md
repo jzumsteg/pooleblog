@@ -5,6 +5,7 @@ date: Wed, 01 Jul 2015 12:22:17 +0000
 category: Miscellaneous
 math: true
 mermaid: true
+layout: post
 ---
 Wednesday July 1, 2 p.m.: 97.5F and forecast to reach 101 by later this afternoon. Oy.
 

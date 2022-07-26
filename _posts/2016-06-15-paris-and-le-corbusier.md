@@ -5,6 +5,7 @@ date: Wed, 15 Jun 2016 17:10:52 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We made our first foray into Paris this week - went in Monday morning and just returned (Wednesday afternoon). Paris is Paris; we're always so glad to be back in the city.
 

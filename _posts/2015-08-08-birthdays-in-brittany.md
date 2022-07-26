@@ -5,6 +5,7 @@ date: Sat, 08 Aug 2015 14:35:56 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Last Friday we saddled up the trusty old Renault and headed to Brittany to celebrate a bunch of birthdays. Our friends Jamie and Hervé Rufin, who have vacationed on the Presq'ile Quiberon for a number of years, last year bought a beautiful house there and invited three couples to join them over a long weekend; three of the four wives were celebrating birthdays that weekend, Laurie's is not too far away, and one husband's was the day before we arrived - a plethora of reasons to celebrate!
 

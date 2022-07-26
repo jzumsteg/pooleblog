@@ -5,6 +5,7 @@ date: Sat, 25 May 2019 23:09:21 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 <p class="p2"><span class="s1">I didn’t think I’d post anything about our 2019 sojourn, but since we like using the blog as a way to remember our trips, I’ve decided to do one for this year’s travels, and maybe both readers of this blog will enjoy it a bit.</span></p>
 <p class="p2"><span class="s1">This trip germinated last Christmas when we were here in Elmsford. We had already decided that we would drive our old Toyota RAV4 to Elmsford so Craig and Annie could have a second car. Then one night we were sitting around testing Craig’s Tiki-drink-mixing skills (he passed summa cum laude) when Annie mentioned that she could attend a conference in Paris in late May. Immediately, Laurie and I said, “We’ll take care of the kids so you and Craig can both go and have a vacation in Paris.” It took Craig and Annie about 3 seconds to accept that offer. So here we are.</span></p>

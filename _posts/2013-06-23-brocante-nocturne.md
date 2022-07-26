@@ -5,6 +5,7 @@ date: Sun, 23 Jun 2013 10:01:54 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 Brocante appears in the www.wordreference.com French-English dictionary translated as "bric-a-brac," "second-hand," and "junk." After visiting the Montigny-sur-Loing Brocante Nocturne ("nocturne" because it went from noon to midnight), I lean toward the third of those definitions.
 

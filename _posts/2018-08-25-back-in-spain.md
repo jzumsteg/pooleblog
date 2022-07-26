@@ -5,6 +5,7 @@ date: Sat, 25 Aug 2018 07:01:47 +0000
 category: Spain
 math: true
 mermaid: true
+layout: post
 ---
 <!-- wp:paragraph -->
 <p>We came from Saint-Jean-de-Luz in France yesterday to Zamora, Spain. Now, I know I owe you posts on some day-trips we took last week, and one on Saint-Jean-de-Luz ("appalling" might sum it up), but our return to Spain has been pretty amazing, so I'm going to skip ahead. I will fit in those last two France posts Real Soon Now.</p>

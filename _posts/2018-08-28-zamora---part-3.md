@@ -5,6 +5,7 @@ date: Tue, 28 Aug 2018 16:00:52 +0000
 category: [Spain, Places]
 math: true
 mermaid: true
+layout: post
 ---
 <h2>Santa Semana</h2>
 The week before Easter is a big deal in Spain. No, let me correct that: a huge deal in Spain. In many cities and towns little else happens during Holy Week except Holy Week activities. Seville is said to be the biggest, and Zamora has to have the most intense celebration for a smaller place. Zamora even has a museum dedicated to Santa Semana, which we visited and at which we were amazed/astonished/fascinated!

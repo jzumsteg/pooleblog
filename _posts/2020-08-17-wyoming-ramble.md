@@ -5,6 +5,7 @@ date: Mon, 17 Aug 2020 02:09:49 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 Maybe it was cabin fever or because we had to cancel a three-month France trip this summer, but when our friends Eric and Shelley asked if we would like to visit them during their stay in Jackson Hole, Wyoming, where they were working from "home" (a beautiful old condo actually within the boundaries of Grand Teton National Park), we thought about it for, oh, two or three seconds before saying "YES, INDEED!"
 

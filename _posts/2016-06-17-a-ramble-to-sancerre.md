@@ -5,6 +5,7 @@ date: Fri, 17 Jun 2016 19:53:51 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Today we drove with Mary and Gilles to Sancerre, about an hour and a half south of Bois-le-Roi. The motivation for making this trip was simple: buy some Sancerre wine from a small winery that we know and appreciate. So off we went.
 

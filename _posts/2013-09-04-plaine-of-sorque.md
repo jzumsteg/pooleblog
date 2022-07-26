@@ -5,6 +5,7 @@ date: Wed, 04 Sep 2013 15:44:06 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 The weather has turned hot again - mid-80s today; we're keeping the strenuous activity to a minimum and to the morning. This morning we returned to an area near us that is designated as a nature preserve: the Plaine of Sorque.
 

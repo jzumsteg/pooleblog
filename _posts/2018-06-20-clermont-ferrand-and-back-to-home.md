@@ -5,6 +5,7 @@ date: Wed, 20 Jun 2018 14:39:55 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 After Albi, we turned toward home (Bois-le-Roi home, that is), making two stops on the way. The first was near the town of Puy-en-Velay, and the second at Clermont-Ferrand.
 

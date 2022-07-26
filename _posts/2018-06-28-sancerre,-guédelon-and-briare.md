@@ -5,6 +5,7 @@ date: Thu, 28 Jun 2018 13:50:50 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 On our first long stay here (2013), we did a ramble to Bourges and some places around there, and we asked Mary and Gilles if we could go to Sancerre. Although we were not great white wine fans, we'd heard of the white wines of Sancerre. We went, we tried, we were hooked; the white wines of Sancerre are dry and flinty - they have a hint of minerality to them that we love. Fortunately, we can drive to Sancerre in about an hour and three-quarters, so Tuesday the four of us headed south, added a side trip to Guédelon, bought a little wine at a Sancerre winery, and stopped for a bit on the way back to see a favorite bridge.
 <h2><strong>Guédelon</strong></h2>

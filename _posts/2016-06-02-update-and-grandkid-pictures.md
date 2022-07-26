@@ -5,6 +5,7 @@ date: Wed, 01 Jun 2016 23:20:05 +0000
 category: [Travel, Clara, Henry]
 math: true
 mermaid: true
+layout: post
 ---
 First, the update: the European news agency Reuters reports that the French air traffic controllers have called off their strike this weekend. We haven't seen any corroboration of that and until I see it on the Air France site, I won't be 100% convinced, but at least there's some hint of good news.
 

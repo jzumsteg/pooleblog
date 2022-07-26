@@ -5,6 +5,7 @@ date: Mon, 21 Sep 2015 20:24:17 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 Most folks who know me know I love old cars and old airplanes; today I got up-close-and-personal with a classic French car, the Citroën 2CV. Last Saturday night we had a wonderful dinner; one couple there own a Citroën Deux-Chevaux and when I mentioned how much I enjoy 2CV's Helen asked if I'd like to see hers and go for a ride. Well, of course I would!
 

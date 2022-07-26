@@ -5,6 +5,7 @@ date: Sat, 13 Jul 2013 13:40:20 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 Warning: history follows!
 

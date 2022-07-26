@@ -5,6 +5,7 @@ date: Mon, 25 Jul 2016 09:14:54 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 La Rochelle has a little boat that goes between the old harbor and a big new marina called Les Minimes. It's about a twenty minute ride each way and gives a beautiful look at the harbor from a different perspective, that of being on the water. On our previous trips here we kept saying we were going to do this little boat trip, but never seemed to make it; we were determined to do it this time. Here's the boat:
 

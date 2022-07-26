@@ -5,6 +5,7 @@ date: Fri, 05 Jun 2015 18:51:41 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We came back to Paris this week, as the weather here was forecast to be excellent. It has been that; in fact, too excellent, as the temperature is forecast to be 90 or higher today (Friday). That's just a bit too much; I do okay in such hot weather, but Laurie wilts, and even for me, it's not so enjoyable. "Strong storms" are forecast for this afternoon, so we'll probably head back to Bois-le-Roi a day earlier than we'd planned. But we got in a great two days of rambling around and here's a (longish) report on them. I'll include lots of pictures - you can double-click any of them to get a full-size picture.
 

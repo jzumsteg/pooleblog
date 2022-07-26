@@ -5,6 +5,7 @@ date: Thu, 19 Jul 2018 15:39:44 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 A great benefit of staying here for a longer time is that we can do things that we wouldn't do if we were here for three or four weeks. Today is an example of that. In 2013 we stayed in the small town of Montigny-sur-Loing for five months; Montigny is about twenty-five minutes south of our current homebase in Samois-sur-Seine. While there, we walked miles along the Loing Canal, which connects the Seine with another canal 45 miles south. Today, we got to float down it!
 

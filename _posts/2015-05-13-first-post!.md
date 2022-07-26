@@ -5,6 +5,7 @@ date: Wed, 13 May 2015 19:42:57 +0000
 category: [Places, Clara]
 math: true
 mermaid: true
+layout: post
 ---
 No, we haven't made it to France, yet. We're in Elmsford, NY, with the East Coast Z's. We arrived Monday and will be here until mid-day tomorrow - Thursday, 5/14 - when we head for JFK and that Air France monster.
 

@@ -5,6 +5,7 @@ date: Tue, 05 Jun 2018 10:24:46 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 After our brief stay in Brive-la-Galliard, it was on to our destination, the Gers region. This region is in southwest France and although we visited just a small part on its northern edge, we enjoyed it greatly.
 The impetus for this trip was mostly a book: "Duck Season" by David McAninch. Now I'm not generally a fan of the "American moves to a small town in a foreign country and learns the meaning of life" genre of books, but this one was great. The Gers is famous for the quantity and quality of the ways it serves duck and Mr. McAninch writes about the ways that ducks pervade life in the Gers: hunting ducks, raising ducks, cooking ducks, eating ducks, stuffing ducks to get foie gras, etc., etc. It all sounded interesting, so off we went with Mary &amp; Gilles, our ever-patient friends.

@@ -5,6 +5,7 @@ date: Sun, 03 Jul 2016 17:38:37 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 Eight years ago we came to Monpazier and have wanted to return ever since. We were able to arrange it this year and we are so glad we did. This is an amazing town, with quite a history, situated in the beautiful Lot River valley.
 

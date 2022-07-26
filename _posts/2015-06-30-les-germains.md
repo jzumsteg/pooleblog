@@ -5,6 +5,7 @@ date: Tue, 30 Jun 2015 13:28:02 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 Laurie tells me that a number of blog readers know our friends Mary and Gilles Germain, so she's asked me to post some pictures of Mary and Gilles and their family. As the whole family was in Bois-le-Roi this last weekend, with the exception of son-in-law Fabien, here goes.
 

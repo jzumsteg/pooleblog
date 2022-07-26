@@ -5,6 +5,7 @@ date: Thu, 25 Jun 2015 16:08:49 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 When we were here a couple years ago, we walked the length of the Loing Canal from its start to past Nemours, doing couple-mile stretches as a time. Since we don't have any canals nearby, this year we're walking along the Seine, seeing what we can see and watching traffic on the river. It's a very enjoyable way to see the country-side, and get a little exercise while we're at it.
 

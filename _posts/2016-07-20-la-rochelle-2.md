@@ -5,6 +5,7 @@ date: Wed, 20 Jul 2016 15:22:28 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We're back in our favorite city, La Rochelle. We love this place and find that we enjoy it more every time we're here (this is our fourth visit). This time the weather is working to dissuade us, but it won't work. In 2013 we came twice because our first visit, in late-June encountered cool and cloudy weather. Still we loved the place, not least because we got a room on the top floor of our hotel, overlooking the entrance to the La Rochelle harbor and we spent hours just watching the activity of boats in and out of the harbor. We came back in September, asked for the same room and encountered about the same weather, but our love of the city just increased. Last year we decided to come in late July, knowing that even though the city would be stuffed with French families on vacation, the weather would be better, and it was. So it was that we booked for mid-July again this year, again asking for "our"room. We arrived yesterday in 98 degree sunshine. Woke up this morning to rain, lightning, thunder and winds (our hotel is named les Brises and it lived up to its name today!). But what the heck, we still love it. Here's some pictures.
 <h2>Le P'tit Bleu</h2>

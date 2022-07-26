@@ -5,6 +5,7 @@ date: Tue, 01 Sep 2015 10:42:34 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Ever since we arrived in mid-May, Hervé Rufin has been trying to organize a Saturday night visit to the chateau of Vaux-le-Vicomte for the candle-light visit. Finally, last Saturday the stars aligned and we made it.
 

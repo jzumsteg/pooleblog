@@ -5,6 +5,7 @@ date: Mon, 05 Aug 2013 18:21:02 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Okay, our trip to Saint-Pierre-Quiberon requires a little up-front explaining, as most of you know Laurie and I are not beach people, and Saint-Pierre-Quiberon is most definitely a beach community.
 

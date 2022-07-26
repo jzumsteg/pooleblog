@@ -5,6 +5,7 @@ date: Tue, 16 Jun 2015 06:48:12 +0000
 category: tbd
 math: true
 mermaid: true
+layout: post
 ---
 These pictures were taken from our bedroom windows at 9:58 last night.
 

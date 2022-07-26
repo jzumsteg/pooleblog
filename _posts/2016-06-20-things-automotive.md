@@ -5,6 +5,7 @@ date: Mon, 20 Jun 2016 14:06:12 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 A few years ago I wrote about parking in France. It has not changed. My conclusion about parking in France is that a driver can park a car anywhere as long as 1) the car doesn't block traffic or a pedestrian crosswalk; and 2) the driver puts the blinkers on. In fact, I think in many cases the driver can ignore rule 1 if he or she obeys rule 2.
 

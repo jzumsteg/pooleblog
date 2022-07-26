@@ -5,6 +5,7 @@ date: Sun, 31 May 2015 20:44:29 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 France has a lot of châteaux - a <strong>LOT</strong> of châteaux. Although the best known are in the Loire Valley, there are beautiful châteaux everywhere around us; yesterday we visited Courances, a Renaissance château best known for its beautiful water garden park.
 

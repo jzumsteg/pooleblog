@@ -5,6 +5,7 @@ date: Thu, 03 Oct 2013 14:08:33 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 Last week, the Berlin Zumstegs descended on Montigny-sur-Loing. We were sooooooo glad to have them here and sooooooo sad to see them leave. Rather than a long, detailed and boring account of what we did, here are some pictures, mostly of Clara.
 

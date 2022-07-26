@@ -5,6 +5,7 @@ date: Tue, 12 Nov 2019 19:49:36 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 <h1>Northeastern Oregon - Joseph and the Zumwalt Prairie</h1>
 For our next ramble we could hardly have chosen a place more different than the forests and coastline of Northern California. Joseph, population about 800, sits in northeastern Oregon, 10 minutes from the thriving town of Enterprise (population: 2,000; also the home of Terminal Gravity Brewing, an excellent brewer of craft beers). Although Joseph has gained a reputation as an artists' colony and has several art fairs through the year, there isn't much here really.

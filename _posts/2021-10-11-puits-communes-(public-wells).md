@@ -5,10 +5,11 @@ date: Mon, 11 Oct 2021 14:40:43 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 One day while walking down our street, we saw this in a wall near our cottage:
 
-<figure class="portrait" >
+<figure >
 	<img src="{{site.url}}/assets/images/2021/10/DSC01930.jpg"/>
 	<figcaption><em>This well started our search. It's about a hundred yards from our cottage here in Bois-le-Roi.</em></figcaption>
 </figure>
@@ -25,76 +26,76 @@ So on our almost-daily walks, we kept an eye out for puits. More than once I wal
 
 For your viewing pleasure, here are the puits we've found, in no particular order:
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01813.jpg"/>
 	<figcaption><em>Rue de France, near the railroad.&nbsp;</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01706.jpg"/>
 	<figcaption><em>Rue Guido-Sigriste, in the wall. This one is practically across the street from our cottage and we'd never seen it.</em></figcaption>
 </figure>
 
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01705.jpg"/>
 	<figcaption><em>Rue Guido Sigriste, in a house courtyard.</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01702.jpg"/>
 	<figcaption><em>Rue Denecourt.</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01698.jpg"/>
 	<figcaption><em>Rue de la Republique, in a courtyard.</em></figcaption>
 </figure>
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01936.jpg"/>
 	<figcaption><em>An unusual well; it has a rounded front with the opening on the side. No other well looks like this.</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01697.jpg"/>
 	<figcaption><em>Rue de Republique, top of a hidden puit. We've never gotten a good look at this one, as it's behind two gates, but it's definitely a well, and I found an 1848 map that shows a well in this location.</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01693.jpg"/>
 	<figcaption><em>Rue Louis Letang, near place Republique.</em></figcaption>
 </figure>
 
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01692.jpg"/>
 	<figcaption><em>Rue Carnot, behind the boucherie.</em></figcaption>
 </figure>
 
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01690.jpg"/>
 	<figcaption><em>Rue de France, in a courtyard.</em></figcaption>
 </figure>
 
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01938.jpg"/>
 	<figcaption><em>The last found, on the back wall of a courtyard.</em></figcaption>
 </figure>
 
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2021/10/DSC01691.jpg"/>
 	<figcaption><em>Rue de France, in a courtyard - not entirely sure this is one of the puits communes.</em></figcaption>
 </figure>

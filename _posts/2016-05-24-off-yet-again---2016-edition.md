@@ -5,6 +5,7 @@ date: Tue, 24 May 2016 16:03:12 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 Yes, we are heading off to France again this summer, so stay tuned and I'll post updates on what we're doing. We'll be gone a shorter time this year: three months in France, and five days coming and going in New York, visiting Craig and Annie and getting serious grandkid-squeezing time with Clara and Henry. Our basic time-line:
 

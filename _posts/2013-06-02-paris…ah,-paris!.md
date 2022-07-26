@@ -5,6 +5,7 @@ date: Sun, 02 Jun 2013 18:58:16 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 Yesterday we went into Paris for the first time this trip. We delayed that foray because the weather has been so bad (it's official: the worst May since the 1880's) but yesterday started what is forecast to be a ten-day streak of good weather, so off we went with our friends Mary &amp; Gilles.
 
@@ -14,11 +15,11 @@ Paris is a city that rewards looking up; the buildings are (almost) all beautifu
 
 <img style="display: block; margin-left: auto; margin-right: auto;" title="Paris buildings 1.jpg" src="http:/assets/images/2013/06/Paris-buildings-1.jpg" alt="Paris buildings 1" width="500" height="297" border="0" />
 
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2013/06/Promenade-Plantee.jpg"/>
 	<figcaption><em>We walked along Promenade Plantée, a converted train viaduct in the middle of the 12th arrondissement. Now it's a beautifully planted walk above the city. This offers an unusual view of Paris, as the Promenade is about 30 feet above ground level for much of its route, so you're always looking down on streets and buildings. This was a railroad track to Bastille until the 1960s, and was converted to a promenade in the 70's</em></figcaption>
 </figure>
-<figure class="portrait">
+<figure>
 	<img src="{{site.url}}/assets/images/2013/06/Lafayette-grave.jpg"/>
 	<figcaption><em>Lafayettte's grave</em></figcaption>
 </figure>

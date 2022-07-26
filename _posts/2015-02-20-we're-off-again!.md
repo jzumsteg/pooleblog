@@ -5,6 +5,7 @@ date: Fri, 20 Feb 2015 20:25:12 +0000
 category: [Travel]
 math: true
 mermaid: true
+layout: post
 ---
 Yes, it's back to France, for another extended stay!
 

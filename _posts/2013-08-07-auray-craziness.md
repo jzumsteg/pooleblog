@@ -5,6 +5,7 @@ date: Wed, 07 Aug 2013 18:46:51 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 If you travel around enough, you will surely encounter some things you just could not expect. The harbor of Auray gave us just that experience.
 

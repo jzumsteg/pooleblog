@@ -5,6 +5,7 @@ date: Fri, 26 Aug 2016 15:40:26 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We went into Paris for a couple days last week. After watching the weather for a few days we realized we had a choice: Paris cool and with a chance of rain, or Paris hot. The forecast was right: this week in Paris (and here in Bois-le-Rois) has been hot, hot, hot - in the mid-90s. Now Paris in the rain isn't great, but Paris in the mid-90s is undoable for us. So off we went Friday.
 

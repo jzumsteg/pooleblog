@@ -5,6 +5,7 @@ date: Mon, 03 Sep 2018 17:47:39 +0000
 category: Spain, Places]
 math: true
 mermaid: true
+layout: post
 ---
 <h2>Vejer de la Frontera</h2>
 We headed south from Trujillo, where it was hot, to Vejer de la Frontera, where it was hotter - approaching 100°. Vejer is a "pueblo blanco" - a white town, so named because it has been here for a thousand or more years and every building in the town is stark white, an effort to live with the hot sun here. There are many pueblos blancos in southern Spain and Vejer has been one of our favorites on two previous stays here. It was small, not overrun with tourists, quiet, with a hotel that we really liked.

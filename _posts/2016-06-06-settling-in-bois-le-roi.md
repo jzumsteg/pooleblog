@@ -5,6 +5,7 @@ date: Mon, 06 Jun 2016 16:10:00 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 We made it, safely and soundly! The flight over was fine: left on time, the meal was actually tasty (not unusual on Air France), we arrived on time, contacted the car-lease company without a problem, a van came to pick us up, the car was ready (bright red, our favorite color for a car), and the drive to Bois-le-Rois uneventful. The only hitch was arriving at Charles de Gaulle airport and seeing a loooooooooooooong line for passport control. I guessed it at 90 minutes, but then another section opened up and it was only 50 minutes. The most frustrating part: there were twenty stations available - two passport officer positions per station - and exactly half of them were staffed. This with way more than a thousand people in line and more arriving every minute. Oh, well, at least we knew we wouldn't have to wait for our luggage.
 

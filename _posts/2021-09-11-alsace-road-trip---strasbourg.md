@@ -5,6 +5,7 @@ date: Sat, 11 Sep 2021 13:56:23 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 <h1  style="font-family: verdana;">Alsace</h1>
 We've been on a road trip to Alsace, in eastern France, for the last week and a half. We visited Strasbourg, Colmar and Mulhouse (pronounced "ma-looze," of course). We've never been to this part of France and Mary has suggested it for a road trip over the last few years. We finally got it together and are very glad we did; this is a very enjoyable, and very different, part of France.

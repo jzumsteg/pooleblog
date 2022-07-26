@@ -5,6 +5,7 @@ date: Thu, 11 Aug 2016 07:46:57 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 As I pointed out in the Carnac post, we're in the small town of Saint-Pierre-Quiberon. This is on the southeastern edge of Brittany, on Presqu'île Quiberon. Now, "presqu'île' translates to "almost an island:" in English, a peninsula. So we have water on the east side, the protected Bay of Quiberon, and water on the west side, open to the Atlantic Ocean. The west side is called, appropriately, the Côte Sauvage - the Wild Coast. It reminds us strongly of the Washington and Oregon coasts: headlands and inlets, and crashing waves.
 

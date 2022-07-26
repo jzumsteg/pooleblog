@@ -5,6 +5,7 @@ date: Fri, 24 Jul 2015 08:16:06 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 When we were in France two years ago, we went to La Rochelle after reading Ina Caro's chapter on this historic city in her book, "Paris to the Past." Like her, we immediately fell in love with the place and returned later that year. Since then we've looked forward to a trip back to La Rochelle and Monday, off we went. We are happy to report that we love this place even more than ever.
 

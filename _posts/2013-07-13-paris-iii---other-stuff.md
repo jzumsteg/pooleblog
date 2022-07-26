@@ -5,6 +5,7 @@ date: Sat, 13 Jul 2013 14:30:32 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We love to walk in Paris. I'm not sure there's a better city in the world for walking, so we do a lot of walking. Here are some highlights of our walks in Paris this last week.
 

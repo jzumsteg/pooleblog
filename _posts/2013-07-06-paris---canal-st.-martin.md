@@ -5,6 +5,7 @@ date: Sat, 06 Jul 2013 07:56:03 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 Some years ago, on our first stay in Paris, I read about a boat ride on Canal St. Martin. We decided that it would be a perfect first-day, recovering-from-jet-lag activity for that trip: two and a half hours of sitting and floating through an interesting part of Paris. It was, indeed, a perfect first-day activity, and a walk along Canal St. Martin has become our favorite walk in Paris. So today, our first real day back in Paris, we walked Canal St. Martin.
 

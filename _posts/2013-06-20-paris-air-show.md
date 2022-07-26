@@ -5,6 +5,7 @@ date: Thu, 20 Jun 2013 08:19:14 +0000
 category: Events
 math: true
 mermaid: true
+layout: post
 ---
 Caution: Airplane geekiness follows! 
 

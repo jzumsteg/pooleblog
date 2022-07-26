@@ -5,6 +5,7 @@ date: Sat, 02 Jul 2016 15:59:44 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
+layout: post
 ---
 From Bordeaux, we drove to Fronsac. Now, Fronsac is not exactly a world-famous destination; with a population of about 300, it hasn't exactly made a name for itself.
 

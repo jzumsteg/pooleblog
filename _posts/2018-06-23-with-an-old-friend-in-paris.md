@@ -5,6 +5,7 @@ date: Sat, 23 Jun 2018 15:33:07 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 We had the great pleasure to introduce an old friend to Paris a couple weeks ago. When Laurie and I were in Coronado, across the bay from San Diego (in my Navy days), we became closest of friends with Paul and Sue, who lived in the same apartments. We have stayed in touch with them ever since, though we moved to the Northwest and they stayed in the San Diego area. Before we left, we got an email from Paul, who was starting a tour in Paris and wondered if, should he arrive a couple days early, we could get together. *Mais bien sûr!*  We think it's been 12 years since we've seen them, so we were really looking forward to seeing him (Sue decided to stay home...the tour Paul was going on was a military history route; more on that in a bit).
 

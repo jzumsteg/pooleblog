@@ -5,6 +5,7 @@ date: Mon, 25 May 2015 15:21:07 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 Last Saturday Gilles was set to watch an important Rugby match of his favorite team, from his hometown area of Clermont-Ferrand. Knowing that it would be a really good idea for us to be absent during the match, Mary, Laurie and I set off for Égreville, to see some beautiful countryside and to visit a garden of sculptures by Antoine Bourdelle.
 

@@ -5,6 +5,7 @@ date: Wed, 04 Aug 2021 18:30:30 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 Yes, believe it or else, we are back in the traveling mode. We arrived in France last Sunday, after reasonably pleasant flights on Delta Airlines - St. Louis to Atlanta and then Atlanta to Paris. Picked up a car, drove to Mary and Gilles for a quick visit with their family, then to our French "home away from home." Very nice to be back!
 

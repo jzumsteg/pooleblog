@@ -5,6 +5,7 @@ date: Wed, 29 May 2013 08:27:00 +0000
 category: France
 math: true
 mermaid: true
+layout: post
 ---
 <p>Laurie and I have always, on our travels, been drawn to water: rivers and canals in particular. So it's no surprise that today (May 19 - late post because of no Internet until today, May 29), the first sunny day we've had since we arrived, we would choose to walk along a canal that runs a mile or so south of here. The surprise was what we encountered there.</p>
 <p>Canals criss-cross France; they are nearly all connected, so a canal boat can travel from the very north of France to the Mediterranean. Old canals are not wide, and the locks on them are built to a standard length and width specification which was once suitable for canal boats carrying goods. Today, though, for a canal boat to be profitable, it must be huge, and so they are limited to the larger rivers: near Chartrettes, where Mary and Gilles live, is a lock that is probably a quarter of a mile long and fifty yards wide. BIG boats use it, loaded heavily with rock and sand being taken to cement factories on the Seine north of Paris.</p>

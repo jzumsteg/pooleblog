@@ -5,6 +5,7 @@ date: Wed, 28 Aug 2013 12:59:43 +0000
 category: Rambles
 math: true
 mermaid: true
+layout: post
 ---
 Both readers of this blog know that Laurie and I are fascinated by the canals of France. Honestly, we can't say why but we like to walk along them and we like to watch boats go through the locks. Most of the canals in France are no longer used for commercial boats; the Canal du Loing, which is near our French home of Montigny-sur-Loing, sees maybe two or three commercial boats a day, and we're not sure why there are that many. The canals now are almost exclusively for pleasure boats.
 
