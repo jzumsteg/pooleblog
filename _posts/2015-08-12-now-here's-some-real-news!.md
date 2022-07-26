@@ -13,11 +13,11 @@ We're grandparents again, and happy as can be. Champagne will be drunk tonight (
 
 Update: A picture!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/08/IMG_0023.jpg"/>
 	<figcaption>Henry!</figcaption>
 </figure>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/08/IMG_00231.jpg"/>
 	<figcaption></figcaption>
 </figure>

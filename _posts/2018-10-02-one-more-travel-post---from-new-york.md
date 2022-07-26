@@ -13,108 +13,108 @@ And to add to the benefits, Craig has become an aficionado and expert of tiki dr
 
 But I know all you want to see is pictures of the New York Z's, so here they are:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07934.jpg"/>
 	<figcaption><em>The New York Zumstegs. Craig often has that look, especially at the end of Henry's non-preschool days, except there's no smile.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/IMG_2361.jpg"/>
 	<figcaption><em>Henry as Marshall of the Paw Patrol. Don't ask us; we'd never heard of the Paw Patrol either</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/IMG_2365.jpg"/>
 	<figcaption><em>Henry on Paw Patrol</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/IMG_2380.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07875.jpg"/>
 	<figcaption><em>Henry - age 3.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07968.jpg"/>
 	<figcaption><em>Clara getting a head start on her 8th birthday, which was the day after we left. Bad planning on our part, methinks.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC08007.jpg"/>
 	<figcaption><em>Clara's American Girl dolls ready to go for their hair appointment. Yes, really.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC08015.jpg"/>
 	<figcaption><em>Clara and friend Daisy ready to head into Manhattan for Clara's birthday. They went to the Statue of Liberty and had an appointment at the American Girl store.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07997.jpg"/>
 	<figcaption><em>Clara sporting her braided hair. Her hair still is pretty darn red.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07998.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/DSC08000.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/DSC08012.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07928.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07922.jpg"/>
 	<figcaption><em>The new additions to the Elmsford household: Foxy and Pumpkin.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07895.jpg"/>
 	<figcaption><em>A moment (fleeting) of sibling peace and togetherness.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/10/DSC07872.jpg"/>
 	<figcaption><em>And another.</em></figcaption>
 </figure>

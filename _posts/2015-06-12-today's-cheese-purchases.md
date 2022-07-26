@@ -19,7 +19,7 @@ We also bought a slab of paté de campagne.
 
 Can't wait for lunch!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150612_DSC05398.jpg"/>
 	<figcaption><em>Today's haul at the cheese shop.</em></figcaption>
 </figure>

@@ -13,7 +13,7 @@ Today we drove with Mary and Gilles to Sancerre, about an hour and a half south 
 
 Sancerre is a small and pretty hilltop town.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00107.jpg"/>
 	<figcaption><em>Looking at the hills of grapes from Sancerre.</em></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Sancerre is a small and pretty hilltop town.
 
 It is also a dying hilltop town. If it weren't for the area's famous white wines, I suspect Sancerre would have been a ghost town long ago. Now, it's set up to handle tourists who come to try-and-buy the wines, and I suspect July and August see Sancerre crowded. But a rainy June weekday, not so much.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00108.jpg"/>
 	<figcaption><em>Beautiful street, but empty of people.</em></figcaption>
 </figure>
@@ -31,21 +31,21 @@ It is also a dying hilltop town. If it weren't for the area's famous white wines
 
 The weather has, so far this trip, been, oh, "crappy" might describe it. Today was more of the same, though we did have some sun breaks...
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00121.jpg"/>
 	<figcaption><em>Oh-oh, that sky looks awfully dark...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00122.jpg"/>
 	<figcaption><em>Get out the umbrellas!</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00123a.jpg"/>
 	<figcaption><em>Now Sancerre is deserted and wet.</em></figcaption>
 </figure>
@@ -56,7 +56,7 @@ The weather has, so far this trip, been, oh, "crappy" might describe it. Today w
 
 Oh, well, time to go get some wine, after a stop for lunch and to buy some cheese.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00130.jpg"/>
 	<figcaption><em>This is a brag photo: there are twenty-two types of cheese in this display case. Laurie and I have had nineteen of them, and will have the twentieth tomorrow night. Not bad for furriners.</em></figcaption>
 </figure>
@@ -65,21 +65,21 @@ Oh, well, time to go get some wine, after a stop for lunch and to buy some chees
 
 Then it was on to our favorite little winery down here. This picture shows why we call it the anti-Napa winery:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00134.jpg"/>
 	<figcaption><em>Note: no hats or shirts for sale, no fancy tasting room (this is the same room where they bottle the wine), no tasting fee (in fact, we bought enough that the proprietaire gave us each a bottle free). Just excellent wine. Excellent wine!</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00140.jpg"/>
 	<figcaption><em>The view from the tasting counter. Equipment for bottling and corking, and in the back, many bottles from vintages not yet labeled or ready to sell. Not exactly like the tasting rooms of Napa Valley.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00136.jpg"/>
 	<figcaption><em>The happy tasters.</em></figcaption>
 </figure>
@@ -88,7 +88,7 @@ Then it was on to our favorite little winery down here. This picture shows why w
 
 How much did we buy?
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00148.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -103,7 +103,7 @@ When we were here in 2013, we wanted to go try some Sancerre, because in several
 
 On the way home we stopped at Gien, famous for its faience - glazed ceramic ware. We stopped at a place that sells "Deuxieme Choix" (seconds), and discontinued lines. Even at that, this stuff is seriously expensive. I liked best an espresso cup/saucer combination, at about \\$50. Didn't spring for it. Given those prices, you can guess what this table setting cost:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/DSC00150.jpg"/>
 	<figcaption></figcaption>
 </figure>

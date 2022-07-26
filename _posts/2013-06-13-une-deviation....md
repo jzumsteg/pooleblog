@@ -24,7 +24,7 @@ So we're on a deviation for a couple weeks (I go back to have the stitches remov
 Sometime in the future I'll write a bit about my experience in the hospital and hand clinic. France usually ranks at or near the top in its healthcare system and so it was interesting to see and be part of it. My only complaint is that the gurneys were too short for me; I hung over both ends - and I spent about two hours doing that!
 
 Now, we just cannot thank Mary and Gilles enough for all their help through this adventure. They went way "above and beyond" the call of duty for us.<br>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2013/06/Medical-01.jpg"/>
 	<figcaption></figcaption>
 </figure>

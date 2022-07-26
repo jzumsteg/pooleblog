@@ -17,7 +17,7 @@ As for my great-grandfather Wendall Zumsteg, I have no information about his his
 <h2>The Trip</h2>
 I think both regular readers of this blog know that our daughter-in-law, Annie, is hands-down the best daughter-in-law ever. No, really. When we were in St. Louis in October, we planned to bring up whether we should come back for Christmas, knowing that it was only two months away, and knowing that sometimes guests can come a little too often and stay a little too long. We didn't get a chance to bring up the subject; Annie asked us to please, please come at Christmas. We pointed out that we didn't want to leave Derek alone in Portland, so she texted him an invite and by the next day it was all confirmed: all the Z's would be in St. Louis for the holidays. We think it's been at least 25 years since we've all been together, and then, Craig and Annie didn't even know each other and grandkid Z's were a long way off.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-3.jpg"/>
 	<figcaption><em>The whole fambly together again! At a coffee shop in Kirkwood. It was clear and cold that day.</em></figcaption>
 </figure>
@@ -26,13 +26,13 @@ I think both regular readers of this blog know that our daughter-in-law, Annie, 
 
 We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's interesting, but up-close? It's really impressive.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-4.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-5.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -40,12 +40,12 @@ We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's 
 
 &nbsp;We got in lots of walks, as the weather was excellent. Christmas Eve day was sunny and 74°! We walked through an outdoor sculpture park with some interesting installations:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-14.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-13.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -54,7 +54,7 @@ We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's 
 
 Have you ever had that feeling that someone was looking at you? At this sculpture park, we &nbsp; encountered that feeling strongly, but never figured out what it was.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/eyeball.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -63,7 +63,7 @@ Have you ever had that feeling that someone was looking at you? At this sculptur
 
 The most interesting thing in the park was an owl, sitting in a tree by the side of a path. &nbsp;We've never been this close to an owl in the wild.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-15.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -72,56 +72,56 @@ The most interesting thing in the park was an owl, sitting in a tree by the side
 
 We walked through a Farmers' Market in Kirkwood which was selling trees and saw this one. Yikes!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-1.jpg"/>
 	<figcaption><em>Clara (age 11) with her new look.</em></figcaption>
 </figure>
 
 
 <h2>Christmas Morning!</h2>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/IMG_0858-rotated.jpg"/>
 	<figcaption><em>Henry was not up to snuff, fighting the flu. He rallied when the presents came out...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/IMG_0864-rotated.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-7.jpg"/>
 	<figcaption><em>Henry (age 6) wearing one Christmas present (apron and hat - he loves to do stuff in the kitchen) and showing off another.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-3-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-8.jpg"/>
 	<figcaption><em>Annie showing off one of her presents - one of a set of three. That is a picture of blood cells; remember, she's a scientist specializing in infectious diseases. These pictures are really beautiful.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-16.jpg"/>
 	<figcaption><em>Derek showing off his new look. Wouldn't call it a "man-bun," exactly. Actually, this get-up was for humorous affect. Derek has avoided hair salons since the pandemic started a couple years ago.</em></figcaption>
 </figure>
@@ -132,23 +132,23 @@ We visited St. Charles, about 30 minutes north of Craig and Annie's house, on th
 
 Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he tested negative) and for a couple days he definitely was not his high-energy self:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-9.jpg"/>
 	<figcaption><em>Don't see Henry just sitting like this often; usually he's exploring everything is sight. Flu slows everyone down, including Henry.</em></figcaption>
 </figure>
 
 
-<h2><figure>
+<h2><figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-12.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-11.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2022/01/image-10.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -172,7 +172,7 @@ We made it to the entrance of the development where we live. The driver said he 
 
 The one wise decision we'd made before we left ten days earlier was to not turn off the heat in the house. So the house was cool, but not freezing. We left the bags in the garage, turned the heat up, turned the electric blankets on and got into bed. Home, sweet home.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2022/01/image-1-1.jpg"/>
 	<figcaption><em>Our backyard the day after our airport adventure.</em></figcaption>
 </figure>

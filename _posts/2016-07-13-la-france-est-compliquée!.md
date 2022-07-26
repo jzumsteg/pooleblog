@@ -19,7 +19,7 @@ Whoops. Closed: sign in the window says, "Closed this Wednesday morning *unique
 
 It's open! Yahooo! And parking right across the street! Whoo-hoo! And...they have no cakes. Really. They do, fortunately, have a selection of beautiful tartes, of which we buy six and call it a day.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/tarte_box.jpg"/>
 	<figcaption></figcaption>
 </figure>

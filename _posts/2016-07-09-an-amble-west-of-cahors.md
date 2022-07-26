@@ -9,21 +9,21 @@ layout: post
 ---
 We found a suggested route to the small towns on the Tarn River west of Cahors, so off we went.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00807.jpg"/>
 	<figcaption><em>Nice countryside, eh? This is taken from the patio of a quite expensive hotel.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00855.jpg"/>
 	<figcaption><em>Laurie likes the chair and bench in the vegetable garden, all the better to watch the garden grow.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00854.jpg"/>
 	<figcaption><em>Roses on an old grave; nice.</em></figcaption>
 </figure>
@@ -32,63 +32,63 @@ We found a suggested route to the small towns on the Tarn River west of Cahors, 
 
 I've mentioned that we like bridges; here's an old suspension bridge across the Tarn River.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00841.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00842.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00845.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00848.jpg"/>
 	<figcaption><em>This café seemed to be closed permanently and I think maybe we could buy it and re-open it. Laurie disagrees.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00823.jpg"/>
 	<figcaption><em>Decorations from a wedding the previous day. I think most churches in France look like this Sunday morning, as Saturday afternoon is the big day for weddings.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00838-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00815.jpg"/>
 	<figcaption><em>Many churches have modern stained glass windows. We think they're beautiful.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00861.jpg"/>
 	<figcaption><em>Jeanne d'Arc. Almost every church has some reference or statue of her.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00833.jpg"/>
 	<figcaption><em>An old door in an old church.</em></figcaption>
 </figure>
@@ -97,7 +97,7 @@ I've mentioned that we like bridges; here's an old suspension bridge across the 
 
 See, nothing very special on this amble around the countryside. But we had a very nice day and ended it with a late lunch at this beautiful restaurant. It was located in a tiny village, and was one of the best lunches we've ever had. It was also one of the most expensive lunches, but what the heck: we're in France where Sunday lunches are actually dinners, and we sat outdoors and had a fine time.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/07/DSC00862.jpg"/>
 	<figcaption></figcaption>
 </figure>

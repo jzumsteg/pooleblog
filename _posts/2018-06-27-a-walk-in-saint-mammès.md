@@ -17,7 +17,7 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00562.jpg"/>
 	<figcaption><em>A house on the Quai du Loing</em></figcaption>
 </figure>
@@ -27,7 +27,7 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00558.jpg"/>
 	<figcaption><em>Houses along Quai du Loing</em></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Some péniches, old and new, in Saint-Mammès:
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00555.jpg"/>
 	<figcaption><em>A péniche at the Quai du Seine in Saint-Mammès.</em></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Some péniches, old and new, in Saint-Mammès:
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00569.jpg"/>
 	<figcaption><em>We have seen these (huge) modern barges in Saint-Mammès before, flying hundreds of colorful pennants. We don't know the occasion, but they are beautiful.</em></figcaption>
 </figure>
@@ -64,7 +64,7 @@ Some péniches, old and new, in Saint-Mammès:
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00566.jpg"/>
 	<figcaption><em>This new pedestrian bridge connects Saint-Mammès with the other bank of the Loing RIver.</em></figcaption>
 </figure>
@@ -75,7 +75,7 @@ Some péniches, old and new, in Saint-Mammès:
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00560.jpg"/>
 	<figcaption><em>Looking down the Loing River from the new bridge.</em></figcaption>
 </figure>
@@ -92,7 +92,7 @@ And the surprise: as we walked Saint-Mammès, we noticed a small restaurant that
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/IMG_1904.jpg"/>
 	<figcaption><em>The pleasant surprise...</em></figcaption>
 </figure>

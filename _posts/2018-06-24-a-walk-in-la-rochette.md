@@ -13,7 +13,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 <table>
 <tbody>
 <tr>
-<td colspan="2"><figure>
+<td colspan="2"><figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00546.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 </td>
 </tr>
 <tr>
-<td colspan="2"><figure>
+<td colspan="2"><figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00547.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -31,7 +31,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00549.jpg"/>
 	<figcaption><em>Love the sun-room!</em></figcaption>
 </figure>
@@ -39,13 +39,13 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 </td>
 </tr>
 <tr>
-<td><figure>
+<td><figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00545.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
-<td><figure>
+<td><figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00543.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -53,7 +53,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 </td>
 </tr>
 <tr>
-<td colspan="2"><figure>
+<td colspan="2"><figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00548.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -66,7 +66,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00542.jpg"/>
 	<figcaption><em>Now, here is a fencepost!</em></figcaption>
 </figure>
@@ -76,7 +76,7 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 <tr>
 <td colspan="2">
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2018/06/DSC00551.jpg"/>
 	<figcaption><em>The Seine view from some of these houses. I could get used to it...</em></figcaption>
 </figure>

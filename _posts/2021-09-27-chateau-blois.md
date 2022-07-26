@@ -15,7 +15,7 @@ The GPS performed flawlessly, taking us through a twisting and turning route rig
 
 Then we lugged our stuff back to the hotel and found this lovely lobby and reception area:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/IMG_4642.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -30,7 +30,7 @@ We had read quite a bit about Chateau Blois (mostly in Ina Caro’s book, "Road 
 
 For an overall view of the chateau, take a look at this picture:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/Chateau-de-Blois.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -40,7 +40,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 <strong>Gothic</strong> - that structure in the lower right-hand corner, built in the 13th century. This structure was much larger when built, but successive kings demolished parts as they built their own wings, and only this part of the building remains.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01380.jpg"/>
 	<figcaption><em>The Gothic part is stuck between the Flamboyant Gothic wing - the red brick to the right - and the Renaissance on the left.</em></figcaption>
 </figure>
@@ -49,7 +49,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 <strong>Flamboyant Gothic</strong> - this section, to the left of the Gothic wing, is marked by the use of red bricks. It was built by Louis XII from 1498 to 1508.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01382.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -57,7 +57,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 <strong>Renaissance</strong> - this section, on the other side of the Gothic wing, was built by François I, from 1515 to 1519.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01383.jpg"/>
 	<figcaption><em>The Françoise 1 wing was originally symmetrical, with the spiral staircase smack in the middle. When Gaston d'Orleans decided to build his Classical wing (see below) he demolished the left quarter of François's wing. I wish he'd left it intact!</em></figcaption>
 </figure>
@@ -66,7 +66,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 <strong>Classicism</strong> - this wing was built by Gaston d’Orleans from 1635 to 1638.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01384.jpg"/>
 	<figcaption><em>Classicism revived Greek architecture, shown by the columns and porticos.</em></figcaption>
 </figure>
@@ -75,7 +75,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 So here, in one chateau, we can see 350 years of French architecture. Honestly, we were excited to stand in the middle of the courtyard, listening to the audio guide (the best we’ve ever had, really; it had five&nbsp;narratives just about the different wings and their evolution and creation). We’d read about the chateau and the wings, but we were concerned that we'd get there, look around and not be able to put buildings to eras and architectural styles. Not to worry: the audio guide made sure we could see and understand what each wing represented. Kudos to whoever created that guide!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01395.jpg"/>
 	<figcaption><em>The salamander was Françoise 1's icon (he was king from 1515 to 1547). It was believed that the salamander could walk through fire without burning, and could spit fire. Any time you see a salamander similar to this in France, it's an indication that François 1 had a role in the decoration of the building.</em></figcaption>
 </figure>
@@ -84,19 +84,19 @@ So here, in one chateau, we can see 350 years of French architecture. Honestly, 
 
 Maybe because the weather had turned cold, the fireplaces of the Blois chateau caught my eye. You could have a bonfire in these, but considering that the only source of heat in a big, cold, stone room was a fireplace, a bonfire was probably a good thing. There are many like this here:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01403.jpg"/>
 	<figcaption><em>No, that's not Laurie.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01422.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01412.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -107,7 +107,7 @@ Maybe because the weather had turned cold, the fireplaces of the Blois chateau c
 <tr>
 <td>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01410.jpg"/>
 	<figcaption><em>One gargoyle</em></figcaption>
 </figure>
@@ -115,7 +115,7 @@ Maybe because the weather had turned cold, the fireplaces of the Blois chateau c
 </td>
 <td>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01409.jpg"/>
 	<figcaption><em>Lots o' gargoyles</em></figcaption>
 </figure>
@@ -124,14 +124,14 @@ Maybe because the weather had turned cold, the fireplaces of the Blois chateau c
 </tr>
 </tbody>
 </table>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01417.jpg"/>
 	<figcaption><em>Some pretty serious stone-carving, this on the spiral staircase.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01411.jpg"/>
 	<figcaption><em>And finally, a beautiful window.</em></figcaption>
 </figure>
@@ -148,22 +148,22 @@ Chateau Blois was the primary reason for our trip to the Loire Valley this year 
 <h2 style="font-family: verdana;">The City of Blois</h2>
 The city that holds the chateau is worth some time, too It sits on a steep hillside next to the Loire River and though one would think it would be touristy, it isn't. Not that there weren't the ubiquitous souvenir shops, but they didn't line the streets. Blois really is an interesting city in its own right, and we enjoyed a bit of exploration here.
 <h3 style="font-family: verdana;">Houses Along the Loire</h3>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01523.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01515.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01512.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01507.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -171,40 +171,40 @@ The city that holds the chateau is worth some time, too It sits on a steep hills
 
 <h3 style="font-family: verdana;">Some old and interesting streets</h3>
 One thing we liked is that these streets, which one could expect would be lined with tourist-oriented shops, were not. The stores here were just regular stores, meant to serve residents.
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01491.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01536.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01533.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01467.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01494.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 And a beautiful bridge, to boot. Completed in 1724!
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01518.jpg"/>
 	<figcaption></figcaption>
 </figure>

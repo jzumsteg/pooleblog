@@ -16,7 +16,7 @@ Well, not to worry; we did, indeed have a wonderful time with the Rufin family (
 Rather than boring you again with lots of words, I'm just going to post some pictures. All I can say now is that we are so thankful that Jamie and Hervé asked us to share their "special place" with them, and that we hope we can do it again in the coming years. This is a part of France I'm not sure we would have seen had it not been for Jamie and Hervé inviting us and urging us to join them, but I can tell you that Saint-Pierre-Quiberon has become a special place for us, too.
 
 <h3>The Group</h3>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2013/08/DSC03712.jpg"/>
 	<figcaption><em>Gilles, Mary, Hervé, Laurie and Jamie. I never seem to be in these group shots!</em></figcaption>
 </figure>

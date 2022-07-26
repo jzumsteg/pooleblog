@@ -23,7 +23,7 @@ This picture shows a few cars obeying the parking rules: there's not a "No Parki
 
 Actually, it also seems that you can disregard the above three rules if you just put your blinkers on. That seems to make parking anywhere okay.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2013/07/DSC03188.jpg"/>
 	<figcaption><em>Sure, no problem</em></figcaption>
 </figure>

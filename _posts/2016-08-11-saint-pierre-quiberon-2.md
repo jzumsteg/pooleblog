@@ -11,38 +11,38 @@ As I pointed out in the Carnac post, we're in the small town of Saint-Pierre-Qui
 
 Some pictures of the Côte Sauvage:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07958.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07953.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07962.jpg"/>
 	<figcaption><em>Laurie enjoying the scenery.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07954.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07966.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07950.jpg"/>
 	<figcaption><em>Laurie enjoying the scenery.</em></figcaption>
 </figure>
@@ -51,24 +51,24 @@ Some pictures of the Côte Sauvage:
 
 On the bay side is the pretty town of Saint-Pierre-Quiberon.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07944.jpg"/>
 	<figcaption><em>The restaurant on the left is our favorite for moules frites (mussels and fries).</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07931.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07942.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/08/DSC07933.jpg"/>
 	<figcaption></figcaption>
 </figure>

@@ -15,7 +15,7 @@ What did we see and hear? Well...here goes. (I apologize for the not-very-good p
 <h3>Organ Recital in Eglise Saint-Louis en l'Ile.</h3>
 No program and announcements in French, so we don't know what we heard, but it was beautiful. Not a lot of people when we got there at the beginning, but the recital started at  4:30 and was to continue until 10 pm, and it was filling up when we left after 45 minutes, so I think they had lots of people there over the evening:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05607.jpg"/>
 	<figcaption><em>Eglise Saint-Louis en l'Ile</em></figcaption>
 </figure>
@@ -24,7 +24,7 @@ No program and announcements in French, so we don't know what we heard, but it w
 
 As we left, we saw crowds at two stores: Berthillon Ice Cream
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05610.jpg"/>
 	<figcaption><em>The line for Berthillon ice cream: out the door, down the street and around the corner.</em></figcaption>
 </figure>
@@ -33,7 +33,7 @@ As we left, we saw crowds at two stores: Berthillon Ice Cream
 
 And Carolyn's favorite store in all of Paris:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05611-1024x768.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -42,7 +42,7 @@ And Carolyn's favorite store in all of Paris:
 
 And a puppeteer on the bridge between Ile St. Louis and Ile de la Citè.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05613.jpg"/>
 	<figcaption><em>A pupeteer entertaining kids on Pont Louis IV.</em></figcaption>
 </figure>
@@ -51,7 +51,7 @@ And a puppeteer on the bridge between Ile St. Louis and Ile de la Citè.
 <h3>A Couple Street Bands</h3>
 At the west end of Ile Saint-Louis is a beautiful, quiet, tiny park. No so quiet today. This band wasn't the best, but they had lots of people dancing.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05617.jpg"/>
 	<figcaption><em>Not a great band, but soon after this couple started dancing, many joined in.</em></figcaption>
 </figure>
@@ -60,7 +60,7 @@ At the west end of Ile Saint-Louis is a beautiful, quiet, tiny park. No so quiet
 
 Then we bumped into this band playing at an imprompu beer/wine bar on the river. First song was Louis Armstrong's "What a Wonderful World," sung in French with a reggae beat. Different...
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05621.jpg"/>
 	<figcaption><em>On the banks of the Seine.</em></figcaption>
 </figure>
@@ -69,7 +69,7 @@ Then we bumped into this band playing at an imprompu beer/wine bar on the river.
 <h3>Place des Vosges</h3>
 Then on to Places des Vosges. Place des Vosges deserves a post of its own, but that's another day. It's a beautiful arcaded square (about 500 years old) and there was a lot of music going on under those arcades.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05627.jpg"/>
 	<figcaption><em>Place des Vosges.</em></figcaption>
 </figure>
@@ -78,7 +78,7 @@ Then on to Places des Vosges. Place des Vosges deserves a post of its own, but t
 
 We never figured out what type of music this group was playing, but there were a bunch people who knew the dances to go with the music and they danced and danced and danced.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05631.jpg"/>
 	<figcaption><em>Never figured out what kind of music/dance this was.</em></figcaption>
 </figure>
@@ -87,7 +87,7 @@ We never figured out what type of music this group was playing, but there were a
 
 Then, after several other stops, we discovered Margot Varret:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05640.jpg"/>
 	<figcaption><em>Margot Varret - jazz harp! She was wonderful.</em></figcaption>
 </figure>
@@ -98,14 +98,14 @@ Margot Varret trained as a classical harpist and then fell in love with jazz. Sh
 
 After a few more stops, another highlight. I'd read about this group on the website, but it was way more fun than we expected: the Tigresses. Six women - five of them our age; old, that is - and two men, all playing accordions. For each song, they handed out sheets with the words and everyone sang along; then they collected the sheets and did it again with the next song. Before they started they had over a hundred people waiting and when we left, probably triple that. A woman standing next to us said they're there every year, same place, same time, so they have a following. This was just crazy, and great fun.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05646.jpg"/>
 	<figcaption><em>The Tigresses</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05649.jpg"/>
 	<figcaption><em>This is the crowd singing along with the Tigresses and their eight accordions.</em></figcaption>
 </figure>
@@ -114,7 +114,7 @@ After a few more stops, another highlight. I'd read about this group on the webs
 
 By this time we'd been standing or walking for almost five hours and we were pooped. So we started back toward the flat, but got delayed. First, this small jazz group playing in a side street. We listened to them for half an hour. They unfortunately were in competition with four guys playing BIG and LOUD drums not too far away.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05651-1024x648.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -123,7 +123,7 @@ By this time we'd been standing or walking for almost five hours and we were po
 
 Then the topper. If you look at the top balcony of this apartment building - which is on a main street of Paris - you'll see three guys: two guitarists and a drummer. What you don't see are the amplifiers and speakers that filled that whole street with...good old American Rock 'n' Roll. Well, okay the "good" part might be a stretch; these guys are not going to make a living at this. But somehow, this summed up the Fete de la Musique: want to make some music? Find a place and start playing; a crowd will gather to hear you.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/06/20150621_DSC05654.jpg"/>
 	<figcaption><em>A garage band on a balcony - a "balcony band?"</em></figcaption>
 </figure>

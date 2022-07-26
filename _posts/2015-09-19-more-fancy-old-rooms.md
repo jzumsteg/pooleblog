@@ -15,21 +15,21 @@ Our first stop was at the Louvre, Wednesday evening. The Louvre stays open until
 
 Recently the Louvre opened a new exhibit of decorative arts from the times of Louis XIV, Louis XV and Louis XVI, which covers the years from about 1670 to 1790. Decorative Arts encompass just about anything that had to do with decorating the places that people lived during those times. Of course, only the very rich could afford to decorate anything, so we end up with an insight into how the kings and queens and aristocracy lived. I think we can safely say they lived very nicely.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09185.jpg"/>
 	<figcaption><em>A drawing room from the last quarter of the 17th century. Not too shabby.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09182.jpg"/>
 	<figcaption><em>There is a huge collection of porcelain plates; this is Laurie's favorite.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09180.jpg"/>
 	<figcaption><em>Looking for a gift for the person who has everything? How about a nice gold chest to store all those things?</em></figcaption>
 </figure>
@@ -39,35 +39,35 @@ Recently the Louvre opened a new exhibit of decorative arts from the times of Lo
 There are about thirty such rooms, all with furniture and art from the correct times. But you know what we liked best: the snuff boxes.
 
 I can hear you saying, "Oh, boy, they've eaten too much cheese. Snuff boxes?" In the late 1600s and 1700s there was a huge rage to collect snuff boxes, and the exhibit had a bunch of them. They are just beautiful! Here are a few... Keep in mind that the largest of these is maybe two inches wide, and then look at the decoration on that tiny surface.
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09191-300x214.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09192.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09194-300x226.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09196.jpg"/>
 	<figcaption><em>The pictures on the top and front of this box are about an inch high and an inch and three-quarters wide. How did the artist get such detail into it?</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09197.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -77,7 +77,7 @@ Snuff boxes - who'd've thunk? I'd like to collect a few myself, but I can only i
 
 The picture I post every year:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09206.jpg"/>
 	<figcaption><em>Nobody goes to see the Mona Lisa; they go to take a picture of the Mona Lisa, or a selfie of them with the Mona Lisa behind them because they are way more important than the Mona Lisa.</em></figcaption>
 </figure>
@@ -94,12 +94,12 @@ Maybe worse, though: I saw a woman in the Decorative Arts exhibit who walked in
 <h2>Musée Nissam de Camondo</h2>
 Continuing our Old Rooms Week, we went to the Musée Nissim de Camondo the next day. This home was built in the early 1900s by Comte Moïse Camondo to house and display his best-in-the-world collection of late 1700s furnishings. He inherited a house in the rather fashionable Monceau district of Paris, tore it down completely, and then designed and built a huge, beautiful home very much as if it had been built at the end of the 18th century. He loved that time, and dedicated his life to building this remarkable collection. Here are two rooms (full disclosure: I swiped the first two pictures from the museum's website; photographs were not allowed, though I snuck a couple in the kitchen).
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/Camondo-2-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/Camondo-1-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -108,14 +108,14 @@ Continuing our Old Rooms Week, we went to the Musée Nissim de Camondo the next 
 
 We're getting ready to do a kitchen remodel when we return, and we got some good ideas:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09216.jpg"/>
 	<figcaption><em>Now there's a range! Four ovens and enough room to make pancakes for an army.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09220.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -130,14 +130,14 @@ There are a million churches in Paris it seems, and many are beautiful and all, 
 
 The jubé separates the parish congregation from the priests during a Mass. Why they needed to be separated I don't know, nor did the revolutionaries who tore them down during the French Revolution. Somehow the one at St. Etienne du Mont survived, and it is beautiful.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09229.jpg"/>
 	<figcaption><em>The jubé - Rood screen, in English - at St. Etienne du Mont. For an unknown reason - unknown to us, anyway - it has a distinctly Islamic look to it. We've seen decorations like this in Moorish Spain.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09237.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -146,7 +146,7 @@ The jubé separates the parish congregation from the priests during a Mass. Why 
 
 For you, Margaret: said to be the most beautiful organ in Paris, and who are we to argue with that?
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09233.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -155,7 +155,7 @@ For you, Margaret: said to be the most beautiful organ in Paris, and who are we 
 
 The curved nave:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09245.jpg"/>
 	<figcaption><em>This picture is aimed straight down the nave, past the altar. Note that the altar (with candles and a large pointy something), and the statue beyond it are actually in the center of where they stand. The church bends a few feet to the left past the jubé. Don't know why.</em></figcaption>
 </figure>

@@ -11,14 +11,14 @@ No, we haven't made it to France, yet. We're in Elmsford, NY, with the East Coas
 
 Since I know that both you readers of this blog really want to see pictures of Clara...
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/05/DSC04492.jpg"/>
 	<figcaption><em>Grandma meets Clara's bus.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/05/DSC04506.jpg"/>
 	<figcaption><em>Clara enjoying an after-schools snack.</em></figcaption>
 </figure>

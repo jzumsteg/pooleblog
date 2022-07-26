@@ -13,31 +13,31 @@ I will post pictures of cars illustrating one or both rules as I see them. For n
 
 Parking is, oh, "limited" here. In fact, some drivers park a mile away and walk to the station; always a pleasure in the weather we've been having. So any tiny patch of open ground in the actual parking lot is fair game, as shown in the pictures below.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0760.jpg"/>
 	<figcaption><em>This driver would have to back up about 200 yards from this spot before he or she could turn around.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0761.jpg"/>
 	<figcaption><em>Before I took this picture, there was surely a car to the left of the white car; otherwise, the white car would have taken the whole open area.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0758.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0759.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0765.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -46,7 +46,7 @@ Parking is, oh, "limited" here. In fact, some drivers park a mile away and walk 
 <h2>Clio</h2>
 On another subject, here's our ride for this trip:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2016/06/IMG_0766.jpg"/>
 	<figcaption></figcaption>
 </figure>

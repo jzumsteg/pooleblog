@@ -15,7 +15,7 @@ The heat caused us to curtailed our activities some, but we moved in the middle
 
 Here's the front of our new residence. The house was built in 1923 and seriously remodeled when the current owners moved in eight years ago. You can't see the remodel from the front; the entire first floor back wall was removed and the kitchen expanded and a living area added.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/07/DSC08761-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -23,7 +23,7 @@ Here's the front of our new residence. The house was built in 1923 and seriously
 
 
 And the view from our bedroom. We love the window flowers - they're everywhere.
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/07/DSC08755-1.jpg"/>
 	<figcaption></figcaption>
 </figure>

@@ -13,7 +13,7 @@ layout: post
 <p class="p3"><span class="s2"><b>Day 1: Seattle to Superior Montana. </b></span><span class="s1">422 miles, about 7-½ hours of driving</span></p>
 <p class="p2"><span class="s1">This was a pretty easy drive, though tied for the longest of the whole trip. Why Superior, Montana? Well, it was a good place, distance- and time-wise, to stop. And, oddly enough, it has a motel that gets great reviews: the Big Sky Lodge. The Big Sky is right out of the 60s, except that it has been updated, had comfortable beds and was immaculately clean and well kept up. </span></p>
 <p class="p2"><span class="s1">Superior (population 800) is not exactly a center of the culinary art; there are only two restaurants. One is in the kitchen/cafeteria of an unused school and that’s what we chose. “Food like your mother used to make” is their motto and while not exactly true (neither my mother nor Laurie’s made food like this), it was, well, copious might be the operative word. Gotta love that gravy!</span></p>
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2019/05/IMG_2695.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -22,7 +22,7 @@ layout: post
 <p class="p2"><span class="s1">After a walk along the river, we decided to have a nightcap at the lounge of the other restaurant. We ordered up a couple martinis which were just fine and asked for the bill.  \$6. Not for each, for both of them. Now that is a personal best for low-cost martinis: \$3 each. We still don’t know why we didn’t order another couple rounds…</span></p>
 Superior is the county seat and has a beautiful county government building.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2019/05/IMG_2691.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Superior is the county seat and has a beautiful county government building.
 <p class="p2"><span class="s1">But our favorite part of Billings was dinner at Uberbrew, a brew pub, and our favorite part of that was our server, a woman with more energy that any three people we know combined. She was just a kick. we sat at the counter where she was working and talked to her a lot. When we left she hugged us both and said to Laurie, “I want your skin, I want your figure. Keep it up, sister. Keep it up!” </span></p>
 <p class="p4"><span class="s1"><b>Day 3: Billings to Rapid City, South Dakota, with a side trip to Mt. Rushmore. </b>373 miles, about seven hours of driving, including a long Mt. Rushmore side trip.</span></p>
 <p class="p2"><span class="s1">The highlight of this day was, of course, Mt. Rushmore. It is well worth the side trip and we recommend it to everyone.</span></p>
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2019/05/DSC08441.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -46,12 +46,12 @@ Superior is the county seat and has a beautiful county government building.
 <p class="p4"><span class="s1"><b>Day 5: Sioux City, Iowa to Davenport, Iowa.</b> 367 miles, 6-1/2 hours.</span></p>
 <p class="p2"><span class="s1">Another day of being in one state all day long. It ended in Davenport, Iowa, and the day did have some interesting aspects. First, large parts of Iowa were really pretty, which we did not expect; rolling hills, trees and grass. Second, you should know that Davenport is part of the “Quad Cities,” which is, oddly enough, made up of five cities. Go figure. </span></p>
 <p class="p2"><span class="s1">The highlight of the day was dinner at the “Machine Shed” in Davenport. Really. “Dedicated to the American Farmer,” the Machine Shed is decorated with every farm poster and implement you can think of and the servers wear farmers' overalls. Now, since we were definitely in beef country, it was rib-eye steaks for both of us. But first, martinis, which were really good ones. When we ordered our steaks, the server said that we got our choice of two appetizers to share, so we got coleslaw and baked apples; a basket of great bread came with the meal, too. The steaks arrived with a big bowl of corn. And of course we had to top it off with an apple dumpling with ice cream, which turned out to be some farmer’s entire crop of apples and a gallon of ice cream. We were able to waddle back to the hotel without assistance, so we figured it was a successful evening. Honestly, though, the Machine Shed was a hit with us; a great meal and I think the whole thing - drinks, steaks, sides, dessert, tip and all - was $72.</span></p>
-<p class="p2"><figure>
+<p class="p2"><figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2019/05/IMG_2733.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2019/05/IMG_2736.jpg"/>
 	<figcaption></figcaption>
 </figure>

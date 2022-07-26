@@ -11,7 +11,7 @@ We had the great pleasure to introduce an old friend to Paris a couple weeks ago
 
 Paul arrived June 1st and we toured him into the ground for two days. By the time we parted ways, all three of us were dragging! But still happy:
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2018/06/IMG_1881.jpg"/>
 	<figcaption><em>Paul and Laurie - worn out but still smiling - in front of a bistro where we had an excellent dinner in the small, beautiful square Place du Marché Saint-Catherine. A wonderful way to end a great visit with a long-time friend.</em></figcaption>
 </figure>

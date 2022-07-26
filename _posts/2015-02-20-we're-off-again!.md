@@ -23,7 +23,7 @@ For some details...
 
 First, I am excited that we fly from New York's JFK airport to Paris on an Air France Airbus A380, the biggest passenger airplane ever built. I think both readers of this blog know that I love airplanes - passenger airplanes, in particular - and I've wanted to fly on this beast since it entered service in 2007. Here's a picture:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/02/A380-800-e1424463355317.png"/>
 	<figcaption></figcaption>
 </figure>

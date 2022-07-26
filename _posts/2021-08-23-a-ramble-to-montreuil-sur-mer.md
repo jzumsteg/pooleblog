@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00273.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -26,34 +26,34 @@ Rather than write a long and boring description of Montreuil-sur-Mer (ignoring t
 <h2 style="font-family: verdana;">Walking Around</h2>
 Pictures from walking around the city:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00275.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_4508-2.jpg"/>
 	<figcaption><em>Flowers everywhere!</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00321.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00299.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00327.jpg"/>
 	<figcaption><em>An important scene in Les Miserables occurred on this very street.</em></figcaption>
 </figure>
@@ -62,43 +62,43 @@ Pictures from walking around the city:
 
 Hervé plotted our route to dinner, taking us through these two passages; the second one brought us right to our restaurant that evening...
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00381.jpg"/>
 	<figcaption><em>Ok, a little narrow...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00398.jpg"/>
 	<figcaption><em>Whoa, seriously narrow.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00459.jpg"/>
 	<figcaption><em>Jamie, Hervé and Laurie showing just how narrow these passages are.</em></figcaption>
 </figure>
 
 
 
-Continuing my long-time theme of doors and windows...<figure>
+Continuing my long-time theme of doors and windows...<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00361.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00345.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00305.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_4510-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -107,33 +107,33 @@ Continuing my long-time theme of doors and windows...<figure>
 <h2 style="font-family: verdana;">The Walls and Citadelle</h2>
 Montreuil-our-Mer is a completely walled city. We walked every inch of the walls, which are 80-100 feet high in many places. We also visited the Citadelle, which was the center of the city's defenses for hundreds of years.
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00233.jpg"/>
 	<figcaption><em>The earliest structure in the city's defenses, this arch was constructed in the 1260s(!)</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00255.jpg"/>
 	<figcaption><em>The walls of the city are pretty amazing. I've always wondered what the soldiers of an attacking army thought when they saw a city with tall, strongly-defended walls like Monteuil's and heard their officers say, "Ok, men, climb up those walls and take the town! We'll be right behind you."</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00242.jpg"/>
 	<figcaption><em>Jamie, Laurie and Hervé trying to figure out how the catapult worked. The opposing army trembled...</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00257.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00232.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -142,7 +142,7 @@ Montreuil-our-Mer is a completely walled city. We walked every inch of the walls
 <h2 style="font-family: verdana;">Food</h2>
 We ate well here. Hoo-hah, did we eat well here. I'm not a fan of food photos, so only a couple here, and pictures of the restaurants at which we had dinner.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00390.jpg"/>
 	<figcaption><em>Had dinner here the first night. We agreed that it was among the best dinners we've ever had in France. This restaurant is in a former house which was built in 1537!</em></figcaption>
 </figure>
@@ -151,14 +151,14 @@ We ate well here. Hoo-hah, did we eat well here. I'm not a fan of food photos, s
 
 Main course was&nbsp;maigré, a white fish, for all but me. I had a&nbsp;tangine d'agneau&nbsp;(lamb tangine). Then we had dessert...yes, we did:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_0649-2.jpg"/>
 	<figcaption><em>Profiteroles, an old French dessert that many restaurants still serve. But rarely like these, which were fantastic. They were listed on the menu as Les Authentiques Profiteroles. Don't know exactly what that meant, as we've never had&nbsp;faux profiteroles, but, geeze, were they good.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_0648-2.jpg"/>
 	<figcaption><em>Laurie had this dessert, which she describes as a rhubarb mousse. It, too, was amazing.</em></figcaption>
 </figure>
@@ -167,14 +167,14 @@ Main course was&nbsp;maigré, a white fish, for all but me. I had a&nbsp;tangine
 
 Lunch the next day:
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_4505.jpg"/>
 	<figcaption><em>Frites, Welsh, salad and beef stew. Post-lunch nap required.</em></figcaption>
 </figure>
 
 
 
-The next night we downscaled a bit to this restaurant. It served what I describe as "hot pots." We all had the fish one, which included mussels, cod, shrimp, veggies and potatos in a pretty tasty broth. Not so fancy as the night before (and about half the cost), but very good.<figure>
+The next night we downscaled a bit to this restaurant. It served what I describe as "hot pots." We all had the fish one, which included mussels, cod, shrimp, veggies and potatos in a pretty tasty broth. Not so fancy as the night before (and about half the cost), but very good.<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00372.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -187,35 +187,35 @@ This monastery had several interesting aspects. At any given time, there were on
 
 This monastery served as the printer for all Carthusian monasteries in Europe; this increased its wealth immeasurably, and gave it power, as it decided what books would be printed and sent to other monasteries.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00289.jpg"/>
 	<figcaption><em>The chapel of the monastery.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00291.jpg"/>
 	<figcaption><em>The cloister, unusual in that the walls were enclosed in glass.This was because the weather was pretty bad and to be able to use the cloister, it had to be enclosed. We've been to a lot of cloisters, and never seen that.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/DSC00294.jpg"/>
 	<figcaption><em>For Laurie's library friends... This room was off the main library and called the Purgatory Room. Here newly arrived books were kept until the head monk could review them and see if they were acceptable, in terms of dogma, for other Carthusian monasteries to use. Clearly, this gave the monastery huge power.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_4501.jpg"/>
 	<figcaption><em>And for Laurie's gardener friends.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/08/IMG_4499.jpg"/>
 	<figcaption></figcaption>
 </figure>

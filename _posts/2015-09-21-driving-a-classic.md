@@ -9,7 +9,7 @@ layout: post
 ---
 Most folks who know me know I love old cars and old airplanes; today I got up-close-and-personal with a classic French car, the Citroën 2CV. Last Saturday night we had a wonderful dinner; one couple there own a Citroën Deux-Chevaux and when I mentioned how much I enjoy 2CV's Helen asked if I'd like to see hers and go for a ride. Well, of course I would!
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09258.jpg"/>
 	<figcaption><em>Helen's 2CV. It's a 1978, beautifully maintained. Honestly, this car didn't look so good the day it came out of the factory.</em></figcaption>
 </figure>
@@ -20,7 +20,7 @@ A little 2CV history: the "Deuche," as it's affectionately known, was thought up
 
 The first real production 2CV rolled out of the factory in 1948. What does the "2CV" name mean: "deux-chevaux," - two horsepower -, of course; the output of the 2CV's two-cylinder engine. Now that two horsepower rating was by a different standard than American cars; by American standards, the engine produced a whopping 9 horsepower.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09263.jpg"/>
 	<figcaption><em>The 2Cv's engine. In fact, the 2CV's engine and transmission, all in a package about 18 inches long. By the time this car was built, output was up to 33 horsepower by American measurement standards.</em></figcaption>
 </figure>
@@ -29,38 +29,38 @@ The first real production 2CV rolled out of the factory in 1948. What does the "
 
 The design philosophy was pure minimalist: the goal was to keep the car simple, light, easy to maintain, and cheap.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09260.jpg"/>
 	<figcaption><em>Simple: steering wheel check; gearshift, check; seats, check. Other options, nope. This car has nice checked seat-covers; the original 2CV had a canvas sling seat, like a beach chair.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09261.jpg"/>
 	<figcaption><em>Automatic door opener, 2CV-style. You turn the knob and the door opens. Simple. Always works.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09268.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-After a good walk-around, we were off. <figure>
+After a good walk-around, we were off. <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09287.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09283.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure>
+ <figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09275.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -73,14 +73,14 @@ Believe it or not, this car was an sales immediate success with the French. With
 
 Putting her life in my hands, Helen asked if I wanted to drive. Well, of course I wanted to drive. I'm not sure Laurie, riding in the back, was so sure about this, but off we went. Neck-snapping acceleration was not present, and as Helen pointed out, you have to plan your braking because brakes are not a strong point. I've driven trucks with lighter steering, and the driver does a lot of steering because the Deuche kind of wanders around the road a bit. But I loved it!
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09294.jpg"/>
 	<figcaption><em>I fit, but barely. The seats are adjustable by unbolting them from the floor and bolting them back into the position you want.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09295.jpg"/>
 	<figcaption></figcaption>
 </figure>
@@ -91,7 +91,7 @@ Over the years I've taken many photos of 2Cv's because - for whatever reason - I
 
 Many thanks to Helen, here with Laurie, for sharing her ride with me. I'll have a different perspective on every Deuche I see now.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2015/09/DSC09296.jpg"/>
 	<figcaption><em>Helen, the 2CV's proud owner, and Laurie, celebrating a successful drive (meaning we returned in one piece even though I drove).</em></figcaption>
 </figure>
