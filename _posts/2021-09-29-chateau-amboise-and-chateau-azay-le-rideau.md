@@ -20,42 +20,42 @@ Today it looks as it did in the 1500s, commanding a beautiful view of the Loire 
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01584.jpg"/>
 	<figcaption><em>The Chateau Amboise from halfway across a bridge on the Loire.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01537.jpg"/>
 	<figcaption><em>The main building of the chateau. Can't see it here, but the left wing hangs down a cliff.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01562.jpg"/>
 	<figcaption><em>The other side of the chateau. The grounds have beautiful gardens all around.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01555.jpg"/>
 	<figcaption><em>I do not usually post pictures pictures of our fellow tourists, but this woman has a dog in her shoulder bag! Really.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01552.jpg"/>
 	<figcaption><em>Laurie enjoying the view through a beautiful window.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01538.jpg"/>
 	<figcaption><em>The view of the town of Amboise and the Loire River. The town is pretty touristy, but we walked a ways to find a restaurant off the beaten path that we enjoyed last trip. It was still there, still excellent.</em></figcaption>
 </figure>
@@ -68,28 +68,28 @@ We learned on this trip that for many years this chateau had a collection of por
 
 Many rooms are decorated and furnished in styles appropriate to the years of the chateau. We liked seeing those, too. But the star of this show is the chateau itself, so here are some pictures of it.
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01587.jpg"/>
 	<figcaption><em>Walking to the chateau, this is the first view you see.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01617.jpg"/>
 	<figcaption><em>The forecourt of Azay-le-Rideau. Pure Renaissance.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01605.jpg"/>
 	<figcaption><em>Looking out a beautiful window.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01607.jpg"/>
 	<figcaption><em>Dinner time! À&nbsp;mange!</em></figcaption>
 </figure>
@@ -98,35 +98,35 @@ Many rooms are decorated and furnished in styles appropriate to the years of the
 
 &nbsp;
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01609.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "portrait">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01599.jpg"/>
 	<figcaption><em>Now here's a bed. Two kings - Louis XIII and Louis XIV - slept in this bed.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01622.jpg"/>
 	<figcaption><em>The Indre River flows all around the chateau, making the chateau look as if it's floating in the river.</em></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01618.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure>
+<figure class = "landscape">
 	<img src="{{site.url}}/assets/images/2021/09/DSC01631.jpg"/>
 	<figcaption><em>We can spend hours walking and sitting in the gardens. And have done just that.</em></figcaption>
 </figure>
