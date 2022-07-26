@@ -5,7 +5,6 @@ date: Thu, 13 Jun 2013 07:09:24 +0000
 category: Events
 math: true
 mermaid: true
-layout: post
 ---
 Driving in France, the sign I dread most is "Deviation." A deviation is a detour, and seeing a Deviation means that you're going to go off the main road, often into narrow streets; your GPS will be confused, your maps of no value, your fine pre-planned route out the window. In other words, an unwanted adventure is sure to follow.
 
@@ -24,8 +23,8 @@ So we're on a deviation for a couple weeks (I go back to have the stitches remov
 Sometime in the future I'll write a bit about my experience in the hospital and hand clinic. France usually ranks at or near the top in its healthcare system and so it was interesting to see and be part of it. My only complaint is that the gurneys were too short for me; I hung over both ends - and I spent about two hours doing that!
 
 Now, we just cannot thank Mary and Gilles enough for all their help through this adventure. They went way "above and beyond" the call of duty for us.<br>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/06/Medical-01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/Medical-01.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

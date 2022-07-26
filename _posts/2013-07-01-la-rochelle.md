@@ -5,7 +5,6 @@ date: Mon, 01 Jul 2013 07:27:37 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 <h3>La Rochelle - Introduction</h3>
 We went to the seaside town of La Rochelle this weekend, to celebrate our anniversary, and because we have wanted to see La Rochelle for some time. The city has an amazing history, and it features in a number of the stories of our favorite detective, Chief Superintendent Maigret of the Paris Police Judiciary. In the understatement of the trip so far, we can say that La Rochelle did not disappoint.
@@ -23,8 +22,8 @@ La Rochelle is an old, old city; there are records of Eleanor of Acquitaine givi
 
 The reason for that is largely its location: on a peninsula with an excellent port. The land approaches to the city were well-fortified and easily defended. The port, its lifeline when the city was attacked by land, kept the city supplied with food and weaponry. Two towers were build to protect the port. The two towers stood on either side of the entrance to the port and still stand today:
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/06/DSC03112.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/DSC03112.jpg"/>
 	<figcaption><em>Towers protecting the harbor.</em></figcaption>
 </figure>
 
@@ -40,8 +39,8 @@ La Rochelle wasn't worried - the English had promised they would lift the siege 
 
 Next to our hotel were these three concrete slabs:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/IMG_7328.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/IMG_7328.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -54,8 +53,8 @@ We drove through downtown La Rochelle to our hotel. Downtown was completely enve
 After a "toes-up," as the British say, we sat on our little terrace for a glass or two of wine, and then walked into the city. We had read of a excellent seafood restaurant, but our Rough Guide map of the old city showed the location off the map. We didn't know how far off the map so we headed through town. Turned out, it was a long way off the map.
 
 After about an hour and a half of very enjoyable strolling, we found the restaurant, Marie Galante. Small and informal, they were able to seat us. Though they had a nice menu, we had one thing on our minds: moule frites (mussles and fries). There they were on the menu and soon - voila! - there they were in front of us:
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/DSC03114.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/DSC03114.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

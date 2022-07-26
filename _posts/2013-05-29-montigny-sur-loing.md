@@ -5,7 +5,6 @@ date: Wed, 29 May 2013 17:00:11 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 I'll tell you a bit about our "home" in France, Montigny sur Loing. We're about an hour south of Paris, by train or car (but who in their right mind would drive in Paris?). The town is about 2,800 people, though the daily population is some less than that, as many houses seem to be weekend homes and are closed up during the week.
 

@@ -5,7 +5,6 @@ date: Mon, 17 Jun 2013 19:04:56 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Sorry, bubbly-lovers, this is not a post about a quaint village we visited to taste some of that French nectar of the gods. Champagne-sur-Seine is a small town not too far from us, with an interesting (well, to us; you may find this quite boring) 20th century.
 
@@ -17,8 +16,8 @@ Schneider ceased operations in this plant in the 1990s. The buildings now have s
 
 First, the Schneider buildings:
 [gallery size= "medium" columns="2" ids="535,538,539,537"]
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/06/housing-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/housing-1.jpg"/>
 	<figcaption><em>One of the apartment buildings Schneider built for its employees.</em></figcaption>
 </figure>
 

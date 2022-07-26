@@ -5,7 +5,6 @@ date: Sat, 25 Aug 2018 07:01:47 +0000
 category: Spain
 math: true
 mermaid: true
-layout: post
 ---
 <!-- wp:paragraph -->
 <p>We came from Saint-Jean-de-Luz in France yesterday to Zamora, Spain. Now, I know I owe you posts on some day-trips we took last week, and one on Saint-Jean-de-Luz ("appalling" might sum it up), but our return to Spain has been pretty amazing, so I'm going to skip ahead. I will fit in those last two France posts Real Soon Now.</p>
@@ -24,11 +23,11 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5417} -->
-<figure class = "portrait" class="wp-block-image"><img src="{{"/assets/images/2018/08/DSC04550.jpg" alt="" class="wp-image-5417" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>The castillo of Zamora. We were watching this beautiful sunset when we heard flamenco dancers warming up inside the castillo.</figcaption></figure>
+<figure class="wp-block-image"><img src="http:/assets/images/2018/08/DSC04550.jpg" alt="" class="wp-image-5417"/><figcaption>The castillo of Zamora. We were watching this beautiful sunset when we heard flamenco dancers warming up inside the castillo.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":5418,"width":580,"height":264} -->
-<figure class = "portrait" class="wp-block-image is-resized"><img src="{{"/assets/images/2018/08/DSC04552.jpg" alt="" class="wp-image-5418" width="580" height="264" | prepend: site.baseurl | prepend: site.url }}" alt="Image" /><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
+<figure class="wp-block-image is-resized"><img src="http:/assets/images/2018/08/DSC04552.jpg" alt="" class="wp-image-5418" width="580" height="264"/><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

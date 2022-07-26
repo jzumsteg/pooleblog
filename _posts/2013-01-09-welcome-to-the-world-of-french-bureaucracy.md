@@ -5,7 +5,6 @@ date: Wed, 09 Jan 2013 17:41:27 +0000
 category: France
 math: true
 mermaid: true
-layout: post
 ---
 We realized a couple days ago that we have to have visas to stay in France as long as we want to stay. France is part of the "Shengen" area - so named for the Shengen Treaty that covers this stuff - which includes almost all European countries.  A traveler can stay only 90 days in the "Shengen" area in a 180-day period. When a traveler arrives in his/her first Shengen country, both the 90-day and 180-day clocks start ticking. If a traveler reaches the 90-day visit limit before the 180-day clock runs out, he or she is legally not allowed to stay in any Shengen country until the 180 days is up. Doesn't work to leave to another country and come back; that 180-day clock for the entire European area prevents that.
 

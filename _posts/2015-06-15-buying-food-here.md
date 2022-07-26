@@ -5,7 +5,6 @@ date: Mon, 15 Jun 2015 09:55:56 +0000
 category: Food and Wine
 math: true
 mermaid: true
-layout: post
 ---
 Recently a friend reading the blog (that's you, Frannie)&nbsp;asked us about food markets and how the French get their food, so I've taken some pictures and will write a bit about it in this post.
 
@@ -23,8 +22,8 @@ Two years ago our first trip to the local Carrefour was to stock a house that wa
 
 There are also small stores that carry a bit of everything, including produce and meats. Here's our local:
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/20150612_DSC05388.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/06/20150612_DSC05388.jpg"/>
 	<figcaption><em>A small "has a little of everything" market near us. The U.S.. equivalent is a 7-11, with groceries and produce added.</em></figcaption>
 </figure>
 
@@ -57,15 +56,15 @@ Fountainbleau is the nearest good-sized city. It has a much bigger - and more fr
 
 One last way we get our produce: on Thursdays at 4 in the afternoon, a truck straight from a farm appears at the location of the Thursday morning market - which has folded up and been gone since about noon - and sets up a table. The truck also has a number of bags of produce, picked that day and changing from week-to-week to reflect what was ready to pick in the the morning. For 10€ you get a bagful; no choice in what you get, as they're all pre-bagged. The next week, you exchange your now-empty bag and 10€ for another full bag. And this week, they also had strawberries and cherries, both of which were just fabulous. Not cheap, I can say, &nbsp;but about the freshest and tastiest imaginable.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/20150611_DSC05383.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/06/20150611_DSC05383.jpg"/>
 	<figcaption><em>Food from a truck straight from the farm. One bagful: 10€.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/20150611_DSC05387.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/06/20150611_DSC05387.jpg"/>
 	<figcaption><em>Our bag o' food from the farm truck.</em></figcaption>
 </figure>
 

@@ -5,7 +5,6 @@ date: Sun, 21 Jul 2013 15:42:59 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 This is our second visit to Langres. We've found that when we told someone here that we were going to Langres, the universal response was "Why?" Langres has nothing of note to draw tourists. But readers of our 2010 blog, when we also visited Langres, know why. 
 

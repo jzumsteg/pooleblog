@@ -5,7 +5,6 @@ date: Fri, 14 Jun 2013 18:46:04 +0000
 category: France
 math: true
 mermaid: true
-layout: post
 ---
 We're glad it was "just another day," as it felt like we're getting back in the routine after our little adventure in the French healthcare system.
 
@@ -16,8 +15,8 @@ When she took the old dressing off, I got a look at what I'd done to myself for 
 Then Laurie and I went to our local market, Carrefour, for groceries and a coffee-maker, to replace the one I broke. It felt good to get back to doing something normal.
 
 Afterwards, we took a walk along our favorite route, the Canal Loing. We parked in the public parking at La Genevraye (population: 650) and saw this view of the Church here:
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/la-genevrae-church.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/la-genevrae-church.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -29,8 +28,8 @@ Then we walked along Canal Loing. Walking the section we walked today fills in a
 Someday I'll post more about the canals. We've thought about why we enjoy them so much, and enjoy watching boats - particularly working canal barges -  go through the locks. We think it's because the canals and the boats are a part of an older France, a France that is disappearing. Fifty years ago, a lock on this canal would have seen fifty boats a day; today, maybe ten, of which two or three would be real "working" boats and the rest private pleasure craft or "float the canals of France" tourist boats. Progress, I guess, but I'm sorry to see this aspect of France disappear.
 
 Here's a working canal boat, the "Thailand," in the lock at Episy.
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/thailand-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/thailand-3.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -38,28 +37,28 @@ Here's a working canal boat, the "Thailand," in the lock at Episy.
 You can see that these canal boats were built for the size of the locks. There is no more than a foot of clearance on each side, and maybe two or three feet of clearance on the length. The skill of the people operating them amazes us: they never touch the sides, they never have to go forward or backward to get positioned, they just gently ease into the lock and gently ease out when they've locked through.
 
 Here's the Thailand, moving up the canal. That it's empty is apparent from how high it is out of the water. They go slowly; Laurie and I walked faster than the boat moved.
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/thailand-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/thailand-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/06/thailand-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/thailand-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Thailand-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/Thailand-4.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
 Laurie spotted these poppies growing in what is essentially a heap of junk. 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/poppies.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/poppies.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

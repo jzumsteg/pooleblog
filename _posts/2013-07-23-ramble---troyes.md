@@ -5,7 +5,6 @@ date: Tue, 23 Jul 2013 13:41:50 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Okay, let's start with the pronunciation of the city of Troyes. One would, at first glance, think it was pronounced as we pronounce "Troy" in English; I mean, after all, there are only two lousy letters tacked on to the end, and everyone knows that in French, you don't pronounce the 's' at the end of a word, and the 'e' only serves to force the pronunciation of the letter before it, so it's "troy," right.
 
@@ -23,8 +22,8 @@ Troyes' claim to fame is that, for some reason, the city has maintained hundreds
 
 <b>Iglise St. Madeline</b>
 I wanted to see this church because my guidebook said it has one of the few remaining "rood screens" in France. The rood screen - jubé in French - was a partition between the nave, where the parishioners sat for a Mass, and the choir, where the priests conducted the Mass. This jubé, besides being one of the last, is one of the most ornate - an example of Flamboyant Gothic sculpture.
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03522.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/07/DSC03522.jpg"/>
 	<figcaption><em>The jubé (rood screen in English) at St Madeline</em></figcaption>
 </figure>
 

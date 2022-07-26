@@ -5,7 +5,6 @@ date: Sun, 13 Sep 2015 07:11:41 +0000
 category: Miscellaneous
 math: true
 mermaid: true
-layout: post
 ---
 This morning I ran into the same technical problems as I had in early July, so if pictures - particularly in the Venice post - are gone, bear with me. I'll get them back, but it may take a day or two.
 

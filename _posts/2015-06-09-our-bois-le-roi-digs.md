@@ -5,7 +5,6 @@ date: Tue, 09 Jun 2015 07:01:22 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Laurie says lots of blog readers will be interested in seeing where we're staying for five weeks. I'm not so sure, but here goes...
 

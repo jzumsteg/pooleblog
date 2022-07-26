@@ -5,7 +5,6 @@ date: Mon, 11 Feb 2013 03:49:32 +0000
 category: France
 math: true
 mermaid: true
-layout: post
 ---
 We're ready! Got our flights booked and leased a car for the time we're there.
 

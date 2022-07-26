@@ -5,7 +5,6 @@ date: Fri, 09 Aug 2013 14:53:50 +0000
 category: Events
 math: true
 mermaid: true
-layout: post
 ---
 Just when we think we've got it all figured out here...
 

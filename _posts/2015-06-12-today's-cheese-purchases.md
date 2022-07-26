@@ -5,7 +5,6 @@ date: Fri, 12 Jun 2015 11:01:47 +0000
 category: Food and Wine
 math: true
 mermaid: true
-layout: post
 ---
 I don't think we'll get to all the cheeses in France, but we're making an effort. Today:
 
@@ -19,8 +18,8 @@ We also bought a slab of paté de campagne.
 
 Can't wait for lunch!
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/20150612_DSC05398.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/06/20150612_DSC05398.jpg"/>
 	<figcaption><em>Today's haul at the cheese shop.</em></figcaption>
 </figure>
 

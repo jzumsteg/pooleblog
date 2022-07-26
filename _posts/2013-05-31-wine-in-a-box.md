@@ -5,7 +5,6 @@ date: Sat, 01 Jun 2013 06:40:29 +0000
 category: Food and Wine
 math: true
 mermaid: true
-layout: post
 ---
 Well, it didn't take long to fall to this level: we bought wine in a box.
 

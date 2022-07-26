@@ -5,15 +5,14 @@ date: Wed, 28 Aug 2013 13:10:19 +0000
 category: [Places,Rambles]
 math: true
 mermaid: true
-layout: post
 ---
 Next, we drove to the town of Sancerre. I doubt anyone knows of Sancerre unless they like French white wine. The region around Sancerre produces a beautiful white wine. One small part of the city proper is a bit touristy, with lots of places to try and buy the wines of Sancerre. Other parts are quiet and beautiful:
 [gallery size="medium" link="files" columns="2" ids="1507,1508,1509,1510,1511"]
 
 We had lunch in the tiny town of Cauvignol, famous for its chevre - goat cheese. There, we had a very nice bottle of Sancerre wine, so we went to the winery. For those who have been to wineries in, say, Napa Valley, this was a bit different. We found the winery, rang a bell on the door, and after five minutes or so, a woman came out of a house down the street. She took us into the room where the wines were bottled and stored, and poured us a couple tastes. We liked best the wine we had at lunch, so we bought a bunch of it.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/DSC03889.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/DSC03889.jpg"/>
 	<figcaption><em>How are we going to get all this in the car?!?</em></figcaption>
 </figure>
 
@@ -24,8 +23,8 @@ What a difference from a Napa Valley experience: no tasting fee, no fancy tastin
 
 One last comment. I love this about France: you're driving out in the middle of nowhere and come upon something like this:
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_0153.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_0153.jpg"/>
 	<figcaption><em>A 15th century fortress/chateau/farm.</em></figcaption>
 </figure>
 

@@ -5,7 +5,6 @@ date: Sun, 03 Jul 2016 17:38:37 +0000
 category: [Rambles, Places]
 math: true
 mermaid: true
-layout: post
 ---
 Eight years ago we came to Monpazier and have wanted to return ever since. We were able to arrange it this year and we are so glad we did. This is an amazing town, with quite a history, situated in the beautiful Lot River valley.
 
@@ -15,8 +14,8 @@ What's all this got to do with Monpazier? During the war, both sides built basti
 
 Here's a look down a main street of Monpazier:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00656.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00656.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -26,45 +25,45 @@ Wide and straight. Take away the cars and you've got a bastide town of 700 years
 
 Monpazier also has about my favorite main square in the world. Here's a panoramic  view of it, showing about 2-1/2 sides of the square.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00579-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00579-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-And some pictures of the different sides.<figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00578-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+And some pictures of the different sides.<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00578-2.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00577.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00577.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00575.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00575.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00574.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00574.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
 The bastide towns almost always have arcaded buildings on the square.
-<figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00584.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00584.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-And many of the bastide towns have their original market hall; here's Monpazier's.<figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00583.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+And many of the bastide towns have their original market hall; here's Monpazier's.<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00583.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -74,28 +73,28 @@ The population of Monpazier is about 500 people, though the area around it has p
 
 Some other pictures of Monpazier:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00660.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00660.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00659.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00659.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00654.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00654.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00648.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00648.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00582.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00582.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -103,8 +102,8 @@ Some other pictures of Monpazier:
 
 We like Monpazier, not least because the hotel we stay in here is beautiful, with a way-above-average restaurant. Here's Laurie looking out the "tower room" of our room.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00667.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/DSC00667.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

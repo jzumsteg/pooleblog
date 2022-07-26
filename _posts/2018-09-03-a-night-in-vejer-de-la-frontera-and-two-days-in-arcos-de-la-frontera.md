@@ -5,7 +5,6 @@ date: Mon, 03 Sep 2018 17:47:39 +0000
 category: Spain, Places]
 math: true
 mermaid: true
-layout: post
 ---
 <h2>Vejer de la Frontera</h2>
 We headed south from Trujillo, where it was hot, to Vejer de la Frontera, where it was hotter - approaching 100°. Vejer is a "pueblo blanco" - a white town, so named because it has been here for a thousand or more years and every building in the town is stark white, an effort to live with the hot sun here. There are many pueblos blancos in southern Spain and Vejer has been one of our favorites on two previous stays here. It was small, not overrun with tourists, quiet, with a hotel that we really liked.
@@ -18,15 +17,15 @@ The night was as bad as we feared. The bedroom was like a tomb, really. We could
 
 Off we went to Arcos de la Frontera.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04920.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04920.jpg"/>
 	<figcaption><em>I'm not saying the streets in Vejer are tight, but the receptionist told me to drive down this road to a place where we could unload our bags. I got about a hundred yards down a steep hill on this very narrow street and found this car nicely parked. Now, I've become almost fearless about driving these streets, but I backed up those 100 yards rather than try to get around this car. Laurie kept her head between her knees the entire time.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04925.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04925.jpg"/>
 	<figcaption><em>The only nice thing about our 18 hours in Vejer: this view from our terrace.</em></figcaption>
 </figure>
 
@@ -34,13 +33,13 @@ Off we went to Arcos de la Frontera.
 <h2>Arcos de la Frontera</h2>
 When we arrived at the Arcos parador, the nicest woman in the whole entire world (or so it seemed to us at the time) checked us in. We decided to opt for an upgraded room with a view and were glad we did. Here's the view from our room's balcony, which was about 6 ft by 20 ft.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04940.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04940.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04935.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+ <figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04935.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -56,14 +55,14 @@ Arcos has some tight streets, too. This is the main street to the parador and a 
 <table>
 <tbody>
 <tr>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04945.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04945.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04946.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04946.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -75,22 +74,22 @@ Many Spanish churches are of a style called Spanish Baroque, typified by extreme
 <table>
 <tbody>
 <tr>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04998.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04998.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04977.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04977.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
 </tr>
 <tr>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04992.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04992.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -103,14 +102,14 @@ Some sights from being out and about in Arcos:
 <table>
 <tbody>
 <tr>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04950.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/09/DSC04953.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04953.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -118,21 +117,21 @@ Some sights from being out and about in Arcos:
 </tr>
 </tbody>
 </table>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04952-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04952-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC04961.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC04961.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/09/DSC05028.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/09/DSC05028.jpg"/>
 	<figcaption><em>Parking space was at a premium. Note that the two cars farthest away cannot move forward because there's a foot-high wall in front of them. I have no idea what happens when one of those two need to leave. The most amazing thing is that we drove into this parking lot on our arrival and found a parking place right in front of the parador - legal, not blocking anyone, available for \\$7 per day paid at the parador.</em></figcaption>
 </figure>
 

@@ -5,7 +5,6 @@ date: Wed, 07 Aug 2013 18:46:51 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 If you travel around enough, you will surely encounter some things you just could not expect. The harbor of Auray gave us just that experience.
 
@@ -16,8 +15,8 @@ First hint that something was going on: the parking lots around the harbor area 
 We turned the corner to the harbor and saw that the area was jammed with people, all of whom were watching something in the water. We pushed to the fence and saw... well, let me show you some pictures. 
 
 First, a boat rowing out into the harbor. Note the guy with the long pole on the back. Note also that the team is dressed in Mexican garb, including sombreros, serapes and fake mustaches.
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8465.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8465.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -25,8 +24,8 @@ First, a boat rowing out into the harbor. Note the guy with the long pole on the
 
 Another boat, with another oddly-dressed team, was coming from the other direction. They rowed like crazy toward each other and we realized that it was a boat-joust - the guys with poles were going to try to knock each other into the water. 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8468.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8468.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -34,16 +33,16 @@ Another boat, with another oddly-dressed team, was coming from the other directi
 
 Closer...
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8469.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8469.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 Closer...
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8470.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8470.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -51,8 +50,8 @@ Closer...
 
 Closer...
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8471.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8471.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -60,8 +59,8 @@ Closer...
 
 Splash!
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/MG_8472.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/MG_8472.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

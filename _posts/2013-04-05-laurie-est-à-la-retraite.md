@@ -5,7 +5,6 @@ date: Fri, 05 Apr 2013 23:07:15 +0000
 category: Miscellaneous
 math: true
 mermaid: true
-layout: post
 ---
 <p>Hard to believe, but after twenty years, Laurie retired last Monday. Tuesday she was pretty exhausted, both physically - from cleaning out her desk - and emotionally - from having everyone in the library, co-workers and patrons, come to say good-bye to her.</p>
 <p>It will take her some getting used to it, certainly. We were talking about doing something and she said that we should wait until the weekend; I pointed out that, from now on, every day is a weekend day. "Oh…yeah…that's right…"</p>

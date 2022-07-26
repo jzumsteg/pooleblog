@@ -5,7 +5,6 @@ date: Sun, 29 Sep 2013 16:55:04 +0000
 category: [Places, Rambles]
 math: true
 mermaid: true
-layout: post
 ---
 I've got some catching up to do here! We spent three days in the Loire Valley with Laurie's sister Peggy, then Craig and Annie and Clara (aka, "The Red Tomato") arrived and we culminated that visit with a birthday party to celebrate Clara's third birthday. I'll start with the Loire Valley visit.
 

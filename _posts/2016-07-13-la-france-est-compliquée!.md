@@ -5,7 +5,6 @@ date: Wed, 13 Jul 2016 15:00:42 +0000
 category: France
 math: true
 mermaid: true
-layout: post
 ---
 Life can be complicated here, even in simple things. When I say that to people who have lived here a long time, I sometimes get some pushback: "No, it's not that bad. Not so complicated. Used to be worse," etc. Right. Here's complicated.
 
@@ -19,13 +18,13 @@ Whoops. Closed: sign in the window says, "Closed this Wednesday morning *unique
 
 It's open! Yahooo! And parking right across the street! Whoo-hoo! And...they have no cakes. Really. They do, fortunately, have a selection of beautiful tartes, of which we buy six and call it a day.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/tarte_box.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2016/07/tarte_box.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{"/assets/images/2016/07/Untitled-2.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{site.url}}/assets/images/2016/07/Untitled-2.png"/>
 	<figcaption></figcaption>
 </figure>
 

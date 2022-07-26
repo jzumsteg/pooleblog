@@ -5,7 +5,6 @@ date: Sat, 13 Jul 2013 14:30:32 +0000
 category: Paris
 math: true
 mermaid: true
-layout: post
 ---
 We love to walk in Paris. I'm not sure there's a better city in the world for walking, so we do a lot of walking. Here are some highlights of our walks in Paris this last week.
 
@@ -23,8 +22,8 @@ This picture shows a few cars obeying the parking rules: there's not a "No Parki
 
 Actually, it also seems that you can disregard the above three rules if you just put your blinkers on. That seems to make parking anywhere okay.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03188.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/07/DSC03188.jpg"/>
 	<figcaption><em>Sure, no problem</em></figcaption>
 </figure>
 

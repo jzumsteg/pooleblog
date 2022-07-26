@@ -5,12 +5,11 @@ date: Tue, 09 Jul 2013 06:35:59 +0000
 category: Activites
 math: true
 mermaid: true
-layout: post
 ---
 The town of Fontainbleau has a huge market three mornings a week, Sunday being the biggest. We've been many times with Mary and Gilles, but last Sunday we ventured into it on our own. I won't say it was without its moments, but we were successful:
 <br>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/MG_7605.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/07/MG_7605.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

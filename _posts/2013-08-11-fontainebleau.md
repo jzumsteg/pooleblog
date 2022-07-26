@@ -5,18 +5,17 @@ date: Sun, 11 Aug 2013 09:42:06 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 We've had lots of folks who wanted to come and stay with us, and it has pained us that we just don't have enough room for everyone here in Montigny-sur-Loing. So we decided to look for a place we could rent that has a little more space, a few more bedrooms. Today we found the ideal rental, nearby in the town of Fontainebleau, and with lots of room for everybody:
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/DSC03753.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/DSC03753.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 It even has a couple extra wings, in case more people arrive, and a nice area for swimming on those hot days:
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/08/DSC03763.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/08/DSC03763.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

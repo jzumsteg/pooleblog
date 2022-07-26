@@ -5,7 +5,6 @@ date: Tue, 23 Jul 2013 13:47:25 +0000
 category: Berlin
 math: true
 mermaid: true
-layout: post
 ---
 It's Sunday night; we're in Paris at Mary & Gilles flat, on our way to Berlin tomorrow. We're looking forward to seeing the "Red Tomato!"
 

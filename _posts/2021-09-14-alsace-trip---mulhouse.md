@@ -5,7 +5,6 @@ date: Tue, 14 Sep 2021 15:15:08 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
-layout: post
 ---
 Last stop on our Alsace tour: Mulhouse. Mulhouse differs quite a bit from Strasbourg and Colmar: it's an industrial city that is having a hard time keeping its industrial base. It doesn't have many beautiful and historic buildings nor beautiful parks. The street on which our hotel was located was a bit gritty. But! Mulhouse has a couple amazing museums, and one little-known museum that we wanted to see, so to Mulhouse we went.
 
@@ -29,29 +28,29 @@ Engine size: 12.7 liters (715 cu. in.) producing 300 hp (that's a lot for that t
 
 The Cité de l'Automobile has two of the original Royales. The museum was able to build a third (officially, a replica) from a spare chassis, motor and spare parts in the museum's possession and then hand-building a body for it!
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01142.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01142.jpg"/>
 	<figcaption><em>One of the two original Bugatti Royales in the museum's collection.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01143.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01143.jpg"/>
 	<figcaption><em>The interior of the Royale shown above. Rather luxurious...</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01141.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01141.jpg"/>
 	<figcaption><em>The second Royale in the Museum.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01089.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01089.jpg"/>
 	<figcaption><em>The "replica" Royale. There was a full display showing the process of hand-forming the body.</em></figcaption>
 </figure>
 
@@ -59,83 +58,83 @@ The Cité de l'Automobile has two of the original Royales. The museum was able t
 
 The two original Royales would likely go at auction for around \\$40 million each. The last time one was sold it brought \\$20 million - in 1999. The replica would bring much less than that, not being an actual production car.&nbsp;
 <h2 style="font-family: verdana;">Other interesting cars, in no particular order:</h2>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01091.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01091.jpg"/>
 	<figcaption><em>Maybe a tenth of the collection!</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01097.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01097.jpg"/>
 	<figcaption><em>1930s Alfa Romeo.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01098.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01098.jpg"/>
 	<figcaption><em>Another Alfa Romeo.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01100.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01100.jpg"/>
 	<figcaption><em>Perfect! One for me, one for our grandson, Henry.</em></figcaption>
 </figure>
 
 
-<h2><figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01103.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<h2><figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01103.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </h2>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01105.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01105.jpg"/>
 	<figcaption><em>A 1970s Citroēn-Maserati.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01145.jpg"/>
 	<figcaption><em>I'll take one, please.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01150.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01150.jpg"/>
 	<figcaption><em>A Woodie!</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01155.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01155.jpg"/>
 	<figcaption><em>Bugatti Type 55 (1932-1935)</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01157.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01157.jpg"/>
 	<figcaption><em>Bugatti Type 50 (1931-1933)</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01165.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01165.jpg"/>
 	<figcaption><em>This is style! A 1930s Mercedes.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01169.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01169.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -145,64 +144,64 @@ I loved the Cité de l'Automobile, but two hours there was all my brain could ta
 I can hear it now: "Oh, no, another Cité de la Something." Yep, this time for trains.
 The French railroad system is run by the Société Nationale des Chemins de Fer Français (SNCF), the "National Company of French Railways." The city of Mulhouse, wanting to draw visitors to the city, donated land to SNCF to display its rolling stock - locomotives and rail cars. The museum is dedicated to the history of trains in France, and stocked with locomotives and railroad cars from the 1840s to today. It had many amazing exhibits - for example, a huge steam locomotive cut in half so the inner workings could be shown and explained.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01187.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01187.jpg"/>
 	<figcaption><em>The railroad from Paris arrived in our France home base Bois-le-Roi in 1848 and when I saw this locomotive from 1850, I realized that one similar to this would have provided train service on that line. Time from Paris? Maybe 3 hours? Today: 35 minutes.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01183.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01183.jpg"/>
 	<figcaption><em>Every train and railroad car was restored to this level. Railroad locomotives beautiful? Definitely!</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01189.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01189.jpg"/>
 	<figcaption><em>An 1850 First Class passenger car.</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01190.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01190.jpg"/>
 	<figcaption><em>First class interior. Notice the foot rests, which held hot water to keep those first class tootsies warm.</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01191.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01191.jpg"/>
 	<figcaption><em>And a third class car. A wooden plank for a seat. No foot warmers.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01185.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01185.jpg"/>
 	<figcaption><em>A streamlined steam locomotive. This one was set up so that it appeared to be running, with the wheels turning and all the mechanical components to-ing and fro-ing.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01197.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01197.jpg"/>
 	<figcaption><em>The level of restoration here is amazing.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01205.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01205.jpg"/>
 	<figcaption><em>A First class compartment from the 1930s.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01209.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01209.jpg"/>
 	<figcaption><em>Fine dining, even if on the move.</em></figcaption>
 </figure>
 
@@ -218,64 +217,64 @@ In the 1820s the manufacturers and designers formed an association that collecte
 
 Now, for whatever reason, textiles interest me, so when Laurie learned about this museum, we immediately decided to visit. It's a small place, so only took about an hour (plus an hour for Mary and Laurie in the museum's shop).&nbsp;
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01212.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01212.jpg"/>
 	<figcaption><em>A dress with printed cloth. Before Mulhouse became dominant in this industry, such a dress would have been hand-embroidered and much more expensive.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01213.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01213.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01214.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01214.jpg"/>
 	<figcaption><em>A handkerchief of printed cloth. The museum has a collection of over 6,000 printed handkerchiefs, but only a few are displayed at any time.</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01215.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01215.jpg"/>
 	<figcaption><em>Another handkerchief.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01216.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01216.jpg"/>
 	<figcaption><em>Carved wood blocks and the designs they printed.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01217.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01217.jpg"/>
 	<figcaption><em>A big carved wood block.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01218.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01218.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01219.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01219.jpg"/>
 	<figcaption><em>Several of the machines that mechanized the printing process. With these, manufacturers could make huge amounts of cloth.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01220.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2021/09/DSC01220.jpg"/>
 	<figcaption><em>A modern design and printed cloth. Mulhouse still has a large textile industry, but it is no longer dominant.</em></figcaption>
 </figure>
 

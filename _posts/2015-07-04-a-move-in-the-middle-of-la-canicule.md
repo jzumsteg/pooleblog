@@ -5,7 +5,6 @@ date: Sat, 04 Jul 2015 15:03:00 +0000
 category: Activities
 math: true
 mermaid: true
-layout: post
 ---
 "La Canicule" is French for "heat wave," and that is exactly what we've had. This afternoon (Saturday, July 4; oddly enough, in France July 4th is just another day) it's about 82F with some rain and thunder showers. That's the coolest afternoon we've had in a week, and it's going to stay in the mid- to high-80s for a week. Last Tuesday it was 102F here; broke a record for the day.
 
@@ -15,16 +14,16 @@ The heat caused us to curtailed our activities some, but we moved in the middle
 
 Here's the front of our new residence. The house was built in 1923 and seriously remodeled when the current owners moved in eight years ago. You can't see the remodel from the front; the entire first floor back wall was removed and the kitchen expanded and a living area added.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/07/DSC08761-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/07/DSC08761-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 
 
 And the view from our bedroom. We love the window flowers - they're everywhere.
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/07/DSC08755-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/07/DSC08755-1.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

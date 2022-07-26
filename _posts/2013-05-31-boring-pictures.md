@@ -5,7 +5,6 @@ date: Fri, 31 May 2013 14:53:44 +0000
 category: Ambles
 math: true
 mermaid: true
-layout: post
 ---
 We didn't do anything special today; just took a drive in the country. Here are some pictures from our drive.
 

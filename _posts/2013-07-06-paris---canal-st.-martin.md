@@ -5,7 +5,6 @@ date: Sat, 06 Jul 2013 07:56:03 +0000
 category: Paris
 math: true
 mermaid: true
-layout: post
 ---
 Some years ago, on our first stay in Paris, I read about a boat ride on Canal St. Martin. We decided that it would be a perfect first-day, recovering-from-jet-lag activity for that trip: two and a half hours of sitting and floating through an interesting part of Paris. It was, indeed, a perfect first-day activity, and a walk along Canal St. Martin has become our favorite walk in Paris. So today, our first real day back in Paris, we walked Canal St. Martin.
 
@@ -20,8 +19,8 @@ Today, Canal St. Martin is a testimony to Paris understanding that a head-long r
 [gallery size = "medium" link="file" columns="2" ids="830,827,825,824"]
 <h3>Not Canal-related...</H3>
 After dinner Friday, we strolled around the area in which we were staying, turned down a little street, and saw this:
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03156.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/07/DSC03156.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

@@ -5,7 +5,6 @@ date: Mon, 25 May 2015 15:21:07 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Last Saturday Gilles was set to watch an important Rugby match of his favorite team, from his hometown area of Clermont-Ferrand. Knowing that it would be a really good idea for us to be absent during the match, Mary, Laurie and I set off for Égreville, to see some beautiful countryside and to visit a garden of sculptures by Antoine Bourdelle.
 
@@ -15,15 +14,15 @@ Anyway, when he died, his daughter and son-in-law, who lived in the small town o
 
 &nbsp;
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/05/DSC04802.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/05/DSC04802.jpg"/>
 	<figcaption><em>Herakles, Antoine Bourdelle's best known sculpture.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/05/DSC04797.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/05/DSC04797.jpg"/>
 	<figcaption><em>An amazing rose bush in the garden.</em></figcaption>
 </figure>
 
@@ -31,8 +30,8 @@ Anyway, when he died, his daughter and son-in-law, who lived in the small town o
 
 Laurie liked this sculpture of the famous dancer Isador Duncan best. It's small - about 3 feet high -  but we still couldn't fit it into the car.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/05/DSC04814.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/05/DSC04814.jpg"/>
 	<figcaption><em>Isadora Duncan</em></figcaption>
 </figure>
 

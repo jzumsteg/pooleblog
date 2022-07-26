@@ -5,7 +5,6 @@ date: Fri, 10 Jul 2015 09:03:41 +0000
 category: Miscellaneous
 math: true
 mermaid: true
-layout: post
 ---
 Gotta love technology...
 

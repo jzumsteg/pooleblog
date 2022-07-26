@@ -5,7 +5,6 @@ date: Sat, 08 Aug 2015 14:35:56 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Last Friday we saddled up the trusty old Renault and headed to Brittany to celebrate a bunch of birthdays. Our friends Jamie and Hervé Rufin, who have vacationed on the Presq'ile Quiberon for a number of years, last year bought a beautiful house there and invited three couples to join them over a long weekend; three of the four wives were celebrating birthdays that weekend, Laurie's is not too far away, and one husband's was the day before we arrived - a plethora of reasons to celebrate!
 
@@ -33,8 +32,8 @@ We went out for a wonderful - at the time - meal Saturday night, then Sunday nig
 
 Unfortunately, early the next morning three of us encountered a serious side affect of something, as Jamie, Laurie and I all had what can only have been food poisoning. The one thing we ate in common was oysters for a first course Saturday night, and there are indeed, food poisoning bacteria that take 24 hours to develop. The three of us pretty much spent the day in bed Monday. That was Jamie's birthday; what a way to spend it. Fortunately, by Tuesday she was still tired, but had recovered enough to have a small celebration.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/08/Bretagne-34.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2015/08/Bretagne-34.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

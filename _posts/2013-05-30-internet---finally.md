@@ -6,7 +6,6 @@ category: Miscellaneous
 
 math: true
 mermaid: true
-layout: post
 ---
 Actually, Internet access chez Zumsteg came only five days late. It was the process:
 

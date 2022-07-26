@@ -5,7 +5,6 @@ date: Tue, 28 Aug 2018 06:43:44 +0000
 category: [Spain, Places]
 math: true
 mermaid: true
-layout: post
 ---
 <!-- wp:paragraph -->
 <p>We were in Zamora for three days and think it might be our favorite place in Spain. The old city of Zamora (*casco antiguo*), in which our hotel was located, is the most fascinating place. Within easy walking distance of our hotel were a dozen Romanesque churches, all built in the 11th - 14th centuries. There was a fortress, a beautiful river walk, lovely streets, lively plazas with many restaurants and tapas bars. Other than that, the place was totally boring.</p>
@@ -20,7 +19,7 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5442} -->
-<figure class = "portrait" class="wp-block-image"><img class="wp-image-5442" src="http:/assets/images/2018/08/DSC04527.jpg" alt="" />
+<figure class="wp-block-image"><img class="wp-image-5442" src="http:/assets/images/2018/08/DSC04527.jpg" alt="" />
 <figcaption>The paseo in Zamora.</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -30,7 +29,7 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5459,"width":561,"height":421} -->
-<figure class = "portrait" class="wp-block-image is-resized"><img class="wp-image-5459" src="http:/assets/images/2018/08/DSC04562.jpg" alt="" width="561" height="421" /></figure>
+<figure class="wp-block-image is-resized"><img class="wp-image-5459" src="http:/assets/images/2018/08/DSC04562.jpg" alt="" width="561" height="421" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -38,7 +37,7 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5460,"width":580,"height":131} -->
-<figure class = "portrait" class="wp-block-image is-resized"><img class="wp-image-5460" src="http:/assets/images/2018/08/DSC04565.jpg" alt="" width="580" height="131" /></figure>
+<figure class="wp-block-image is-resized"><img class="wp-image-5460" src="http:/assets/images/2018/08/DSC04565.jpg" alt="" width="580" height="131" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph --><!-- /wp:paragraph -->
@@ -58,34 +57,34 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04707.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04707.jpg"/>
 	<figcaption><em>Thick walls, small windows, kind of fortress-like.</em></figcaption>
 </figure>
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04738.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04738.jpg"/>
 	<figcaption><em>Rounded arch gives this away: Romanesque</em></figcaption>
 </figure>
 
 
 <!-- wp:image {"id":5597,"width":577,"height":332} -->
-<figure class = "landscape" class="wp-block-image is-resized"></figure>
+<figure class="wp-block-image is-resized"></figure>
 <table>
 <tbody>
 <tr>
 <td>
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04732.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04732.jpg"/>
 	<figcaption><em>Solid - that's Romanesque.</em></figcaption>
 </figure>
 
 
 </td>
 <td>
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04716.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04716.jpg"/>
 	<figcaption><em>Capitals in a Romanesque church.</em></figcaption>
 </figure>
 
@@ -98,8 +97,8 @@ layout: post
 <tbody>
 <tr>
 <td>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04555.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04555.jpg"/>
 	<figcaption><em>A late Romanesque church - the main arch has a bit of a point to it.</em></figcaption>
 </figure>
 
@@ -108,14 +107,14 @@ layout: post
 </tr>
 </tbody>
 </table>
-<p><figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04553.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<p><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04553.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </p>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04736.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04736.jpg"/>
 	<figcaption><em>A beautifully restored church. I guarantee it didn't look this good when it was built.</em></figcaption>
 </figure>
 
@@ -135,22 +134,22 @@ layout: post
 <table>
 <tbody>
 <tr>
-<td colspan="2"><figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04622.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td colspan="2"><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04622.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
 </tr>
 <tr>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04619.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04619.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </td>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04618.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04618.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -158,8 +157,8 @@ layout: post
 </tr>
 <tr>
 <td colspan="2">
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/08/DSC04631.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04631.jpg"/>
 	<figcaption><em>An Oriel window - common in many Modernist buildings here and in Barcelona.</em></figcaption>
 </figure>
 
@@ -168,15 +167,15 @@ layout: post
 </tr>
 <tr>
 <td>
-<p><figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04621.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<p><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04621.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
 </p>
 </td>
-<td><figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04626.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<td><figure>
+	<img src="{{site.url}}/assets/images/2018/08/DSC04626.jpg"/>
 	<figcaption></figcaption>
 </figure>
 

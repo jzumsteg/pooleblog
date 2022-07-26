@@ -5,7 +5,6 @@ date: Sun, 09 Jun 2013 16:21:24 +0000
 category: Places
 math: true
 mermaid: true
-layout: post
 ---
 Today the weather turned sour again - we had a huge lightning-thunderstorm last night and woke up to clouds and cool temps and likely rain. So we decided to drive to the town of Chateau-Landon.
 
@@ -23,8 +22,8 @@ The North Aisle is unusual in several ways. It was built in the 14th century, so
 
 Anyway, for us, an interesting Church.
 
-And of course, every church needs a bar-brasserie (d'eglise translates as "of the church"): <figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Bar-church.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+And of course, every church needs a bar-brasserie (d'eglise translates as "of the church"): <figure>
+	<img src="{{site.url}}/assets/images/2013/06/Bar-church.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -32,8 +31,8 @@ And of course, every church needs a bar-brasserie (d'eglise translates as "of th
 <h2>Abbay of St. Severin</h2>
 This is a picture of the 12th century abbay of St. Severin. Today it is...a retirement home. Really. A beautiful retirement home at that (you can't see the residential areas, but they're in beautifully-restored abbay buildings). Laurie and I applied to live there.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Retirement-home.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/Retirement-home.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -41,8 +40,8 @@ This is a picture of the 12th century abbay of St. Severin. Today it is...a reti
 <h2>Exercise</h2>
 We did get some exercise:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Stairs.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/Stairs.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
@@ -50,8 +49,8 @@ We did get some exercise:
 
 Laurie says it was 80 steps; I was panting too hard to count. Someday they'll be more about Chateau-Landon, as there evidently are more things to see. We liked this place a lot.
 <h3>Make Way for Ducklings</h3>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/06/Ducks.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+<figure>
+	<img src="{{site.url}}/assets/images/2013/06/Ducks.jpg"/>
 	<figcaption></figcaption>
 </figure>
 
