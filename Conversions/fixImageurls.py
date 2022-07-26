@@ -6,8 +6,9 @@ def main():
 	print("Starting...")
 
 	baseUrl = "/Volumes/User Drive/Development/Jekyll/pooleblog/_posts/"
+	editedURL = "/Volumes/User Drive/Development/Jekyll/posts-edited/"
 	mdFiles = os.listdir(baseUrl)
-	# mdFiles = ['2021-10-19-chateau-fontainebleu---inside.md']
+	mdFiles = ['2021-10-19-chateau-fontainebleu---inside.md']
 	for mdFile in mdFiles:
 		if mdFile[-2:] == 'md':
 			print(f'Processing {mdFile}')
@@ -29,7 +30,7 @@ def main():
 					
 					mdStr = mdStr.replace(imgstr, newStr)
 
-		f = open(f'{baseUrl}{mdFile}', 'w')
+		f = open(f'{editedURL}{mdFile}', 'w')
 		f.write(mdStr)
 		f.close()
 
