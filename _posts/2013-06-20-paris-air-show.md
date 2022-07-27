@@ -18,7 +18,7 @@ We took the train to the le Bourget stop (the airshow is at the le Bourget airfi
 
 Anyway, we finally got through the lines, received our entrance badges and made our way in. After wanting to do this for so long, I was at the Paris Air Show:
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/entrance.jpg"/>
+	<img src="{{"/assets/images/2013/06/entrance.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Wet.</em></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ One highlight of the flying demonstrations was by a French fighter, the Dassault
 [gallery link="files" ids="564,563"]
 An hour later, the Boeing 787 took off, with this pretty spectacular climb from the runway (note the landing gear still coming up):
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/b787-4.jpg"/>
+	<img src="{{"/assets/images/2013/06/b787-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Dreamliner take-off</em></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ After that start, the Dreamliner flew a more sedate show than the A380 - don't k
 
 Le Bourget has a museum of flight, so there are some older airplanes there. In the midst of all these sleek modern aircraft was this Lockheed Super Constellation, designed in the early 1940s (the co-pilot on the first flight of the prototype was Eddie Allen, later President of Boeing) and flown until jet aircraft pushed it into obsolescence in the early 1960s. Maybe it's just me and my love of old airliners, but I think the Connie still looks beautiful, even when (maybe especially when) it's surrounded by modern airplanes.
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/connie-300x168.jpg"/>
+	<img src="{{"/assets/images/2013/06/connie-300x168.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

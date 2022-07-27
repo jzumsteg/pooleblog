@@ -26,7 +26,7 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05154.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05154.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The façade of Villesavin.</em></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05139.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05139.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Villesavin's courtyard, at the back of the chateau.</em></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05123.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05123.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>An inkpot, with several feather quill pens.</em></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05118.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05118.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Now this is what I call a kitchen!</em></figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 </tr>
 <tr>
 <td><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05140.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05140.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05385.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05385.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Chateau Amboise from across the Loire River.</em></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05378.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05378.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Closer. As with many of these chateaux, I wonder how opposing armies would have liked looking up at what they had to conquer.</em></figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05179.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05179.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A building of the Renaissance: beautiful, geometric and symetrical. Emphasis on beautiful.</em></figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 </tr>
 <tr>
 <td colspan="2"><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05205.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05205.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 <td colspan="2">
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05195.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05195.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Beautiful windows - everywhere.</em></figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ Chateau Amboise was originally a fortress, from which the king's army could cont
 <td colspan="2">
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05194.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05194.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>My kind of chair! The back was high to prevent the king from stabbings!</em></figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ We were mightily impressed with Chateau Amboise: history, beauty, royalty, intri
 Leonardo's home, given to him by Françoise I, is now a museum, with his bedroom, studio and other rooms fitted out as they might have been when he lived and worked here. Maybe...but we were not terribly impressed. First of all, it was jammed, and seemed to have an inordinately large number of 4-8 year-old kids, who were not suitably impressed by what they saw. And really, who can blame them? Were we interested in 16th century furniture when we were that old? No, so like these kids, we would have fidgeted and whined and asked when we could get a treat. Second problem was that large tour groups were allowed in, so we were stuck between groups of 35-40 people, in rooms so small the whole group could not get into the room. Fortunately, the gardens were lovely. But as the most expensive museum we've visited, we were highly disappointed. We left after about 90 minutes.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05370.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05370.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Leonardo DaVinci's home for the last three years of his life (1516-1519). Looks beautiful, but not our favorite place. Not even on the list of favorite places.</em></figcaption>
 </figure>
 
@@ -157,7 +157,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 <td>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05339.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05339.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>We could sit in the garden and just look at the chateau Azay-le-Rideau. Just beautiful.</em></figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 </tr>
 <tr>
 <td><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05344.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05344.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 </tr>
 <tr>
 <td><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05335.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05335.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 </tr>
 <tr>
 <td><figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05310.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05310.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 </tr>
 <tr>
 <td><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05308.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05308.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -197,7 +197,7 @@ This is our top-of-the-list favorite chateau and one of our favorite buildings i
 </tr>
 <tr>
 <td colspan="2"><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05309.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05309.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ If you could visit only one chateau in the Loire Valley, I would recommend Azay.
 No, not another chateau. We stayed at a B &amp; B named Le Grenadier, our second stay here. It is a great B &amp; B: rooms are comfortable (Laurie says Madame Butterworth, our gracious host, has thought of everything a woman could want; I don't know what that means); excellent breakfasts; a beautiful yard to enjoy, and, most of all, a place to relax after a hard day of chateau viewing.
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/07/IMG_2092-2.jpg"/>
+	<img src="{{"/assets/images/2018/07/IMG_2092-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

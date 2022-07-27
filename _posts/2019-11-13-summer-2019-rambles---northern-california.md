@@ -22,63 +22,63 @@ The tallest of the Redwoods is named Hyperion, a couple inches short of 380 feet
 But you can see many of these giants, gathered together in groves that will take your breath away (and put a crick in your neck from looking up). Many trees we did see are around 300 ft tall.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08653-576x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08653-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08639-576x1024.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08639-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08633.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08633.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08631.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08631.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08630.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08630.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08625.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08625.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Stout Grove. This grove is unusual in that because it is near a river that floods every few years and carries away all the brush on the forest floor, trees here are visible from the very bottom way up until they disappear in the forest ceiling. Other groves have lots of underbrush that hides the tree bottoms.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08624.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08624.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is a big tree, but far from the biggest we saw. It has a diameter of maybe 15 ft; we saw trees with diameters approaching 25 ft.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08617.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08617.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08607.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08607.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08605.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08605.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <a href="http://zumsteg.us/?attachment_id=6185" rel="attachment wp-att-6185">I </a><figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08600.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08600.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -88,24 +88,24 @@ I can write about these trees, and I can talk about them, but really, you have t
 After the Redwoods we drove down the coast to Ft. Bragg. Ft. Bragg is an interesting old place, and we had found what looked like a good place to stay. In fact, it was a great place to stay. Almost every room has a view of the ocean, with nothing but sand and grass between the hotel and the surf. We ponied up a little extra for a room on the top (of two) floors for a little better view. It had a balcony and a big door opening out onto it; we never closed that door while were there, so we could listen to the surf all night long. Nice place, for sure.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08683-1.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08683-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>View from our room's balcony. Pretty nice, eh?</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08685.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08685.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08689.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08689.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2019/11/DSC08691.jpg"/>
+	<img src="{{"/assets/images/2019/11/DSC08691.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

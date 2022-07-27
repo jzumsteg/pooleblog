@@ -13,7 +13,7 @@ What I didn't realize until I read this book was how important Sylvia Beach was 
 
 Now, most Americans of a literary bent will stop by the current Shakespeare &amp; Company on Rue de la Bûcherie, across the Seine from Notre Dame.:
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/09/300px-Shakespeare_and_Company_store_in_Paris.jpg"/>
+	<img src="{{"/assets/images/2015/09/300px-Shakespeare_and_Company_store_in_Paris.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ In 1951 George Whitman wanted to open a bookstore in Paris. Somehow, he met Sylv
 
 I decided to look up the locations of the real Shakespeare &amp; Co. Sylvia opened the first store in 1921 at 8, rue Dupuytren; today, it looks like this:
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/09/DSC09322.jpg"/>
+	<img src="{{"/assets/images/2015/09/DSC09322.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Not a word about its history!
 Sylvia moved Shakespeare &amp; Co. around the corner to 12, rue de l'Odeon about 18 months later. This was a larger location, and across the street from the French-language bookstore of Adrienne Monnier, Sylvia's life-long love.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/09/DSC09326.jpg"/>
+	<img src="{{"/assets/images/2015/09/DSC09326.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Sylvia moved Shakespeare &amp; Co. around the corner to 12, rue de l'Odeon about
 This location has a reference to its history; the plaque between the two upper windows:
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/09/DSC09254.jpg"/>
+	<img src="{{"/assets/images/2015/09/DSC09254.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

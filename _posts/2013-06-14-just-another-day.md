@@ -17,7 +17,7 @@ Then Laurie and I went to our local market, Carrefour, for groceries and a coffe
 
 Afterwards, we took a walk along our favorite route, the Canal Loing. We parked in the public parking at La Genevraye (population: 650) and saw this view of the Church here:
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/la-genevrae-church.jpg"/>
+	<img src="{{"/assets/images/2013/06/la-genevrae-church.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Someday I'll post more about the canals. We've thought about why we enjoy them s
 
 Here's a working canal boat, the "Thailand," in the lock at Episy.
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/thailand-3.jpg"/>
+	<img src="{{"/assets/images/2013/06/thailand-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -39,19 +39,19 @@ You can see that these canal boats were built for the size of the locks. There i
 
 Here's the Thailand, moving up the canal. That it's empty is apparent from how high it is out of the water. They go slowly; Laurie and I walked faster than the boat moved.
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/thailand-2.jpg"/>
+	<img src="{{"/assets/images/2013/06/thailand-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/thailand-1.jpg"/>
+	<img src="{{"/assets/images/2013/06/thailand-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/Thailand-4.jpg"/>
+	<img src="{{"/assets/images/2013/06/Thailand-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Here's the Thailand, moving up the canal. That it's empty is apparent from how h
 
 Laurie spotted these poppies growing in what is essentially a heap of junk. 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/poppies.jpg"/>
+	<img src="{{"/assets/images/2013/06/poppies.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

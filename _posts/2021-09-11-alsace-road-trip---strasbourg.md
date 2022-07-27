@@ -25,42 +25,42 @@ The Strasbourg cathedral has several distinctive aspects. Like many churches in 
 The most unusual aspect of the Strasbourg cathedral is its west façade - the main entry to the cathedral and the most visible part. It has Gothic unlike any other we've seen.
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00646-1.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00646-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Strasbourg Cathedral from the&nbsp;place in front of it. Where most Cathedrals have a façade decorated with statues and a rose window, this cathedral has statues, a rose window and many vertical columns holding arches. This gives the façade a vertical aspect unlike any other cathedral we've seen.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00584.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00584.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A straight-on view of the façade, showing the vertical columns and arches that cover the west front.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00666-1.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00666-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is pure Gothic architecture right up to the central arch over the alter. Beyond that, it's Romanesque, a reminder that the Cathedral was being built in Romanesque when Gothic started to appear in France (in the 1100s and 1200s). As Gothic gained in importance, many older churches were converted from Romanesque and often, as in the case of the Strasbourg Cathedral, the new Gothic sections were built on and alongside older Romanesque parts.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00618.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00618.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The bishop who preached here when the pulpit was carved had a dog of which he was particularly fond. He wanted to have the dog near him when he preached, and the person who carved the pulpit obliged him.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00661.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00661.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>What's a Cathedral without a beautiful organ? This one is particularly stunning. Built in the 1500s, so a "recent" addition to the Cathedral.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00613.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00613.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This rose window has a funny story. It was originally designed to be much higher on the west front wall, but the person designing the building put the arch above it lower, which would have hidden the top third of the window. It was easier to lower the rose window than raise the arch so now it sits lower than rose windows in other cathedrals.</em></figcaption>
 </figure>
 
@@ -69,110 +69,110 @@ The most unusual aspect of the Strasbourg cathedral is its west façade - the ma
 We did a LOT of walking in Strasbourg. It's a fairly compact city, with interesting things to see just about everywhere.&nbsp;
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00590.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00590.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is the oldest "house" in Strasbourg, built in 1537! It's on the place in front of the Cathedral. The two bottom floors house a restaurant, at which we had a terrific dinner.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00608.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00608.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Another building on the Cathedral place.</em></figcaption>
 </figure>
 
 
 <h3 style="font-family: verdana;">Some Older Buildings</h3>
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00607.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00607.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This house shows a common Strasbourg roof. Foodstuffs were kept in the attic and to keep them fresher, these windows were built to allow air to circulate.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00680.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00680.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00671.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00671.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00645.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00645.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00639.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00639.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00626.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00626.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00624.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00624.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00602.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00602.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00601.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00601.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <h3 style="font-family: verdana;">Some Newer Buildings</h3>
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00691.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00691.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This building has an oriel window - the squared off bay window that starts at the second floor. Not uncommon here, we have also seen them in Barcelona and Zamora, Spain. Evidently a German influence, how the heck did they get to Spain?</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00688.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00688.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00683.jpg"/>
-	<figcaption></figcaption>
-</figure>
-
-
-
-<figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00672.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00683.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00656.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00672.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
+
+
+<figure class = "landscape">
+	<img src="{{"/assets/images/2021/09/DSC00656.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00591.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00591.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This example of German Renaissance architecture illustrates one of many influences on Strasbourg as it went back and forth between Germany (and its predecessor states) and France.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00686.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00686.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is a school! Really. It started life as a residence, and was donated to the city when its owner died. Nice school, eh?</em></figcaption>
 </figure>
 
@@ -181,77 +181,77 @@ We did a LOT of walking in Strasbourg. It's a fairly compact city, with interest
 Strasbourg's central area is surrounded by the river Ill. It's not a huge river, but the city has taken advantage of it fully, with miles of beautiful river banks and walks. We even took a boat that went all around the city, through a couple locks and up the Ill a few miles to see the European Parliament buildings.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00652.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00652.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>On our boat tour we went up in one lock and down in another. Here we are in the first of the two as the lock gates open to let us proceed.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00654.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00654.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Under a swinging drawbridge.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00643.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00643.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00641.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00641.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00638.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00638.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00674.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00674.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00684.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00684.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <h2>Some walking Around Sights</h2>
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00580.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00580.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Carousels are popular in France; most cities have at least one and they're all as fancy and whimsical as this one.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00670-1.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00670-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>On our way to get on our boat tour, we passed through this place. Laurie said this would be a good place to sit and have a beer. So when we returned from the tour, we did just that. She was right.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00579.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00579.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>People lined up for dinner at the Waffle Factory. Really? In France, where the average restaurant is pretty darn good? Oy.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00676.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00676.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>"The Bridge of Cats", a nice-looking restaurant that was unfortunately closed for vacation.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2021/09/DSC00695.jpg"/>
+	<img src="{{"/assets/images/2021/09/DSC00695.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>So we chose the restaurant on the left for dinner. Looked nice, on a lovely little place, nice staff, good menu. Our dinner there? Not so good. Maybe we should have gone to the Waffle Factory.</em></figcaption>
 </figure>
 

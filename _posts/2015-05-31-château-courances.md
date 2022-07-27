@@ -10,7 +10,7 @@ layout: post
 France has a lot of châteaux - a <strong>LOT</strong> of châteaux. Although the best known are in the Loire Valley, there are beautiful châteaux everywhere around us; yesterday we visited Courances, a Renaissance château best known for its beautiful water garden park.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05077.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05077.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>View as you approach the front of Courances château.</em></figcaption>
 </figure>
 
@@ -25,49 +25,49 @@ Throughout its history, owners have spent a huge amount of time and money on the
 The water garden of Courances sets it above many other château in France; the house itself is beautiful but not extraordinary. The gardens, with many ponds and lakes and canals created by the many owners over a period of five centuries, are extraordinary, as you can see:
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05029.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05029.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A formal garden, and the main reflecting lake of the park.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05056.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05056.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The château and one of the canals.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05071.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05071.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Courances from about a quarter of the distance to the property border.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05067.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05067.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of the water features.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05055.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05055.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This statue has been watching the château for a long time.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05043.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05043.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Courances has a beautiful Japanese garden. My Dad taught me a little about pruning and I think this Japanese Maple is the most beautifully pruned tree I've ever seen.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/05/20150530_DSC05065.jpg"/>
+	<img src="{{"/assets/images/2015/05/20150530_DSC05065.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A walk through Courances' property.</em></figcaption>
 </figure>
 

@@ -34,14 +34,14 @@ So in this beautiful room, where we always leave the shades and windows up and o
 I call the front desk, start to explain the situation and get the response, "I don't speak English." So I go down there, with Google Translate in hand. He comes up to the room, fiddles around and saying, "*Ne marche pas*," leaves. Yes, that's right, it wasn't marching at all. *C'est en panne*: broken. So we prop the shades up as much as we could with a chair, open the door to the room to get some ventilation (the hotel might be a 3-star, but air-conditioning? *Pas de climatesée*). A night of miserable sleep followed.
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05708.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05708.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Our sophisticated "fix" to allow some air into our room.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/07/DSC05710.jpg"/>
+	<img src="{{"/assets/images/2018/07/DSC05710.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie "stepping" out onto the balcony to enjoy the view.</em></figcaption>
 </figure>
 

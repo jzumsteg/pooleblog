@@ -20,12 +20,12 @@ Whoops. Closed: sign in the window says, "Closed this Wednesday morning *unique
 It's open! Yahooo! And parking right across the street! Whoo-hoo! And...they have no cakes. Really. They do, fortunately, have a selection of beautiful tartes, of which we buy six and call it a day.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2016/07/tarte_box.jpg"/>
+	<img src="{{"/assets/images/2016/07/tarte_box.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure>
-	<img src="{{site.url}}/assets/images/2016/07/Untitled-2.png"/>
+	<img src="{{"/assets/images/2016/07/Untitled-2.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

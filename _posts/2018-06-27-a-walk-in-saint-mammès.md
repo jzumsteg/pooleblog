@@ -18,7 +18,7 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00562.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00562.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A house on the Quai du Loing</em></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00558.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00558.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Houses along Quai du Loing</em></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Some péniches, old and new, in Saint-Mammès:
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00555.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00555.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A péniche at the Quai du Seine in Saint-Mammès.</em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Some péniches, old and new, in Saint-Mammès:
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00569.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00569.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>We have seen these (huge) modern barges in Saint-Mammès before, flying hundreds of colorful pennants. We don't know the occasion, but they are beautiful.</em></figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Some péniches, old and new, in Saint-Mammès:
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00566.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00566.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This new pedestrian bridge connects Saint-Mammès with the other bank of the Loing RIver.</em></figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Some péniches, old and new, in Saint-Mammès:
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/DSC00560.jpg"/>
+	<img src="{{"/assets/images/2018/06/DSC00560.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Looking down the Loing River from the new bridge.</em></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ And the surprise: as we walked Saint-Mammès, we noticed a small restaurant that
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/06/IMG_1904.jpg"/>
+	<img src="{{"/assets/images/2018/06/IMG_1904.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The pleasant surprise...</em></figcaption>
 </figure>
 

@@ -13,69 +13,69 @@ Brocante seems to be a big deal here. Every town holds a Brocante day and the pe
 
 Anyway, here are some pictures from Montigny's day (and night) in the Brocante spotlight.
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02944.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02944.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Brocant  Nocturne was in the Montigny railroad station parking lot.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02942.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02942.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Good stuff...</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02948.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02948.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Lots of good stuff.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02950.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>More good stuff.</em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02946.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02946.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Tempting...but, no.</em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02953.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02953.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>(Almost) irresistable good stuff</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02954.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02954.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Really, really good stuff.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02960.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02960.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>More really good stuff</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02962.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02962.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Even more good stuff</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02955.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02955.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Fishing gear - take note, Marv.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02956.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02956.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Food court -  poulet frites, steak frites, andouillette frites (andouillette is chitlin sausage)</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02959.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02959.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Crepes - these looked good!</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/06/DSC02947.jpg"/>
+	<img src="{{"/assets/images/2013/06/DSC02947.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>I loved this truck - a Citroën cattle hauler - but it wasn't for sale and I don't think Laurie would have let me buy it anyway.</em></figcaption>
 </figure>
 

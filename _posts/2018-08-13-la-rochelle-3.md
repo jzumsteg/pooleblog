@@ -30,131 +30,131 @@ layout: post
 <!-- wp:paragraph -->
 <p>Our hotel in La Rochelle is about a mile west of the city center, which means we get some exercise walking into town. Over the stays here, we have done this walk many times and we still enjoy every step. Here's the walk as we see it going into town.</p>
 <p><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07337.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07337.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07339.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07339.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Getting closer...</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07335.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07335.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>That pointy building is called the Lantern. Built in the 1600s, today no one knows its original purpose.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07341.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07341.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Looking back (westward) from the same location.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07342.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07342.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Closer...</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07343.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07343.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This is next to the only sandy beach on this side of La Rochelle. It's also next to a Michelin 2-star restaurant, but with the set menu at \\$180 per person (wine not included), we haven't visited there yet.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07345.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07345.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Across a dam and canal ordered to be built by Eleanor of Acquitaine (an amazing woman: queen of France, then queen of England).</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07346.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07346.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Closer...</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07348.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07348.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>La Rochelle is full of sailing schools. We would see hundreds of boats from the schools going out into the bay.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07349.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07349.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The towers that flank the entrance to the main harbor, and have done so since the 1400s.</em></figcaption>
 </figure>
 
 
 <p><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07350.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07350.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07351.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07351.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Finally, the entrance into the harbor area.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07353.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07353.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Made it! Along the right are the many boats that sail to islands in the area, or sail out on tourist excursions.</em></figcaption>
 </figure>
 
 
 <h2>Buildings of La Rochelle</h2>
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07355.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07355.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Nice clock tower, eh?</em></figcaption>
 </figure>
 
 
 <p><figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07386.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07386.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07363.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07363.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>La Rochelle has many streets like this one. It's not that La Rochelle has been restored; it has been maintained over hundreds of years, so it looks as it did in the 1600s (except for neon signs and cars).</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07372.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07372.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Many of the stores on the several main streets in La Rochelle still have old signs over them.</em></figcaption>
 </figure>
 
 
 <p><figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07382.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07382.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07373.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07373.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07380.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07380.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 </p>
 <p><figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07365.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07365.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2018/08/DSC07398.jpg"/>
+	<img src="{{"/assets/images/2018/08/DSC07398.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

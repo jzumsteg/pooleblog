@@ -10,7 +10,7 @@ layout: post
 I will forgive you if you haven't heard of the French town of Nantillois; after all, its current population is 64. Fortunately for us, two of those 64 are Maarten and Didi, a Dutch couple who moved to Nantillois eight years ago and opened a wonderful Bed &amp; Breakfast. They are a great team: Didi runs the B &amp; B, and cooks lovely dinners for guests; Maarten has a small World War I museum, a huge amount of knowledge about that war, and gives guided battle-site tours of the area. Both of them provide a warm welcome and a memorable stay. Hmmmm, sounds like a TripAdvisor review.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/14-18Nantillois.jpg"/>
+	<img src="{{"/assets/images/2015/08/14-18Nantillois.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ World War I differed profoundly from earlier wars; where war had always been a m
 Okay, enough background. We wanted to see and feel this history, and indeed we did. The first glimpse was in the Argonne Forest, where the trench lines had been the scene of four years of skirmishes. The first sight of a trench - many remain - was almost startling, like seeing a ghost of the past.
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-5-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-5-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -40,37 +40,37 @@ It has, of course, worn down over the years, but it's still there and still eeri
 It's something of a misnomer to have called this the Battle of the Argonne Forest because there wasn't much forest left from early in the war; artillery destroyed it. Today the trees are all under one hundred years old and the usually-level ground of the forest still shows the effects of the bombing:
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-8-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-8-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Young trees and ground mounded and cratered by artillery shelling for almost four years.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-7-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-7-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-6-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-6-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 This picture was taken in 1917 in the same forest as the pictures above. Not much forest left.<figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/argonne_forest.jpg"/>
+	<img src="{{"/assets/images/2015/08/argonne_forest.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 In late September 1918 the Allies - mostly France, Britain and the United States - started the offensive that would end the war. Nantillois was in German hands and had been for several years so the whole area was well defended. Maarten took us on a three-hour walking tour of the area, describing the battles as the American troops, responsible for pushing the Germans out of the region, progressed across the country-side. The picture below is at the edge of a forest; American soldiers came from the forest at the right (Montfaucon, which required two days to take and was so completely destroyed that the town was rebuilt half a mile away), across the hills and then to the forest on the right of the bottom picture, which looks in the opposite direction. The battle plan was to take all this in a day, but the defenses were much stiffer than expected, and a week was needed to clear this area.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/nantillois.jpg"/>
+	<img src="{{"/assets/images/2015/08/nantillois.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-12-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-12-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Here Maarten was invaluable, as he described the movement and difficulties and b
 Maarten then took us through the forest. German troops had a large camp there, and were well dug-in.
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-13-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-13-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A German emplacement restored by Maarten.</em></figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Maarten then took us through the forest. German troops had a large camp there, a
 
 American troops in the forest got a break when they had to wait for units alongside them to catch up. They dug foxholes and rested - as much as one can rest in a rain-filled hole. This area has hundreds of these foxholes still visible.
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-1-of-11.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-1-of-11.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -101,21 +101,21 @@ We saw much more and visited several other very interesting sites, but enough is
 It was moving to visit these sites, to be able to "see" the things that happened at each of them, to feel the human element. These weren't just battles on a chess board; there were real people, just like us, doing their best in absolutely appalling conditions: they were hungry, cold, wet, bone-tired and, more than anything, they were scared all the time. We talk of sending men to war, but we don't; we send boys. Most of the soldiers in these armies - on both sides - were eighteen or nineteen years old; tested veterans were twenty-one or twenty-two or twenty-three. These were kids, just trying to do their best and just trying to survive. Way, way too many did not:
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-2-of-25.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-2-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A cemetery for French soldiers. Here are buried 5,700 French soldiers; four-tenths of one percent of French losses in World War I.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-26-of-1.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-26-of-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The American cemetery at Romagne-sous-Montfaucon. 14,267 American soldiers lie here. The rows seem sadly endless.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/08/WWI-26-of-1-2.jpg"/>
+	<img src="{{"/assets/images/2015/08/WWI-26-of-1-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -5,10 +5,10 @@ import os
 def main():
 	print("Starting...")
 
-	baseUrl = "/Volumes/User Drive/Development/Jekyll/pooleblog/_posts/"
+	baseUrl = "/Volumes/User Drive/Development/Jekyll/pooleblog-2/_posts/"
 	editedURL = "/Volumes/User Drive/Development/Jekyll/posts-edited/"
 	mdFiles = os.listdir(baseUrl)
-	mdFiles = ['2021-10-19-chateau-fontainebleu---inside.md']
+	# mdFiles = ['2022-06-13-back-in-st.-louis']
 	for mdFile in mdFiles:
 		if mdFile[-2:] == 'md':
 			print(f'Processing {mdFile}')
@@ -18,21 +18,23 @@ def main():
 
 			imageStrings = re.findall('(?<=<img src=).*?>', mdStr, re.DOTALL)
 			for imgstr in imageStrings:
-				# parse the url out
-				urlGrp = re.search('/assets/images.*?(?=/>)', imgstr, re.DOTALL)
-				if urlGrp != None:
-					assetStr = urlGrp.group()
+				# make sure this file has not been processed already
+				if ' prepend: site.baseurl | prepend: site.url' not in imgstr:
+					# parse the url out
+					urlGrp = re.search('/assets/images.*?(?=/>)', imgstr, re.DOTALL)
+					if urlGrp != None:
+						assetStr = urlGrp.group()
 
-					brackets = "{{"
-					endBrackets = "}}"
-					newStr = f'"{brackets}\"{assetStr} | prepend: site.baseurl | prepend: site.url {endBrackets}" alt="Image" />'
-					print(newStr)
-					
-					mdStr = mdStr.replace(imgstr, newStr)
+						brackets = "{{"
+						endBrackets = "}}"
+						newStr = f'"{brackets}\"{assetStr} | prepend: site.baseurl | prepend: site.url {endBrackets}" alt="Image" />'
+						print(newStr)
+						
+						mdStr = mdStr.replace(imgstr, newStr)
 
-		f = open(f'{editedURL}{mdFile}', 'w')
-		f.write(mdStr)
-		f.close()
+				f = open(f'{baseUrl}{mdFile}', 'w')
+				f.write(mdStr)
+				f.close()
 
 if __name__ == "__main__":
 	main()

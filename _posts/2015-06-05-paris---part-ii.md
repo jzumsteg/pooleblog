@@ -18,30 +18,30 @@ La Villette is an old working section of Paris, in the north part of the city. B
 <h3 class="alignnone">Habitation de Bon Marché (HBM)</h3>
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/06/20150603_DSC05172.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150603_DSC05172.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Ugh</em></figcaption>
 </figure>
 
 <p class="alignnone">Years ago - heck, centuries ago - France decided that all people should have good housing. As a result, the county has built lots of low-income housing and workers' housing. We encountered this block of workers' housing on our walk. Built in the early 1920s, it still is some sort of low-income or subsidized housing. It is very nice and beautifully kept up.
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/06/20150603_DSC05172.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150603_DSC05172.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/06/20150603_DSC05175.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150603_DSC05175.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2015/06/20150603_DSC05189.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150603_DSC05189.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>But not all Paris buildings are so beautiful. This is a brand-new government building. I shudder to think what might have been torn down to make room for this monstrosity.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/06/20150603_DSC05169.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150603_DSC05169.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Ugh</em></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Frank Gehry is arguably the most innovative architect today, and inarguably the 
 Any day there will be piq-niques along the Seine, but on a hot day - it was over 80 today - things really liven up. Imagine what this will be like Friday night, when the temps exceeded 90F.
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2015/06/20150604_DSC05255.jpg"/>
+	<img src="{{"/assets/images/2015/06/20150604_DSC05255.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -16,14 +16,14 @@ Then it was off for a first look at the most unusual and most historical canal l
 Here's what the Sept Écluses look like today:
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/08/MG_0066.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_0066.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>From the bottom...</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/08/MG_0068.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_0068.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>From the top. You can see the canal in use today.</em></figcaption>
 </figure>
 
@@ -33,14 +33,14 @@ When the Sept Écluses were replaced by a wider canal, there were 3,000 to 4,000
 Next day (okay, I'm jumping ahead here), we returned and walked along the canal - unused since 1889).
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/08/MG_0079.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_0079.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie, Mary and Gilles on the walk along the 17th century canal.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/08/MG_0076.jpg"/>
+	<img src="{{"/assets/images/2013/08/MG_0076.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The canal at the top of the locks. It's had 130 years to get overgrown with trees.</em></figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ That really was it for the first day. So we went to our place for the next two n
 Our experience with B &amp; Bs has not been all that great, and this one kind of fit in with that experience. It seems that French B &amp; Bs often want to give guests a room with Old French Charm (OFC). Unfortunately, OFC requires money, because OFC requires antiques, and money for decorating is one thing B &amp; B owners seem to lack. So the rooms get decorated with Old French Junk (OFJ). This B &amp; B - on a beautiful estate, with a beautiful garden and beautiful main house - was furnished in a style best described as ... um...er...well, I don't know what; OFJ, I guess. Pictures:
 
 <figure class = "portrait">
-	<img src="{{site.url}}/assets/images/2013/08/DSC03877.jpg"/>
+	<img src="{{"/assets/images/2013/08/DSC03877.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The "chandelier"</em></figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Our experience with B &amp; Bs has not been all that great, and this one kind of
 
 &nbsp;
 <figure class = "landscape">
-	<img src="{{site.url}}/assets/images/2013/08/DSC03879.jpg"/>
+	<img src="{{"/assets/images/2013/08/DSC03879.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Note the can of bug spray on the night-stand: always the sign of a high-class establishment. None of the furniture matched, none was of high- or even medium-quality, and most of it appeared to come from a garage sale. We even had a decanter and glass set that had a sign on it "For decoration only."</em></figcaption>
 </figure>
 
