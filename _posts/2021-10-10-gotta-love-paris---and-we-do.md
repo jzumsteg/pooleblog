@@ -2,7 +2,7 @@
 title: Gotta Love Paris - and We Do
 author: John Zumsteg
 date: Sun, 10 Oct 2021 15:46:44 +0000
-category: Paris
+category: [Paris, France]
 math: true
 mermaid: true
 layout: post

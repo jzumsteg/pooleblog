@@ -8,3 +8,4 @@ mermaid: true
 layout: post
 ---
 **Gallery Test**   
+{% include image-gallery.html folder="/uploads/album" %} 
