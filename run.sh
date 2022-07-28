@@ -1,1 +1,1 @@
-bundle exec jekyll serve --livereload --incremental --host 0.0.0.0 --config "_config.yml,_config_dev.yml"
+bundle exec jekyll serve --livereload --host 0.0.0.0 --config "_config.yml,_config_dev.yml"

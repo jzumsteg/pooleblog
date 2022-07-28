@@ -5,7 +5,7 @@
 	.image-gallery a img {width: 100%; display: block;}
   </style>
   
-  <div class="image-gallery">
+  <div >
   {% for file in site.static_files %}
 	{% if file.path contains include.folder %}
 	  {% if file.extname == '.jpg' or 

@@ -7,7 +7,8 @@ math: true
 mermaid: true
 layout: post
 ---
-I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this blog is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!
+I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this blog is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!  
+
 <h2>Some St. Louis Background</h2>
 We actually have an old connection with St. Louis. In 1853 my great-grandfather, Widillin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few - &nbsp;Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
 
@@ -38,7 +39,7 @@ We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's 
 </figure>
 
 
-&nbsp;We got in lots of walks, as the weather was excellent. Christmas Eve day was sunny and 74°! We walked through an outdoor sculpture park with some interesting installations:
+We got in lots of walks, as the weather was excellent. Christmas Eve day was sunny and 74°! We walked through an outdoor sculpture park with some interesting installations:
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/image-14.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -160,13 +161,13 @@ Then, we had to fly back to Seattle.&nbsp;
 <h2>Return Flight</h2>
 Now things got, um, "interesting." First, Laurie caught Henry's flu. Tuesday night (we left Wednesday), she started to hack and cough, had some head congestion and a bit of a sore throat. Departure day she felt worse and continued to go downhill as the day progressed.
 
-On the other side of the country - Seattle, that is - a huge snow storm had snarled air travel big-time. The day before, the St. Louis - Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Right.
+On the other side of the country - Seattle, that is - a huge snow storm had snarled air travel big-time for the last four or five days. The day before, the St. Louis - Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Right.
 
-Unfortunately, that "late Wednesday night" snowstorm had arrived three hours *before* our arrival, and SeaTac was a mess. We waited on the plane for an hour before it got to a gate, then waited 50 minutes to get our bags - in a baggage claim area with thousands of people. During this time I was checking, with growing dismay, the Uber and Lyft apps. A ride from the airport to home usually is about \\$32-\\$34, plus tip. Lyft was now showing that ride would cost \\$155, but not to worry about the cost, because they had zero drivers available. Uber was saying \\$85, and they had "few drivers" so couldn't guarantee that we could get a ride. Gulp.
+Unfortunately, that "late Wednesday night" snowstorm had arrived three hours *before* our arrival, and SeaTac was a mess. We waited on the plane for an hour before it got to a gate, then waited 50 minutes to get our bags - in a baggage claim area with *thousands* of people. During this time I was checking, with growing dismay, the Uber and Lyft apps. A ride from the airport to home usually is about \\$32-\\$34, plus tip. Lyft was now showing that ride would cost \\$155, but not to worry about the cost, because they had zero drivers available. Uber was saying \\$85, and they had "few drivers" so couldn't guarantee that we could get a ride. Gulp.
 
 Our bags arrived after about 50 minutes. Off to the ground transportation area we went.&nbsp;I thought maybe we could just catch a regular taxi home. Right again. The line - outdoors in 24° temps - was about 200 yards long, with a taxi arriving maybe every five minutes. I figured the taxi wait was at least two hours. We walked out to the Lyft/Uber area; I checked Uber and amazingly, it showed a driver available in seven minutes at that \\$85 cost. Honestly, I didn't believe it, but I took the ride and, sure enough, the driver showed up about five minutes later.&nbsp;
 
-Now, I don't know where the driver was from, but I'd guess the Middle East somewhere - Iraq or Iran or Egypt or thereabouts. He asked us if we wanted to wait for a four-wheel drive vehicle, but the Uber app said, "None available," so he took us, saying, "I'm a really good driver in snow." Sure, you learned that in a country that has zero snow ever. In the event, he was right. He was an excellent driver in the snow, which was good, because we went up several hills with a lot of snow on them.
+Now, I don't know where the driver was from, but I'd guess the Middle East somewhere - Iraq or Iran or Egypt or thereabouts. He asked us if we wanted to wait for a four-wheel drive vehicle, but the Uber app said, "None available," so he took us, saying, "I'm a really good driver in snow." Sure, you learned that in a country that has zero snow ever. In the event, he was right. He was an excellent driver in the snow, which was good because we went up several hills with a lot of snow on them.
 
 We made it to the entrance of the development where we live. The driver said he would help us carry our bags to the house, but no way was he going to try driving there. He was right; he would likely not have been able to get out. We declined his offer and dragged our suitcases about a quarter of a mile through six inches of snow. Remember: Laurie is sick and getting sicker by the minute. We opened the garage door at about 12:45 a.m., almost three hours after we'd landed.&nbsp;
 
