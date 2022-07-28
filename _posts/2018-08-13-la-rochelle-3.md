@@ -8,15 +8,17 @@ mermaid: true
 layout: post
 ---
 
-<p>This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: ). La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: . For this post, I'm mostly just going to present some pictures.</p>
+This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: [Adventures]({% post_url 2018-07-31-just-another-adventure %})).  
 
-{% post_url 2018-08-17-dinan %}
+La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: . For this post, I'm mostly just going to present some pictures.
+
+[La Rochelle 2016]({% post_url 2016-07-20-la-rochelle-2 %})
 
 <figure class = "landscape"><img  src="{{"/assets/images/2018/08/DSC05717.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image"  />
 <figcaption>Laurie looking for seashells on a beach outside La Rochelle. She found many.</figcaption>
 </figure>
 
-<figure class = "landscape" >
+<figure class = "landscape" > 
 	<img src="{{"/assets/images/2018/08/DSC07330.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption>We even get beautiful sunsets! This is from the balcony of our room.</figcaption>
 </figure>

@@ -68,6 +68,20 @@ figure.portrait {
   width: 70%;
 }
 
+figure.portrait-two-column-table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+figure.landscape-two-column-table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 figcaption {
   font-size: 16px;
 }
