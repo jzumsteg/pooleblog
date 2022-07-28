@@ -44,7 +44,7 @@ Some pictures of the Côte Sauvage:
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2016/08/DSC07950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Laurie enjoying the scenery.</em></figcaption>
+	<figcaption><em>Look carefullybetween the two cars - there's a fellow in a beach chair, right on the busiest road around. Fifty feet away he could have sat on sand with a view of the ocean. Tourists!</em></figcaption>
 </figure>
 
 

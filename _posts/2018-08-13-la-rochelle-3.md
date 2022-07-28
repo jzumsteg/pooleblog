@@ -7,10 +7,10 @@ math: true
 mermaid: true
 layout: post
 ---
-<!-- wp:paragraph -->
-<p>This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: ). La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: <a href="http://zumsteg.us/?p=3602">2016 -1</a>, <a href="http://zumsteg.us/?p=3643">2016-2</a>, <a href="http://zumsteg.us/?p=2542">2015</a>, <a href="http://zumsteg.us/?p=769">2013</a>). For this post, I'm mostly just going to present some pictures.</p>
-<!-- /wp:paragraph -->
 
+<p>This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: ). La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: . For this post, I'm mostly just going to present some pictures.</p>
+
+{% post_url 2018-08-17-dinan %}
 
 <figure class = "landscape"><img  src="{{"/assets/images/2018/08/DSC05717.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image"  />
 <figcaption>Laurie looking for seashells on a beach outside La Rochelle. She found many.</figcaption>
@@ -22,7 +22,7 @@ layout: post
 </figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
+
 <p>Our hotel in La Rochelle is about a mile west of the city center, which means we get some exercise walking into town. Over the stays here, we have done this walk many times and we still enjoy every step. Here's the walk as we see it going into town.</p>
 <p><figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC07337.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

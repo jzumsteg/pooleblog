@@ -7,17 +7,17 @@ math: true
 mermaid: true
 layout: post
 ---
-<!-- wp:paragraph -->
+
 <p>We were in Zamora for three days and think it might be our favorite place in Spain. The old city of Zamora (*casco antiguo*), in which our hotel was located, is the most fascinating place. Within easy walking distance of our hotel were a dozen Romanesque churches, all built in the 11th - 14th centuries. There was a fortress, a beautiful river walk, lovely streets, lively plazas with many restaurants and tapas bars. Other than that, the place was totally boring.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
+
 <p>First, some general thoughts and pictures about Zamora.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
+
 <p>For centuries Spanish towns and cities have held onto the tradition of the paseo - the evening walk. Though it is disappearing in places, especially the cities, many places hold onto it, and Zamora falls into this category. Here's a picture, taken at about 8:30 in the evening, of the main street through the old part of the city.</p>
-<!-- /wp:paragraph -->
+
 
 <!-- wp:image {"id":5442} -->
 <figure class = "landscape" class="wp-block-image"><img class="wp-image-5442" src="http:/assets/images/2018/08/DSC04527.jpg" alt="" />
@@ -25,39 +25,39 @@ layout: post
 </figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
+
 <p>The Duero River runs through Zamora and, of course, has an old bridge across it. This one has an inexplicable name: "The Stone Bridge." Ok, maybe not inexplicable.</p>
-<!-- /wp:paragraph -->
+
 
 <!-- wp:image {"id":5459,"width":561,"height":421} -->
 <figure class = "landscape" class="wp-block-image is-resized"><img class="wp-image-5459" src="http:/assets/images/2018/08/DSC04562.jpg" alt="" width="561" height="421" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
+
 <p>The Casco Antiguo from across the Duero River.</p>
-<!-- /wp:paragraph -->
+
 
 <!-- wp:image {"id":5460,"width":580,"height":131} -->
 <figure class = "landscape" class="wp-block-image is-resized"><img class="wp-image-5460" src="http:/assets/images/2018/08/DSC04565.jpg" alt="" width="580" height="131" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph --><!-- /wp:paragraph -->
+
 
 <!-- wp:heading {"level":4} -->
 <h2>Romanesque Churches</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
+
 <p>Zamora has so many churches of the Romanesque architectural style that the city is called The Romanesque City. Before showing some pictures, a little background on Romanesque:</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
+
 <p>Romanesque architecture started to appear in the 700s throughout Europe. Architects of the time had not solved a key problem that later architects did solve, resulting in the soaring Gothic cathedrals: how to support the weight of high walls and roofs required in the larger churches they were building. Their solution was to build thick walls, and thick walls meant no ability to add stained glass windows or lift the building height. Also, the only arch available to them was a rounded one, which is not as strong as the pointed arch that later allowed Gothic buildings to rise to great heights. So Romanesque architecture is marked by thick walls, rounded arches and small windows.</p>
-<!-- /wp:paragraph -->
-<p>But if Gothic buildings, which started to appear in France in the 12th century, are soaring and graceful, Romanesque buildings have their own beauty. They are simple and solid and powerful. I think there's no place better than Zamora to get your fill of Romanesque.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<p>But if Gothic buildings, which started to appear in France in the 12th century, are soaring and graceful, Romanesque buildings have their own beauty. They are simple and solid and powerful. I think there's no place better than Zamora to get your fill of Romanesque.</p>
+
+
+
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC04707.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Thick walls, small windows, kind of fortress-like.</em></figcaption>
@@ -126,11 +126,11 @@ layout: post
 <h2>Modernist Buildings</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>In the late 1800s/early 1900s, an architectural style that came to be known as Modernism arose in the northeast part of Spain, centered in Barcelona. Modernism revolted against the established and accepted architecture of the time by basing its designs on nature: buildings became curvy, with plant and animal motifs everywhere. In Barcelona this style was best represented by Antoni Gaudi.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<p>In the late 1800s/early 1900s, an architectural style that came to be known as Modernism arose in the northeast part of Spain, centered in Barcelona. Modernism revolted against the established and accepted architecture of the time by basing its designs on nature: buildings became curvy, with plant and animal motifs everywhere. In Barcelona this style was best represented by Antoni Gaudi.</p>
+
+
+
 <p>For some reason, Zamora became the Spanish center of Modernism, but definitely a Modernism that incorporated features from other styles. One of the main features seen here and in Barcelona is the oriel window, a bay window that does not extend to the ground floor (there's a picture below of an oriel window). There are many buildings here with oriel windows, and many with the organic designs of Modernism. Throw in some influences of Art Deco, with its straight lines and geometric designs, and you have a most interesting architecture here in Zamora. Almost every street has a surprise, and we stopped in amazement to look at many buildings.</p>
 <table>
 <tbody>
@@ -184,8 +184,8 @@ layout: post
 </tr>
 </tbody>
 </table>
-<!-- /wp:paragraph -->
+
 
 <!-- wp:heading {"level":4} -->
 <p>That wraps up Part 2 of our Zamora adventure. More to follow; soon, as I'm writing these from Trujillo and that's a whole 'nother story.</p>
-<!-- /wp:paragraph -->
+

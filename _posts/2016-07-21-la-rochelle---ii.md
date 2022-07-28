@@ -51,7 +51,9 @@ We met a few people, but it was pretty quiet, and beautiful, along the route. We
 
 
 
-On either side of this structure were more modern remnants of war: bunkers built by the Germans during World War II, also to watch the approaches to the city.<figure class = "landscape">
+On either side of this structure were more modern remnants of war: bunkers built by the Germans during World War II, also to watch the approaches to the city.
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/07/DSC04782.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
