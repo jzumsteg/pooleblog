@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-This is our fifth stay in La Rochelle. One thing we realized almost immediately on our first stay is that La Rochelle is devoted to seafood. It's on the Atlantic, and has a long history of being a home for a large fleet of fishing boats, and a center of shellfish farmers, first and foremost being mussels, in French: moules. I was not a great fan of mussels before I arrived in La Rochelle; now, I'll have them just about every chance I get.
+This is our fifth stay in La Rochelle. One thing we realized almost immediately on our first stay is that La Rochelle is devoted to seafood. It's on the Atlantic, and has a long history of being home for a large fleet of fishing boats, and a center of shellfish farmers, first and foremost being mussels, in French: moules. I was not a great fan of mussels before I arrived in La Rochelle; now, I'll have them just about every chance I get.
 
 And we have found a favorite place for moules. This is fine dining at its best. Situated right on the water is Le P'tit Bleu, and we love this place. We ate dinner twice here this trip, and probably would have a third time, but we know a lovely small restaurant that we always go to for dinner the last night we're here.
 
@@ -43,7 +43,9 @@ The menu is limited - things that can be done up on a grill: moules, grilled sar
 
 As for value, each order of moules, and that's a lot of moules, is 6.95€ - about \\$8. A similar-sized portion, though with frites, at restaurants right across the street, is 14.50€. And you can't sit right on the water there. We get a nice bottle of Muscadet and a couple large rolls that we use to soak up the broth from the moules; that's a tasty fill-us-up meal for about \\$40. Love it!
 
-Any wonder why we keep coming back to this crazy place? Honestly, we've been looking forward to moules at Le P'tit Bleu for two years!<figure class = "landscape">
+Any wonder why we keep coming back to this crazy place? Honestly, we've been looking forward to moules at Le P'tit Bleu for two years!
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC07324.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

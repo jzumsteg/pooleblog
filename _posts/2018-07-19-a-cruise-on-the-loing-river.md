@@ -44,7 +44,7 @@ A Freycinet lock. This is now unused, but you can see how narrow it is. Our boat
 
 
 
-When the Loing Canal was active, an important cargo was sand; but not just any sand. Sand from this area is said to be among the purest in the wold: 99.9% silica. It has been used by the Murano glassmakers (Venice) for hundreds of years, and now is in demand worldwide for telescope glass.
+When the Loing Canal was active, an important cargo was sand; but not just any sand. Sand from this area is said to be among the purest in the world: 99.9% silica. It has been used by the Murano glassmakers (Venice) for hundreds of years, and now is in demand worldwide for telescope glass.
 
 Some houses along the river as we approached Nemours. River life looks nice, doesn't it, except that in 2016 the water level along here rose about 15 ft from what you see, in the worst flood since 1910 and the third-worst in history. All these houses would have had water four or five feet deep on their main floors. Not so nice.
 <figure class = "landscape">

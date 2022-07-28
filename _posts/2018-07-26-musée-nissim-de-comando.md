@@ -30,7 +30,8 @@ Without further ado, some pictures of the rooms of this mansion.
 
 
 
-The dining room:<figure class = "landscape">
+The dining room:
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05688.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -79,7 +80,8 @@ One view of the Library. The windows look out on a beautiful garden and, beyond 
 	<figcaption></figcaption>
 </figure>
 
-A room in which guests were received:<figure class = "landscape">
+A room in which guests were received:
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05656.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -156,7 +158,8 @@ As if the rooms and the furniture weren't enough, here are some pictures of the 
 
 
 
-Someone had to feed those folks... <figure class = "landscape">
+Someone had to feed those folks... 
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05693-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -170,6 +173,6 @@ Someone had to feed those folks... <figure class = "landscape">
 
 
 
-Now, it would be nice to say that Moïse de Comando lived happily every-after in this house of his dreams, but no. In his early 40s, he married a much younger woman and had two children. She then left him for an Italian count. Moïse was completely devoted to his two children and when his son was killed in World War I, he pretty much withdrew from the world. His brother, who had run the family bank, died, and Moïse, having no desire or need to run the bank, closed it down. He continued his collecting and particiated in several organizations devoted to collecting and books. He died in 1935, which may have been for the best, because in 1941 his daughter, son-in-law and two grandchildren were deported to Auchwitz, where they died. Today, the de Comando family line no longer exists.
+Now, it would be nice to say that Moïse de Comando lived happily ever-after in this house of his dreams, but no. In his early 40s, he married a much younger woman and had two children. She then left him for an Italian count. Moïse was completely devoted to his two children and when his son was killed in World War I, he pretty much withdrew from the world. His brother, who had run the family bank, died, and Moïse, having no desire or need to run the bank, closed it down. He continued his collecting and particiated in several organizations devoted to collecting and books. He died in 1935, which may have been for the best, because in 1941 his daughter, son-in-law and two grandchildren were deported to Auchwitz, where they died. Today, the de Comando family line no longer exists.
 
 But this beautiful house stands as a monument to Moïse de Comando's passion (and his financial ability to indulge that passion). We think this is the best of the "small, specialized" museums in Paris, we will certainly visit it again, and we honor Moïse de Comando for what he collected and built.
