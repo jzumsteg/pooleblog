@@ -39,11 +39,11 @@ And we have found a favorite place for moules. This is fine dining at its best. 
 
 
 
-The menu is limited - things that can be done up on a grill: moules, grilled sardines, grilled calamari (we share an order of this, with our moules, and it is also fabulous), oysters, etc. No frites, though, as they have no place to fry them. In fact, they won't allow a customer to bring frites from one of the nearby frites stands to the dining area, as they want to keep the gulls away and frites will draw them like seagulls to french fries.
+The menu is limited - things that can be done up on a grill: *moules*, grilled sardines, grilled calamari (we share an order of this, with our *moules*, and it is also fabulous), oysters, etc. No *frites*, though, as they have no place to fry them. In fact, they won't allow a customer to bring *frites* from one of the nearby *frites* stands to the dining area, as they want to keep the gulls away and *frites* will draw them like seagulls to french fries.
 
-As for value, each order of moules, and that's a lot of moules, is 6.95€ - about \\$8. A similar-sized portion, though with frites, at restaurants right across the street, is 14.50€. And you can't sit right on the water there. We get a nice bottle of Muscadet and a couple large rolls that we use to soak up the broth from the moules; that's a tasty fill-us-up meal for about \\$40. Love it!
+As for value, each order of *moules*, and that's a lot of *moules*, is 6.95€ - about \\$8. A similar-sized portion, though with *frites*, at restaurants right across the street, is 14.50€. And you can't sit right on the water there. We get a nice bottle of Muscadet and a couple large rolls that we use to soak up the broth from the *moules*; that's a tasty fill-us-up meal for about \\$40. Love it!
 
-Any wonder why we keep coming back to this crazy place? Honestly, we've been looking forward to moules at Le P'tit Bleu for two years!
+Any wonder why we keep coming back to this crazy place? Honestly, we've been looking forward to *moules* at Le P'tit Bleu for two years!
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC07324.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

@@ -68,7 +68,7 @@ Not much to say here: we bought a few bottles of great wine...
 
 
 
-The 24 bottles doesn't include the bottle Madame gave us as thanks for appreciating and buying their wine. Ever see anyone in Napa leave the winery with complimentary bottles? Nope.
+The 48 bottles doesn't include the bottles of their best Sancerre that Madame gave us  - one for Mary & Gilles, one for Laurie and me - as thanks for appreciating and buying their wine. Ever see anyone in Napa leave the winery with complimentary bottles? Nope.
 <h2>Canal and Bridge</h2>
 Y'all know that Laurie and I love visiting the canals of France, and that we also like bridges. So what could be better than a canal bridge? This canal carries the Canal Latéral à la Loire across the Loire River; a canal on a bridge. Pretty cool, we think.
 

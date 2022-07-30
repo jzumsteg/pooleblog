@@ -78,69 +78,74 @@ Alfred Sisly painted some 500 pictures in Moret-sur-Loing and the surrounding ar
 
 Pretty cool, eh?
 
-Laurie and I have taken to visiting the graves of people we admire, so of course, we visited Sisley's grave. Nice to tell him in person that we love his paintings.
-<table>
+Laurie and I have taken to visiting the graves of people we admire, so of course, we visited Sisley's grave. Nice to tell him in person that we love his paintings.  
+
+<table sytle="width:90%">
 <tbody>
 <tr>
-<td>
+	<td class = "table-two-column" style="width:50%">
+		<figure>
+			<img src="{{"/assets/images/2018/07/DSC05605.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption><em>Alfred Sisley's grave. I know it looks odd, but after spending much of his life here and painting in the Forest of Fontainebleau, he asked that a stone from that forest be placed on his grave. Done.</em></figcaption>
+		</figure>
+	</td>
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05605.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Alfred Sisley's grave. I know it looks odd, but after spending much of his life here and painting in the Forest of Fontainebleau, he asked that a stone from that forest be placed on his grave. Done.</em></figcaption>
-</figure>
-
-</td>
-<td>
-
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05603.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Alfred Sisley's grave. The quote says," Objects must be enveloped in light as they are in nature." There's not a better definition of Impressionism.</em></figcaption>
-</figure>
-
-</td>
+	<td class = "table-two-column" style="width:50%">
+		<figure>
+			<img src="{{"/assets/images/2018/07/DSC05603.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption><em>Alfred Sisley's grave. The quote says," Objects must be enveloped in light as they are in nature." There's not a better definition of Impressionism.</em></figcaption>
+		</figure>
+	</td>
 </tr>
 </tbody>
 </table>
 It amazes us to think that Sisley's paintings sold for the equivalent of a few hundred dollars in his time. Now? Sell your house for a small one.
 <h2>L'Eglise Notre Dame</h2>
 Moret's church fascinates us. It is gothic, built in the late-twelfth century. Where many churches of that time are gone, or have been added to and changed, or over-restored, L'Eglise de Notre Dame just is. Not much changed, except for a few modifications to keep it standing, it shows what churches of that time looked like. We find it lovely.
-<table>
+<table style="width:100%">
 <tbody>
 <tr>
-<td><figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05575.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
+	<td class = "table-two-column" style="width:50%">
+		<figure class = "portrait-two-column-table">
+			<img src="{{"/assets/images/2018/07/DSC05575.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption></figcaption>
+		</figure>
+	</td>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05557.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
-
-</td>
-<td><figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05555.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
-
- <figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05550.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
-
-</td>
+	<td class = "table-two-column" style="width:50%">  
+		<figure class = "portrait-two-column-table">
+			<img src="{{"/assets/images/2018/07/DSC05557.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption></figcaption>
+		</figure>
+	</td>
 </tr>
+
 <tr>
-<td colspan="2">
+	<td class = "table-two-column" style="width:50%">
+		<figure class = "portrait-two-column-table" >
+			<img src="{{"/assets/images/2018/07/DSC05555.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption></figcaption>
+		</figure>
+	</td>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05538.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>An unrestored Gothic church. We find this church to be one of our favorites because it is so original and not gussied up.</em></figcaption>
-</figure>
-
-</td>
-<td></td>
+	<td  class = "table-two-column" style="width:50%">
+		<figure class = "portrait-two-column-table">
+			<img src="{{"/assets/images/2018/07/DSC05550.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+			<figcaption></figcaption>
+		</figure>
+	</td>
 </tr>
+
+<tr>
+	<td colspan="2">
+	<figure class = "landscape">
+		<img src="{{"/assets/images/2018/07/DSC05538.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+		<figcaption><em>An unrestored Gothic church. We find this church to be one of our favorites because it is so original and not gussied up.</em></figcaption>
+	</figure>
+	</td>
+	<td></td>
+</tr>
+
 </tbody>
 </table>
 And for our organ-playing friend, Margaret:

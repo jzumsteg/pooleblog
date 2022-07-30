@@ -56,7 +56,9 @@ It's something of a misnomer to have called this the Battle of the Argonne Fore
 	<figcaption></figcaption>
 </figure>
 
-This picture was taken in 1917 in the same forest as the pictures above. Not much forest left.<figure class = "landscape">
+This picture was taken in 1917 in the same forest as the pictures above. Not much forest left.
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/08/argonne_forest.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -86,7 +88,7 @@ Maarten then took us through the forest. German troops had a large camp there, a
 
 
 
-American troops in the forest got a break when they had to wait for units alongside them to catch up. They dug foxholes and rested - as much as one can rest in a rain-filled hole. This area has hundreds of these foxholes still visible.
+American troops in the forest got a break when they had to wait for units alongside them to catch up. They dug foxholes and rested - as much as one can rest in a rain-filled hole. This area has hundreds of these foxholes still visible.  
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/08/WWI-1-of-11.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>

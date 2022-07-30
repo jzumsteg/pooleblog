@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-We came into Paris yesterday for a couple reasons: 1.) an exhibit titled "Impressionists in London" at Petit Palais; 2.)  a planned return visit to Musée Nissim de Comando; and 3.) why wouldn't we go to Paris if we have the chance? Today we went to the exhibit, and though I took no pictures, here's a brief report:
+We came into Paris yesterday for three reasons: 1.) an exhibit titled "Impressionists in London" at Petit Palais; 2.)  a planned return visit to Musée Nissim de Comando; and 3.) why wouldn't we go to Paris if we have the chance? Today we went to the exhibit, and though I took no pictures, here's a brief report:
 
 It was great. Glad we went.
 

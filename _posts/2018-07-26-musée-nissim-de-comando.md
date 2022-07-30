@@ -88,7 +88,8 @@ A room in which guests were received:
 
 
 
-The main Living Room:<figure class = "landscape">
+The main Living Room:
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05658.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

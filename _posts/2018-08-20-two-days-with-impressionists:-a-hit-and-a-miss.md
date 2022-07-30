@@ -1,7 +1,7 @@
 ---
 title: Two Days with Impressionists - a Hit and A Miss
 author: John Zumsteg
-date: Tue, 11 Sep 2018 20:27:54 +0000
+date: Tue, 21 Aug 2018 20:27:54 +0000
 category: [Activities, Rambles]
 math: true
 mermaid: true

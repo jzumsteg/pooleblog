@@ -58,7 +58,7 @@ La Rochelle is quite a historic city, with many buildings from the 1600s and 170
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC07343.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>This is next to the only sandy beach on this side of La Rochelle. It's also next to a Michelin 2-star restaurant, but with the set menu at \\$180 per person (wine not included), we haven't visited there yet.</em></figcaption>
+	<figcaption><em>This is next to the only sandy beach on this side of La Rochelle. It's also next to a Michelin 2-star restaurant, but with the set menu at \$240 per person (wine not included), we haven't visited there yet.</em></figcaption>
 </figure>
 
 

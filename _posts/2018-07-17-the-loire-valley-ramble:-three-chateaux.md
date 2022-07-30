@@ -77,66 +77,39 @@ And yet, we loved it. Many chateaux have been restored to better condition than 
 Chateau Amboise suffers from none of the disadvantages of Villesavin. It was built by kings - mostly François I in the 16th century; his successor kings and families lived here for centuries; it is smack on the Loire River so every tourist sees it; and it has seen many historic events. In fact, in the 15th and 16th centuries, this was the home of the French court. So France, seeing this as a national treasure, has maintained it and restored it. And like Villesavin, we loved it.
 
 Chateau Amboise was originally a fortress, from which the king's army could control movement on the Loire River, but by the time François I and then Charles VIII added to it, they were in firm control of France and so the need for fortifications went away. As a result, these kings concentrated on creating Amboise as a symbol of their power, rather than a means to maintain that power.
-<table>
-<tbody>
-<tr>
-<td colspan="2">
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05385.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Chateau Amboise from across the Loire River.</em></figcaption>
 </figure>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05378.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Closer. As with many of these chateaux, I wonder how opposing armies would have liked looking up at what they had to conquer.</em></figcaption>
 </figure>
-
-</td>
-</tr>
-<tr>
-<td>
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05179.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A building of the Renaissance: beautiful, geometric and symetrical. Emphasis on beautiful.</em></figcaption>
 </figure>
 
-</td>
-</tr>
-<tr>
-<td colspan="2"><figure class = "landscape">
+<figure class = "landscape">
 	<img src="{{"/assets/images/2018/07/DSC05205.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2018/07/DSC05195.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Beautiful windows - everywhere.</em></figcaption>
 </figure>
 
-</td>
-<td colspan="2">
-
 <figure class = "portrait">
 	<img src="{{"/assets/images/2018/07/DSC05194.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>My kind of chair! The back was high to prevent the king from stabbings!</em></figcaption>
 </figure>
 
-</td>
-</tr>
-</tbody>
-</table>
 Amboise also has the distinct honor of being the burial place of Leonardo DaVinci. Yes, that Leonardo! François I brought Leonardo to Amboise in 1516, three years before his death. Françoise gave Leonardo a manor (Clos Lucé, about which a bit more below) and when Leonardo died in 1519, he asked that he be buried in a church in Amboise, which was done. But later the chapel in which he was buried was destroyed, and Leonardo's tomb disappeared. In 1863, bones and an inscription that seemed to indicate they were the remains of Leonardo were found and he was re-interred in the chapel of Chateau Amboise, with a note that the remains are "presumed" to be his.
 
 We were mightily impressed with Chateau Amboise: history, beauty, royalty, intrigue, gardens - Chateau Amboise has it all. This is a place we'll visit again.

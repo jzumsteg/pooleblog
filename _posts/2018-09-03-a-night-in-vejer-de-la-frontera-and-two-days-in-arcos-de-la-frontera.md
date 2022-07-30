@@ -46,7 +46,7 @@ When we arrived at the Arcos parador, the nicest woman in the whole entire world
 
 
 
-We came to Arcos on one of our first vacations trips to Spain, maybe 16-18 years ago and enjoyed it. It also is a pueblo blanco, set on a high ridge, so the houses pour down one side and a cliff, on which our hotel sat, forms the other side. It's a beautiful town. Going from a dump of a room to a beautiful room with a view didn't hurt, either.
+We came to Arcos on one of our first vacations trips to Spain, maybe 16-18 years ago and enjoyed it. It also is a *pueblo blanco*, set on a high ridge, so the houses pour down one side and a cliff, on which our hotel sat, forms the other side. It's a beautiful town. Going from a dump of a room to a beautiful room with a view didn't hurt, either.
 
 That first time we were here we stumbled onto a small bar/restaurant, Bar San Marcos. It was still there and still great. We had tapas for dinner there the first night and went back for lunch the next. That first night dinner was two tapas each, then two raciones (tapas but a much larger portion, and really, way more food than we needed) and a bottle of wine: \\$30. Next day's lunch was three courses: a chicken and guacamole salad for a starter, grilled calamari for Laurie and pork steak for me for the main plate, and tocino de cielo (a wonderful custard) for dessert. With two beers each: \\$24. Really, \\$24 - not each, total for both of us. This wasn't gourmet food, but it was good and tasty and well-cooked. \\$24.
 
@@ -133,7 +133,7 @@ Some sights from being out and about in Arcos:
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/09/DSC05028.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Parking space was at a premium. Note that the two cars farthest away cannot move forward because there's a foot-high wall in front of them. I have no idea what happens when one of those two need to leave. The most amazing thing is that we drove into this parking lot on our arrival and found a parking place right in front of the parador - legal, not blocking anyone, available for \\$7 per day paid at the parador.</em></figcaption>
+	<figcaption><em>Parking space was at a premium. Note that the two cars farthest away cannot move forward because there's a foot-high wall in front of them. I have no idea what happens when one of those two need to leave. The most amazing thing is that we drove into this parking lot on our arrival and found a parking place right in front of the parador - legal, not blocking anyone, available for \$7 per day paid at the parador.</em></figcaption>
 </figure>
 
 

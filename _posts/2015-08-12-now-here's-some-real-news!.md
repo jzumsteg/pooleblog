@@ -1,5 +1,5 @@
 ---
-title: Now Here's Some <i>Real</i> News!
+title: Now Here's Some *Real* News!
 author: John Zumsteg
 date: Wed, 12 Aug 2015 11:51:30 +0000
 category: News!
