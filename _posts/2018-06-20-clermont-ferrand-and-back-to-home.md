@@ -48,17 +48,17 @@ This cathedral has some beautiful stained glass windows.
 <table>
 <tbody>
 <tr>
-<td>
+<td style="width:50%">
 
-<figure class = "portrait">
+<figure class = "portrait-two-column-table">
 	<img src="{{"/assets/images/2018/06/DSC06909.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Stained glass in the Clermont-Ferrand cathedral.</em></figcaption>
 </figure>
 
 </td>
-<td>
+<td style="width:50%">
 
-<figure class = "portrait">
+<figure class = "portrait-two-column-table">
 	<img src="{{"/assets/images/2018/06/DSC06914.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Stained glass in the Clermont-Ferrand cathedral.</em></figcaption>
 </figure>
@@ -71,37 +71,34 @@ And a very old church...
 <table>
 <tbody>
 <tr>
-<td>
+	<td style="width:50%">
+	<figure class = "portrait-two-column-table">
+		<img src="{{"/assets/images/2018/06/DSC06929.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+		<figcaption>A small - and very old - church in Clermont-Ferrand.</figcaption>
+	</figure>
+	</td>
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/06/DSC06929.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A small - and very old - church in Clermont-Ferrand.</em></figcaption>
-</figure>
-
-</td>
-<td>
-
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/06/DSC06950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Carving in the old romanesque church in Clermont-Ferrand.</em></figcaption>
-</figure>
-
-</td>
+	<td style="width:50%">
+	<figure class = "portrait-two-column-table">
+		<img src="{{"/assets/images/2018/06/DSC06950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+		<figcaption><em>Carving in the old romanesque church in Clermont-Ferrand.</em></figcaption>
+	</figure>
+	</td>
 </tr>
 <tr>
-<td>
+<td style="width:50%">
 
-<figure class = "portrait">
+<figure class = "portrait-two-column-table">
 	<img src="{{"/assets/images/2018/06/DSC06937.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>...</em></figcaption>
+	<figcaption></figcaption>
 </figure>
 
 </td>
-<td>
+<td style="width:50%">
 
-<figure class = "portrait">
+<figure class = "portrait-two-column-table">
 	<img src="{{"/assets/images/2018/06/DSC06919.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>...</em></figcaption>
+	<figcaption></figcaption>
 </figure>
 
 </td>
@@ -109,20 +106,32 @@ And a very old church...
 </tbody>
 </table>
 A sidelight: here are two pictures from churches in Clermont-Ferrand and Puy-en-Velay. These are "Black Madonnas," small wooden Madonnas carved from dark wood and aged over centuries to almost pure black. They are actually found all over the world, but seem to be more prevalent on churches that were stops on the pilgrimage to Santiago de Compostela. There is some evidence that they all came from one workshop in Eastern Europe, but that evidence is sketchy. No one really knows where they came from nor why so many ended up on the pilgrimage. We've seen probably a dozen of them over the years and are, I admit, fascinating.
+
+<!-- The below works, but I can't put a caption on the image. Gotta figure that out -->
+<!-- {% assign imageNames = "DSC06879.jpg,DSC06936-e1529504594460.jpg" | split: "," %}
+<div class ="image-gallery">
+{% for name in imageNames %}
+    <div class="box">
+      <img src="{{ name  | prepend: "/assets/images/2018/06/" |  prepend: site.baseurl | prepend: site.url }} " alt="{{ name }}"  class="img-gallery" />
+    </div>
+ {% endfor %}
+</div> -->
+
+
 <table>
 <tbody>
 <tr>
-<td>
+<td style = "width:50%">
 
-<figure class = "portrait">
+<figure> 
 	<img src="{{"/assets/images/2018/06/DSC06879.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>A Black Madonna in the Cathedral at Puy-en-Velay.</em></figcaption>
 </figure>
 
 </td>
-<td>
+<td style = "width:50%">
 
-<figure class = "portrait">
+<figure>
 	<img src="{{"/assets/images/2018/06/DSC06936-e1529504594460.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Black madonna in the old Romanesque church in Clermont-Ferrand. Yes, it's that tiny thing in the middle. This one was in the crypt, below the current altar. Evidently, this was the original altar of the church.</em></figcaption>
 </figure>
@@ -131,4 +140,5 @@ A sidelight: here are two pictures from churches in Clermont-Ferrand and Puy-en-
 </tr>
 </tbody>
 </table>
-With that, I'll close up my posts on our first ramble (two weeks after we returned!) We had a great time, saw lots of new, interesting and beautiful things, and ate like monarchy. I have no doubt we will return to this area in southern France again; we barely scratched the surface of things we want to do and see here.
+
+With that, I’ll close up my posts on our first ramble (two weeks after we returned!) We had a great time, saw lots of new, interesting and beautiful things, and ate like monarchy. I have no doubt we will return to this area in southern France again; we barely scratched the surface of things we want to do and see here.
