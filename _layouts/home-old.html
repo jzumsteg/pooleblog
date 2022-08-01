@@ -21,13 +21,12 @@ layout: default
       {%- endif -%}
     </div>
 
-  {{ post.excerpt | strip_html | truncatewords: 80 }}
-    <a href="{{ post.url | relative_url }}">
-      <em>(Click title or here to see full post)) </em>
-    </a>
+    {% assign arefstr = '<a href = "{{ post.url | relative_url }}"></a>' %}
+    arefstr = {{ arefstr }}
+
   </section>
   {% endfor %}
-  {%- if jekyll.environment == "production" and site.disqus -%}
+  {%- if jekyll.environment == "production" and site.disqus -%} 
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
   {%- endif -%}
 </div>

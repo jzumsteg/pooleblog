@@ -1,8 +1,8 @@
 # Setup
-title: Travels with the Zums
-description: A rambling and random blog about our travels. Please join us....
+title: Verbtrainers
+description: Learn all those verb forms in French, Spanish, Italian or German
 url: 'https://jzumsteg.github.io'
-baseurl: '/blog'
+baseurl: '/verbtrainers-poole'
 # url: ''
 # baseurl: ''
 avatar: /assets/icons/cv.jpg
